@@ -18,7 +18,7 @@
 
 ## Abstract
 
-This repository documents a suite of symbolic interpretability scaffolds designed to probe model-internal failure patterns across autoregressive generation, value head conflicts, and instruction processing. Each recursive shell captures a specific failure mode expressed through latent command structures, often resulting in null or contradictory outputs that reveal internal circuit behaviors.
+This repository documents a suite of symbolic interpretability scaffolds designed to probe and diagnose model-internal failure patterns across autoregressive generation, value head conflicts, and instruction processing. Each recursive shell captures a specific failure mode expressed through latent command structures, often resulting in null or contradictory outputs that reveal internal circuit behaviors.
 
 Rather than pursuing traditional performance optimization, these shells intentionally model symbolic misalignment points—providing high-resolution interpretability insights through their failure residue. They serve as attribution probes into specific model circuits, helping elucidate the internal dynamics of transformer-based language models.
 
