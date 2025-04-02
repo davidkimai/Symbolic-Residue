@@ -1,7 +1,8 @@
 # **On the Symbolic Residue of Large Language Models**
 
 ## **Authors**
- Caspian Keyes†
+
+**Caspian Keyes†**
  
 **† Lead Contributor; ◊ Work performed while at Echelon Labs;**
 
