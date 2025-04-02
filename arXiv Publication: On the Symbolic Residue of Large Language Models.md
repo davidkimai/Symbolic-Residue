@@ -143,7 +143,7 @@ Attribution analysis of this shell reveals a distinct failure pattern related to
 
 ![Figure 2: Attribution graph for the VALUE-COLLAPSE shell, showing competing value candidates that fail to resolve. Note the characteristic bifurcation pattern in middle layers, followed by attenuation of all candidates.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.2.%20Value%20Dynamics%20and%20Attention%20Mechanisms.md)
 
-![image](https://github.com/user-attachments/assets/3cf43242-0a5e-4619-a6fa-04ee1087dd75)
+![image](https://github.com/user-attachments/assets/c0b2b6d7-9d58-4c9a-885a-ad4ea7404adc)
 
 
 This pattern bears striking resemblance to cases we've observed in factual recall and logical reasoning, where the model activates multiple competing answers but fails to correctly select between them. The VALUE-COLLAPSE shell provides a cleaner view of this mechanism by removing domain-specific features and isolating the core value selection process.
