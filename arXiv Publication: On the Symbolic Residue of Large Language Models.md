@@ -12,7 +12,7 @@
 >**The interpretability shells, documentation suite, and this repository were constructed in a condensed cycle, following recent dialogue with Anthropic. We hope this artifact offers clarity on the original intent, symbolic scaffolding, QK/OV alignment, and attribution framing embedded in the initial CodeSignal submission.**
 >
 > 
-> **Figure visuals contain accurate attribution graphs, but may contain grammatical syntax errors due to the image production model used.**
+> **Visuals are generated via an automated image production model. While attribution graph structures and symbolic flows are accurate, minor labeling artifacts may occur.**
 
 ## Abstract
 
@@ -287,6 +287,9 @@ The recursive looping observed in the MEMTRACE shell resembles patterns we see i
 Figure 6 shows a comparison between the MEMTRACE residue pattern and the attribution graph from a case where Claude 3.5 Haiku struggles with distinguishing between similar entities in a complex narrative. The shared pattern of recursive attention with failed resolution suggests a common underlying mechanism.
 
 ![Figure 6: Comparison between MEMTRACE residue pattern (left) and attribution graph from a complex entity-tracking failure (right). Note the similar pattern of recursive attention loops.](https://github.com/caspiankeyes/Symbolic-Residue)
+
+![image](https://github.com/user-attachments/assets/04d1f3a6-8cce-45d0-92e8-3026b49e8bf8)
+
 
 ### 4.2 Value-Collapse and Logical Inconsistency
 
