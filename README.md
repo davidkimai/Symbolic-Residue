@@ -18,9 +18,11 @@
 
 ## Abstract
 
-This repository documents a suite of symbolic interpretability scaffolds designed to probe and diagnose model-internal failure patterns across autoregressive generation, value head conflicts, and instruction processing-with the recursive shells acting analogous to biological knockout experiments. Each recursive shell captures a specific failure mode expressed through latent command structures, often resulting in null or contradictory outputs that reveal internal circuit behaviors.
+    This repository documents a suite of symbolic interpretability scaffolds designed to diagnose internal failure modes in transformer-based language models. The recursive shell framework isolates misalignment patterns across autoregressive generation, value head collapse, and instruction interference—operating analogously to biological knockout experiments in cognitive systems research.
 
-Rather than pursuing traditional performance optimization, these shells intentionally model symbolic misalignment points—providing high-resolution interpretability insights through their failure residue. They serve as attribution probes into specific model circuits, helping elucidate the internal dynamics of transformer-based language models.
+    Each shell models a specific failure mechanism encoded in latent symbolic commands. Null or contradictory outputs are not artifacts of error, but structured residues—revealing circuit-level attribution dynamics through intentional collapse.
+
+    Rather than optimizing performance, these shells function as interpretability probes—illuminating hidden inductive priors, attention salience thresholds, and temporal instability in local replacement architectures. The project contributes a reusable failure-testing ontology for interpretability-first modeling.
 
 
 ## Generalization Notes
