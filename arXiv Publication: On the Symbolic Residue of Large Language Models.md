@@ -12,7 +12,7 @@
 >**The interpretability shells, documentation suite, and this repository were constructed in a condensed cycle, following recent dialogue with Anthropic. We hope this artifact offers clarity on the original intent, symbolic scaffolding, QK/OV alignment, and attribution framing embedded in the initial CodeSignal submission.**
 >
 > 
-> **Visuals are being generated via an automated image production model. While attribution graph structures and symbolic flows are accurate, minor labeling artifacts may occur.**
+> **Visuals are generated via an automated image production model. While attribution graph structures and symbolic flows are accurate, minor labeling artifacts may occur.**
 
 ## Abstract
 
