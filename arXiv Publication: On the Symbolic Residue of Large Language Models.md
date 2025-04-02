@@ -310,6 +310,9 @@ Figure 8 compares the LAYER-SALIENCE residue with an attribution graph from a ca
 
 ![Figure 8: Comparison between LAYER-SALIENCE residue pattern (left) and attribution graph from an information forgetting case (right). Note the similar pattern of signal attenuation in middle layers.](symbolic_figure_placeholder)
 
+![image](https://github.com/user-attachments/assets/e374e152-2ba5-4178-90e7-091361fa83cb)
+
+
 ### 4.4 Temporal-Inference and Prediction Failures
 
 The temporal dislocation observed in the TEMPORAL-INFERENCE shell parallels failures in tasks requiring temporal reasoning or prediction. When models need to reason about sequences, cause-effect relationships, or future states, we sometimes observe similar dissociations between temporal anchoring and prediction features.
@@ -328,6 +331,9 @@ The instruction conflict collapse observed in the INSTRUCTION-DISRUPTION shell r
 Figure 10 compares the INSTRUCTION-DISRUPTION residue with an attribution graph from a case where Claude 3.5 Haiku produces an inconsistent response to a prompt with competing instructions. The similar pattern of mutual inhibition among instruction features suggests a common mechanism underlying instruction conflict failures.
 
 ![Figure 10: Comparison between INSTRUCTION-DISRUPTION residue pattern (left) and attribution graph from an instruction conflict case (right). Note the similar pattern of competing instruction features with mutual inhibition.](https://github.com/caspiankeyes/Symbolic-Residue)
+
+![image](https://github.com/user-attachments/assets/c118036f-d3ae-4a83-b98e-19d1b7b8263d)
+
 
 ## 5 Symbolic Residue in Complex Model Behaviors
 
