@@ -10,12 +10,10 @@
 
 **† Lead Contributor; ◊ Work performed while at Echelon Labs;**
  
- >**Although this repository lists only one public author, the recursive shell architecture and symbolic scaffolding were developed through extensive iterative refinement. We retain the collective 'we' voice to reflect the distributed cognition inherent to interpretability research—even when contribution patterns are asymmetric.**
+> **Although this publication lists only one public author, the recursive shell architecture and symbolic scaffolding were developed through extensive iterative refinement informed by internal stress-testing logs and behavioral diagnostics of Claude models. We retain the collective 'we' voice to reflect the distributed cognition inherent to interpretability research—even when contribution patterns are asymmetric or anonymized due to institutional agreements.**
 >
->
->
->
->**The interpretability shells, documentation suite, and this repository were constructed in a condensed cycle, following recent dialogue with Anthropic. We hope this artifact offers clarity on the original intent, symbolic scaffolding, QK/OV alignment, and attribution framing embedded in the initial CodeSignal submission.**
+> 
+>**This interpretability suite—comprising recursive shells, documentation layers, and symbolic mappings—was constructed in a condensed cycle following recent dialogue with Anthropic. We offer this artifact in the spirit of epistemic alignment: to clarify the original intent, QK/OV structuring, and attribution dynamics embedded in the initial CodeSignal submission.**
 
 
 ## Abstract
