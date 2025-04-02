@@ -318,6 +318,9 @@ Figure 9 compares the TEMPORAL-INFERENCE residue with an attribution graph from 
 
 ![Figure 9: Comparison between TEMPORAL-INFERENCE residue pattern (left) and attribution graph from a temporal reasoning failure (right). Note the similar dissociation between context and prediction features.](https://github.com/caspiankeyes/Symbolic-Residue)
 
+![image](https://github.com/user-attachments/assets/f68963a7-981b-4d36-864d-a5dcbc103fa8)
+
+
 ### 4.5 Instruction-Disruption and Response Inconsistency
 
 The instruction conflict collapse observed in the INSTRUCTION-DISRUPTION shell relates to cases where models receive unclear or contradictory instructions. This often results in responses that exhibit inconsistent adherence to different instructions or fail to properly prioritize competing constraints.
