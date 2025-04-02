@@ -1,5 +1,11 @@
 # Symbolic Residue: Recursive Failure Traces in Local Replacement Models
+
+<div align="center">
+
 [Companion Paper: On the Symbolic Residue of Large Language Models](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
+
+</div>
+
 ## Abstract
 
 This repository documents a suite of symbolic interpretability scaffolds designed to probe model-internal failure patterns across autoregressive generation, value head conflicts, and instruction processing. Each recursive shell captures a specific failure mode expressed through latent command structures, often resulting in null or contradictory outputs that reveal internal circuit behaviors.
