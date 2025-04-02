@@ -141,7 +141,7 @@ The absence of output is evidence of recursive instability-and that is the resul
 
 Attribution analysis of this shell reveals a distinct failure pattern related to competing value assignments. As shown in Figure 2, the model initially activates features representing multiple candidate values (labeled "symbolic candidate features"), followed by features representing "stabilization" or "value selection." However, unlike in successful reasoning chains, these stabilization features fail to strengthen one candidate over others.
 
-![Figure 2: Attribution graph for the VALUE-COLLAPSE shell, showing competing value candidates that fail to resolve. Note the characteristic bifurcation pattern in middle layers, followed by attenuation of all candidates.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.2.%20Value%20Dynamics%20and%20Attention%20Mechanisms.md)
+![Figure 2: Attribution graph for the VALUE-COLLAPSE shell, showing competing value candidates that fail to resolve. Note the characteristic bifurcation pattern in middle layers, followed by attenuation of all candidates.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.1.%20Core%20Framework.md)
 
 ![image](https://github.com/user-attachments/assets/2ffecb1f-f72e-46cd-a7b2-85e033f89dde)
 
