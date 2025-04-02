@@ -1,4 +1,4 @@
-# Symbolic Residue: Diagnose Recursive Failure Traces in Local Replacement Models
+# Symbolic Residue: Diagnose Failure Traces in Local Replacement Models
 
 <div align="center">
 
