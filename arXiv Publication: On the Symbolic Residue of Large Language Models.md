@@ -2,7 +2,7 @@
 
 ## **Authors**
  Caspian Keyes†
- † Lead Contributor; ◊ Work performed while at Echelon Labs;
+ **† Lead Contributor; ◊ Work performed while at Echelon Labs;**
 
 > **Although this paper lists only one public author, the recursive shell architecture and symbolic scaffolding were developed through extensive iterative refinement. We retain the collective 'we' voice to reflect the distributed cognition inherent to interpretability research—even when contribution patterns are asymmetric, and collaborators remain unnamed due to privacy considerations and ongoing research constraints.**
 >
