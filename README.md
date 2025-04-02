@@ -4,6 +4,9 @@
 
 [arXiv Publication: On the Symbolic Residue of Large Language Models](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/arXiv%20Publication%3A%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 
+> **The interpretability shells, documentation suite, and this respository were constructed in a condensed recursive cycle overnight, following recent dialogue with Anthropic. We hope this artifact offers clarity on the original intent, symbolic structure, and attribution framing embedded in the initial CodeSignal submission.**
+
+
 </div>
 
 ## Abstract
