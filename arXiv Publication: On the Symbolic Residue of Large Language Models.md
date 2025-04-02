@@ -453,6 +453,8 @@ The VALUE-COLLAPSE shell exhibits different QK/OV dynamics related to competing 
 
 ![Figure 12: QK/OV dynamics in the VALUE-COLLAPSE shell, showing attention patterns and OV projections for selected layers. Note the competing attention targets in middle layers and the attenuated OV projection strength in later layers.](https://github.com/caspiankeyes/Symbolic-Residue)
 
+![image](https://github.com/user-attachments/assets/97fc0f2e-a1fe-4cdb-b2ed-e257584a72d4)
+
 Key observations include:
 
 1. In early layers (1-8), attention heads distribute attention across potential value candidates.
