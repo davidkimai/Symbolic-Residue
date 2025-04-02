@@ -110,7 +110,7 @@ In examining the attribution graph (Figure 1), we observe that features related 
 
 ![Figure 1: Attribution graph for the MEMTRACE shell, showing recursive activation loop. Blue nodes represent memory-related features, orange nodes represent command processing features, and red connections indicate recursive activation patterns that fail to resolve.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/d4b9858f-7d10-4ee9-b138-a095a218f171)
+![image](https://github.com/user-attachments/assets/163441a1-77d9-4c7e-8fc8-ab25b221350e)
 
 
 Particularly interesting is the pattern of attention disruption we observe. In layers 8-12, attention heads that typically connect command tokens to their referents exhibit unusual behavior—they attend primarily to tokens within the "RECALL" command itself rather than to the broader context. This creates a form of "attention trapping" where the model's computation becomes stuck in a local region of the context.
