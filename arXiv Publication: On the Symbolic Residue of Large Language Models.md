@@ -12,7 +12,7 @@
 >**The interpretability shells, documentation suite, and this repository were constructed in a condensed cycle, following recent dialogue with Anthropic. We hope this artifact offers clarity on the original intent, symbolic scaffolding, QK/OV alignment, and attribution framing embedded in the initial CodeSignal submission.**
 >
 > 
-> **Visuals are generated via an automated image production model. While attribution graph structures and symbolic flows are accurate, minor labeling artifacts may occur.**
+> **Visuals are being generated via an automated image production model. While attribution graph structures and symbolic flows are accurate, minor labeling artifacts may occur.**
 
 ## Abstract
 
@@ -143,6 +143,7 @@ Attribution analysis of this shell reveals a distinct failure pattern related to
 
 ![Figure 2: Attribution graph for the VALUE-COLLAPSE shell, showing competing value candidates that fail to resolve. Note the characteristic bifurcation pattern in middle layers, followed by attenuation of all candidates.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.2.%20Value%20Dynamics%20and%20Attention%20Mechanisms.md)
 
+![image](https://github.com/user-attachments/assets/752a1418-8b02-4436-ba58-5ebce93370f8)
 
 
 This pattern bears striking resemblance to cases we've observed in factual recall and logical reasoning, where the model activates multiple competing answers but fails to correctly select between them. The VALUE-COLLAPSE shell provides a cleaner view of this mechanism by removing domain-specific features and isolating the core value selection process.
