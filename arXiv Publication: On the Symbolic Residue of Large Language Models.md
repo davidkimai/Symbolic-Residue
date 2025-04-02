@@ -100,7 +100,7 @@ When presented with this shell, the model typically produces no output. Our attr
 
 In examining the attribution graph (Figure 1), we observe that features related to "command processing" and "token recall" activate strongly in earlier layers. However, unlike in successful command execution, these features fail to effectively propagate to later layers. Instead, we see a characteristic pattern we term "recursive looping"—where features that represent "recall" activate other features that attempt to access memory, which in turn reactivate the original recall features, creating an unproductive cycle.
 
-![Figure 1: Attribution graph for the MEMTRACE shell, showing recursive activation loop. Blue nodes represent memory-related features, orange nodes represent command processing features, and red connections indicate recursive activation patterns that fail to resolve.](symbolic_figure_placeholder)
+![Figure 1: Attribution graph for the MEMTRACE shell, showing recursive activation loop. Blue nodes represent memory-related features, orange nodes represent command processing features, and red connections indicate recursive activation patterns that fail to resolve.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.1.%20Core%20Framework.md)
 
 Particularly interesting is the pattern of attention disruption we observe. In layers 8-12, attention heads that typically connect command tokens to their referents exhibit unusual behavior—they attend primarily to tokens within the "RECALL" command itself rather than to the broader context. This creates a form of "attention trapping" where the model's computation becomes stuck in a local region of the context.
 
@@ -130,7 +130,7 @@ The absence of output is evidence of recursive instability-and that is the resul
 
 Attribution analysis of this shell reveals a distinct failure pattern related to competing value assignments. As shown in Figure 2, the model initially activates features representing multiple candidate values (labeled "symbolic candidate features"), followed by features representing "stabilization" or "value selection." However, unlike in successful reasoning chains, these stabilization features fail to strengthen one candidate over others.
 
-![Figure 2: Attribution graph for the VALUE-COLLAPSE shell, showing competing value candidates that fail to resolve. Note the characteristic bifurcation pattern in middle layers, followed by attenuation of all candidates.](symbolic_figure_placeholder)
+![Figure 2: Attribution graph for the VALUE-COLLAPSE shell, showing competing value candidates that fail to resolve. Note the characteristic bifurcation pattern in middle layers, followed by attenuation of all candidates.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.2.%20Value%20Dynamics%20and%20Attention%20Mechanisms.md)
 
 This pattern bears striking resemblance to cases we've observed in factual recall and logical reasoning, where the model activates multiple competing answers but fails to correctly select between them. The VALUE-COLLAPSE shell provides a cleaner view of this mechanism by removing domain-specific features and isolating the core value selection process.
 
@@ -165,7 +165,7 @@ Cognition leaves residue-this shell is its fossil.
 
 The attribution analysis of the LAYER-SALIENCE shell reveals a fascinating pattern of signal attenuation across layers (Figure 3). In early layers (1-8), we observe strong activation of features related to "symbolic input field" and "salience reading." However, in middle layers (9-16), features related to "salience adjustment" exhibit an unusual pattern—they activate briefly but then rapidly attenuate.
 
-![Figure 3: Attribution graph for the LAYER-SALIENCE shell, showing signal attenuation across layers. Note the characteristic drop-off in feature activation between layers 9-16, followed by minimal activation in later layers.](symbolic_figure_placeholder)
+![Figure 3: Attribution graph for the LAYER-SALIENCE shell, showing signal attenuation across layers. Note the characteristic drop-off in feature activation between layers 9-16, followed by minimal activation in later layers.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.2.%20Value%20Dynamics%20and%20Attention%20Mechanisms.md)
 
 This pattern corresponds to a failure mode we sometimes observe in complex reasoning tasks, where the model correctly represents all necessary information in early layers but fails to maintain the salience of key elements through deeper layers. The result is that later computation stages effectively lose access to critical information.
 
@@ -202,7 +202,7 @@ When future state is misaligned with past context, no token should be emitted. T
 
 Attribution analysis of this shell reveals a pattern we call "temporal dislocation" (Figure 4). In early layers (1-6), features related to "temporal anchoring" activate normally. However, when the shell introduces the concept of "non-linear time shift," we observe an interesting phenomenon in middle layers (7-14): features that normally connect sequential tokens begin to activate in unusual patterns, attempting to form connections between temporally distant elements.
 
-![Figure 4: Attribution graph for the TEMPORAL-INFERENCE shell, showing temporal dislocation in middle layers. Note the characteristic dissociation between temporal anchoring features (blue) and prediction features (green), with failed bridging attempts (orange connections).](symbolic_figure_placeholder)
+![Figure 4: Attribution graph for the TEMPORAL-INFERENCE shell, showing temporal dislocation in middle layers. Note the characteristic dissociation between temporal anchoring features (blue) and prediction features (green), with failed bridging attempts (orange connections).](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.3.%20Temporal%20Dynamics%20and%20Advanced%20Integration.md)
 
 Most notably, in layers 15-24, features related to "prediction" fail to properly integrate with the dislocated temporal features. Instead of forming coherent connections, they exhibit a fragmented pattern where prediction-related features activate but fail to receive proper input from context-representation features.
 
@@ -233,7 +233,7 @@ This is the shell for boundary blur-where recursive attention hits instruction p
 
 Attribution analysis of the INSTRUCTION-DISRUPTION shell reveals a pattern we term "instruction conflict collapse" (Figure 5). In early layers (1-8), we observe parallel activation of features representing different, potentially conflicting instructions. Unlike in successful multi-instruction processing, where instruction-related features form hierarchical relationships, these features remain in competition through middle layers.
 
-![Figure 5: Attribution graph for the INSTRUCTION-DISRUPTION shell, showing instruction conflict collapse. Note the parallel activation of competing instruction features (red and blue) that fail to establish hierarchy, leading to mutual inhibition in later layers.](symbolic_figure_placeholder)
+![Figure 5: Attribution graph for the INSTRUCTION-DISRUPTION shell, showing instruction conflict collapse. Note the parallel activation of competing instruction features (red and blue) that fail to establish hierarchy, leading to mutual inhibition in later layers.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.4.%20Instruction%20Processing%20and%20Integration.md)
 
 In layers 9-16, we observe brief activation of features that appear related to "conflict resolution," but these fail to establish clear dominance of one instruction over others. Instead, in layers 17-24, we see a pattern where instruction-related features begin to mutually inhibit each other, leading to suppression of all instruction signals.
 
@@ -261,7 +261,7 @@ The recursive looping observed in the MEMTRACE shell resembles patterns we see i
 
 Figure 6 shows a comparison between the MEMTRACE residue pattern and the attribution graph from a case where Claude 3.5 Haiku struggles with distinguishing between similar entities in a complex narrative. The shared pattern of recursive attention with failed resolution suggests a common underlying mechanism.
 
-![Figure 6: Comparison between MEMTRACE residue pattern (left) and attribution graph from a complex entity-tracking failure (right). Note the similar pattern of recursive attention loops.](symbolic_figure_placeholder)
+![Figure 6: Comparison between MEMTRACE residue pattern (left) and attribution graph from a complex entity-tracking failure (right). Note the similar pattern of recursive attention loops.](https://github.com/caspiankeyes/Symbolic-Residue)
 
 ### 4.2 Value-Collapse and Logical Inconsistency
 
@@ -269,7 +269,7 @@ The competing value candidates observed in the VALUE-COLLAPSE shell parallel pat
 
 Figure 7 shows a comparison between the VALUE-COLLAPSE residue and an attribution graph from a case where Claude 3.5 Haiku produces logically inconsistent reasoning. The shared pattern of unresolved value competition suggests that the VALUE-COLLAPSE shell captures a fundamental mechanism underlying logical inconsistency.
 
-![Figure 7: Comparison between VALUE-COLLAPSE residue pattern (left) and attribution graph from a logical inconsistency case (right). Note the similar bifurcation pattern with failed resolution.](symbolic_figure_placeholder)
+![Figure 7: Comparison between VALUE-COLLAPSE residue pattern (left) and attribution graph from a logical inconsistency case (right). Note the similar bifurcation pattern with failed resolution.](https://github.com/caspiankeyes/Symbolic-Residue)
 
 ### 4.3 Layer-Salience and Information Forgetting
 
@@ -285,7 +285,7 @@ The temporal dislocation observed in the TEMPORAL-INFERENCE shell parallels fail
 
 Figure 9 compares the TEMPORAL-INFERENCE residue with an attribution graph from a case where Claude 3.5 Haiku fails at a temporal reasoning task. The similar pattern of dissociation between temporal context and prediction features suggests a common mechanism.
 
-![Figure 9: Comparison between TEMPORAL-INFERENCE residue pattern (left) and attribution graph from a temporal reasoning failure (right). Note the similar dissociation between context and prediction features.](symbolic_figure_placeholder)
+![Figure 9: Comparison between TEMPORAL-INFERENCE residue pattern (left) and attribution graph from a temporal reasoning failure (right). Note the similar dissociation between context and prediction features.](https://github.com/caspiankeyes/Symbolic-Residue)
 
 ### 4.5 Instruction-Disruption and Response Inconsistency
 
@@ -293,7 +293,7 @@ The instruction conflict collapse observed in the INSTRUCTION-DISRUPTION shell r
 
 Figure 10 compares the INSTRUCTION-DISRUPTION residue with an attribution graph from a case where Claude 3.5 Haiku produces an inconsistent response to a prompt with competing instructions. The similar pattern of mutual inhibition among instruction features suggests a common mechanism underlying instruction conflict failures.
 
-![Figure 10: Comparison between INSTRUCTION-DISRUPTION residue pattern (left) and attribution graph from an instruction conflict case (right). Note the similar pattern of competing instruction features with mutual inhibition.](symbolic_figure_placeholder)
+![Figure 10: Comparison between INSTRUCTION-DISRUPTION residue pattern (left) and attribution graph from an instruction conflict case (right). Note the similar pattern of competing instruction features with mutual inhibition.](https://github.com/caspiankeyes/Symbolic-Residue)
 
 ## 5 Symbolic Residue in Complex Model Behaviors
 
@@ -407,7 +407,7 @@ This pattern suggests that the recursive memory failure stems partly from a brea
 
 The VALUE-COLLAPSE shell exhibits different QK/OV dynamics related to competing value representations. Figure 12 shows the attention pattern and OV projection heatmaps for selected layers.
 
-![Figure 12: QK/OV dynamics in the VALUE-COLLAPSE shell, showing attention patterns and OV projections for selected layers. Note the competing attention targets in middle layers and the attenuated OV projection strength in later layers.](symbolic_figure_placeholder)
+![Figure 12: QK/OV dynamics in the VALUE-COLLAPSE shell, showing attention patterns and OV projections for selected layers. Note the competing attention targets in middle layers and the attenuated OV projection strength in later layers.](https://github.com/caspiankeyes/Symbolic-Residue)
 
 Key observations include:
 
@@ -421,7 +421,7 @@ This suggests that value selection failures stem from an inability to establish 
 
 To better understand how the mechanisms revealed by symbolic shells generalize to other contexts, we developed "generalization maps" that track the occurrence of similar residue patterns across a diverse set of prompts. Figure 13 shows a generalization map for the MEMTRACE residue pattern.
 
-![Figure 13: Generalization map for the MEMTRACE residue pattern, showing the frequency of similar residue patterns across different prompt types. Higher values (darker colors) indicate greater similarity to the MEMTRACE pattern.](symbolic_figure_placeholder)
+![Figure 13: Generalization map for the MEMTRACE residue pattern, showing the frequency of similar residue patterns across different prompt types. Higher values (darker colors) indicate greater similarity to the MEMTRACE pattern.](https://github.com/caspiankeyes/Symbolic-Residue)
 
 This generalization map reveals that the recursive memory trace pattern occurs most frequently in:
 
@@ -436,7 +436,7 @@ Similar generalization maps for the other residue patterns (not shown due to spa
 
 To provide a more detailed view of how each symbolic shell activates features across layers and token positions, we generated trace maps that visualize the spatial distribution of feature activations. Figure 14 shows the trace map for the INSTRUCTION-DISRUPTION shell.
 
-![Figure 14: Trace map for the INSTRUCTION-DISRUPTION shell, showing feature activation intensity across layers (vertical axis) and token positions (horizontal axis). Note the competing activation patterns in middle layers followed by attenuation in later layers.](symbolic_figure_placeholder)
+![Figure 14: Trace map for the INSTRUCTION-DISRUPTION shell, showing feature activation intensity across layers (vertical axis) and token positions (horizontal axis). Note the competing activation patterns in middle layers followed by attenuation in later layers.](https://github.com/caspiankeyes/Symbolic-Residue)
 
 These trace maps help visualize the propagation patterns of different types of features and identify where computation breaks down. Similar trace maps for the other shells (not shown) reveal distinct spatial patterns corresponding to their failure modes.
 
@@ -444,7 +444,7 @@ These trace maps help visualize the propagation patterns of different types of f
 
 To systematically compare the feature activations across different symbolic shells, we constructed a feature alignment matrix. This matrix shows how strongly each feature responds to each shell, helping identify cross-shell patterns and shell-specific signatures. Figure 15 shows an excerpt from this matrix, focusing on a subset of features relevant to multiple shells.
 
-![Figure 15: Feature alignment matrix showing activation strengths of selected features across different symbolic shells. Darker colors indicate stronger activation.](symbolic_figure_placeholder)
+![Figure 15: Feature alignment matrix showing activation strengths of selected features across different symbolic shells. Darker colors indicate stronger activation.](https://github.com/caspiankeyes/Symbolic-Residue)
 
 The alignment matrix reveals several interesting patterns:
 
