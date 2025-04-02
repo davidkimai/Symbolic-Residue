@@ -435,6 +435,10 @@ In the MEMTRACE shell, we observe distinct patterns in QK/OV dynamics that contr
 
 ![Figure 11: QK/OV dynamics in the MEMTRACE shell, showing attention pattern heatmaps for selected heads across layers. Note the characteristic self-attention loops in middle layers.](symbolic_figure_placeholder)
 
+![image](https://github.com/user-attachments/assets/f9446223-b154-470c-9675-251fc62caf24)
+
+
+
 Key observations include:
 
 1. In early layers (1-4), attention heads distribute attention normally across the context, with some focus on command tokens.
