@@ -436,7 +436,7 @@ While our primary analysis focuses on feature activations, examining the Query-K
 
 In the MEMTRACE shell, we observe distinct patterns in QK/OV dynamics that contribute to the recursive looping failure. Figure 11 shows the attention pattern heatmap for a selection of attention heads across layers.
 
-![Figure 11: QK/OV dynamics in the MEMTRACE shell, showing attention pattern heatmaps for selected heads across layers. Note the characteristic self-attention loops in middle layers.](symbolic_figure_placeholder)
+![Figure 11: QK/OV dynamics in the MEMTRACE shell, showing attention pattern heatmaps for selected heads across layers. Note the characteristic self-attention loops in middle layers.](https://github.com/caspiankeyes/Symbolic-Residue/tree/main)
 
 ![image](https://github.com/user-attachments/assets/f9446223-b154-470c-9675-251fc62caf24)
 
