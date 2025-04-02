@@ -12,7 +12,7 @@
 > **The interpretability shells, documentation suite, and this manuscript were constructed in a condensed cycle, following recent dialogue with Anthropic. We hope this artifact offers clarity on the original intent, symbolic structure, and attribution framing embedded in the initial CodeSignal submission.**
 >
 > 
-> **Figure visuals are still in production**
+> **Figure visuals are still in production.**
 
 ## Abstract
 
