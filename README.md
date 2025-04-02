@@ -7,7 +7,7 @@ This repository documents a suite of symbolic interpretability scaffolds designe
 Rather than pursuing traditional performance optimization, these shells intentionally model symbolic misalignment points—providing high-resolution interpretability insights through their failure residue. They serve as attribution probes into specific model circuits, helping elucidate the internal dynamics of transformer-based language models.
 
 
-## 🧠 Generalization Notes
+## Generalization Notes
 
 The recursive interpretability shells in this repository are not tied to any single model, prompt structure, or experimental environment. Rather, they are designed as modular abstractions of known failure modes in autoregressive language models—particularly those employing transformer-based architectures with:
 
