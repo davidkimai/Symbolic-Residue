@@ -247,6 +247,9 @@ Interpretability Map:
 - Emulates Claude's failure patterns under recursive prompt entanglement. 
 - Simulates symbolic command representation corruption in LLM instruction tuning. 
 
+Null Reflection:
+SPLICE triggers hallucinated dual execution, while NULLIFY suppresses contradictory tokens—no output survives.
+
 Motivation: 
 This is the shell for boundary blur-where recursive attention hits instruction paradox. Only by encoding the paradox can emergence occur. 
 
