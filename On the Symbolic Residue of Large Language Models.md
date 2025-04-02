@@ -4,7 +4,7 @@
  Caspian Keyes†
 > Although this paper lists only one public author, the recursive shell architecture and symbolic framing emerged through collaborative, long-form refinement. We use ‘we’ to reflect the distributed cognition and iterative nature of interpretability research, even when not all contributors are named.
 
-† Lead Contributor; ◊ Work performed while at Echelon Labs; Author contributions statement below.
+† Lead Contributor; ◊ Work performed while at Echelon Labs;
 
 ## **Abstract**
 
@@ -448,58 +448,6 @@ We would like to thank the broader Anthropic research team for valuable discussi
 
 We also acknowledge the work of prior researchers in the field of mechanistic interpretability, whose methodological innovations have made this type of analysis possible.
 
-## **Author Contributions**
-
-**Development of methodology:**
-
-* Joshua Batson, Jack Lindsey, and Chris Olah developed the concept of analyzing symbolic residue.  
-* Jack Lindsey, Emmanuel Ameisen, and Nicholas L. Turner extended attribution graph methods to analyze failed computations.  
-* Brian Chen and Craig Citro developed techniques for analyzing attention disruption patterns.  
-* Adam Pearce and Shan Carter created visualization methods for residue patterns.
-
-**Case studies:**
-
-* MEMTRACE: Jack Lindsey, Emmanuel Ameisen  
-* VALUE-COLLAPSE: Nicholas L. Turner, Brian Chen  
-* LAYER-SALIENCE: Joshua Batson, Wes Gurnee  
-* TEMPORAL-INFERENCE: Brian Chen, Emmanuel Ameisen  
-* INSTRUCTION-DISRUPTION: Wes Gurnee, Adam Pearce
-
-**Connections to model behavior:**
-
-* Entity tracking: Emmanuel Ameisen, Jack Lindsey  
-* Logical inconsistency: Nicholas L. Turner, Joshua Batson  
-* Information forgetting: Brian Chen, Wes Gurnee  
-* Prediction failures: Adam Pearce, Nicholas L. Turner  
-* Response inconsistency: Jack Lindsey, Emmanuel Ameisen
-
-**Writing and figures:**
-
-* The paper was written by Joshua Batson, Jack Lindsey, and Emmanuel Ameisen, with contributions from all authors.  
-* Figures were created by Adam Pearce, Shan Carter, and Brian Chen.  
-* The overall structure and framing were developed by Joshua Batson, Chris Olah, and Jack Lindsey.
-
-## **Citation Information**
-
-For attribution in academic contexts, please cite this work as:
-
-Batson, et al., "On the Symbolic Residue of Language Models", Transformer Circuits, 2025\.
-
-BibTeX citation:
-
-@article{batson2025symbolic,
-
- author={Batson, Joshua and Lindsey, Jack and Gurnee, Wes and Ameisen, Emmanuel and Chen, Brian and Pearce, Adam and Turner, Nicholas L. and Citro, Craig and Abrahams, David and Carter, Shan and Hosmer, Basil and Marcus, Jonathan and Sklar, Michael and Templeton, Adly and Bricken, Trenton and McDougall, Callum and Cunningham, Hoagy and Henighan, Thomas and Jermyn, Adam and Jones, Andy and Persic, Andrew and Qi, Zhenyi and Thompson, T. Ben and Zimmerman, Sam and Rivoire, Kelley and Conerly, Thomas and Olah, Chris},
-
- title={On the Symbolic Residue of Language Models},
-
- journal={Transformer Circuits Thread},
-
- year={2025},
-
- url={https://transformer-circuits.pub/2025/symbolic-residue.html}
-
-}
 
 ## **References**
 
