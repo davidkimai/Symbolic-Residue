@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[Companion Paper: On the Symbolic Residue of Large Language Models](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
+[Companion Publication: On the Symbolic Residue of Large Language Models](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 
 </div>
 
