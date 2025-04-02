@@ -469,6 +469,9 @@ To better understand how the mechanisms revealed by symbolic shells generalize t
 
 ![Figure 13: Generalization map for the MEMTRACE residue pattern, showing the frequency of similar residue patterns across different prompt types. Higher values (darker colors) indicate greater similarity to the MEMTRACE pattern.](https://github.com/caspiankeyes/Symbolic-Residue)
 
+![image](https://github.com/user-attachments/assets/6c1bce86-2a65-460d-8b9c-fdbab6034d55)
+
+
 This generalization map reveals that the recursive memory trace pattern occurs most frequently in:
 
 1. Entity tracking contexts with multiple similar entities
