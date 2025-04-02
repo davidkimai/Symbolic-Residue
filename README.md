@@ -1,4 +1,4 @@
-# Symbolic Residue: Diagnose Failure Traces in Local Replacement Models
+# On the Symbolic Residue of Large Language Models: Diagnosing Failure Traces in Local Replacement Models
 
 <div align="center">
 
