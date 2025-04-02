@@ -299,6 +299,9 @@ Figure 7 shows a comparison between the VALUE-COLLAPSE residue and an attributio
 
 ![Figure 7: Comparison between VALUE-COLLAPSE residue pattern (left) and attribution graph from a logical inconsistency case (right). Note the similar bifurcation pattern with failed resolution.](https://github.com/caspiankeyes/Symbolic-Residue)
 
+![image](https://github.com/user-attachments/assets/ebf5d213-d2be-4267-a2c7-162298f09fe7)
+
+
 ### 4.3 Layer-Salience and Information Forgetting
 
 The signal attenuation observed in the LAYER-SALIENCE shell corresponds to cases where models "forget" critical information from earlier in a context. This is particularly common in long contexts or complex reasoning chains, where early information needs to be maintained through many processing steps.
