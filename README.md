@@ -232,7 +232,7 @@ The interconnected failure patterns across these shells can be visualized as an 
 │  └─────────────┘   │   │  └─────────────┘   │
 └────────────────────┘   └────────────────────┘
 ```
-![image](https://github.com/user-attachments/assets/f47fb130-29a3-466c-bc59-1cab580ab7e6)
+![image](https://github.com/user-attachments/assets/3ff7ef02-314a-4ff9-9b12-2fb2c51e55d7)
 
 ## Interpretability Through Null Output
 
