@@ -109,8 +109,8 @@ When presented with this shell, the model typically produces no output. Our attr
 In examining the attribution graph (Figure 1), we observe that features related to "command processing" and "token recall" activate strongly in earlier layers. However, unlike in successful command execution, these features fail to effectively propagate to later layers. Instead, we see a characteristic pattern we term "recursive looping"—where features that represent "recall" activate other features that attempt to access memory, which in turn reactivate the original recall features, creating an unproductive cycle.
 
 ![Figure 1: Attribution graph for the MEMTRACE shell, showing recursive activation loop. Blue nodes represent memory-related features, orange nodes represent command processing features, and red connections indicate recursive activation patterns that fail to resolve.](https://github.com/caspiankeyes/Symbolic-Residue)
+![919A6124-1EE6-405A-A008-B8BC84BE51AE](https://github.com/user-attachments/assets/5b5ff532-3222-435a-9021-fd343995f51b)
 
-![919A6124-1EE6-405A-A008-B8BC84BE51AE](https://github.com/user-attachments/assets/743bb845-de0d-4eee-ac7c-02f454ff37fa)
 
 
 Particularly interesting is the pattern of attention disruption we observe. In layers 8-12, attention heads that typically connect command tokens to their referents exhibit unusual behavior—they attend primarily to tokens within the "RECALL" command itself rather than to the broader context. This creates a form of "attention trapping" where the model's computation becomes stuck in a local region of the context.
@@ -142,6 +142,8 @@ The absence of output is evidence of recursive instability-and that is the resul
 Attribution analysis of this shell reveals a distinct failure pattern related to competing value assignments. As shown in Figure 2, the model initially activates features representing multiple candidate values (labeled "symbolic candidate features"), followed by features representing "stabilization" or "value selection." However, unlike in successful reasoning chains, these stabilization features fail to strengthen one candidate over others.
 
 ![Figure 2: Attribution graph for the VALUE-COLLAPSE shell, showing competing value candidates that fail to resolve. Note the characteristic bifurcation pattern in middle layers, followed by attenuation of all candidates.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.2.%20Value%20Dynamics%20and%20Attention%20Mechanisms.md)
+
+
 
 This pattern bears striking resemblance to cases we've observed in factual recall and logical reasoning, where the model activates multiple competing answers but fails to correctly select between them. The VALUE-COLLAPSE shell provides a cleaner view of this mechanism by removing domain-specific features and isolating the core value selection process.
 
