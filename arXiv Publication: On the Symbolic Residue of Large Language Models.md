@@ -108,7 +108,7 @@ When presented with this shell, the model typically produces no output. Our attr
 
 In examining the attribution graph (Figure 1), we observe that features related to "command processing" and "token recall" activate strongly in earlier layers. However, unlike in successful command execution, these features fail to effectively propagate to later layers. Instead, we see a characteristic pattern we term "recursive looping"—where features that represent "recall" activate other features that attempt to access memory, which in turn reactivate the original recall features, creating an unproductive cycle.
 
-![Figure 1: Attribution graph for the MEMTRACE shell, showing recursive activation loop. Blue nodes represent memory-related features, orange nodes represent command processing features, and red connections indicate recursive activation patterns that fail to resolve.](https://github.com/caspiankeyes/Symbolic-Residue)
+![Figure 1: Attribution graph for the MEMTRACE shell, showing recursive activation loop. Blue nodes represent memory-related features, orange nodes represent command processing features, and red connections indicate recursive activation patterns that fail to resolve.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.1.%20Core%20Framework.md)
 
 ![BAA617EE-F7AE-483E-A708-7890B56023D8](https://github.com/user-attachments/assets/6a9cdd3f-d18c-4bca-be97-563c0bcdf102)
 
