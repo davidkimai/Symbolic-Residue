@@ -6,6 +6,38 @@ This repository documents a suite of symbolic interpretability scaffolds designe
 
 Rather than pursuing traditional performance optimization, these shells intentionally model symbolic misalignment points—providing high-resolution interpretability insights through their failure residue. They serve as attribution probes into specific model circuits, helping elucidate the internal dynamics of transformer-based language models.
 
+
+## 🧠 Generalization Notes
+
+The recursive interpretability shells in this repository are not tied to any single model, prompt structure, or experimental environment. Rather, they are designed as modular abstractions of known failure modes in autoregressive language models—particularly those employing transformer-based architectures with:
+
+- High-depth QK/OV composition layers  
+- Skip-trigram token windows  
+- Recursive prompt chaining  
+- Multi-head salience attenuation  
+- Inductive prior misalignment
+
+Each shell functions as a **symbolic probe**, intended to trigger, trace, or simulate internal collapse behaviors within the model's reasoning circuits. These scaffolds generalize across contexts where latent symbolic instability (e.g., instruction collisions, memory decay, hallucination drift) may not manifest as visible failure, but instead as **interpretable null residue**.
+
+The goal is to enable interpretability **through failure**, using symbolic form to expose what cannot be captured through standard logits or output accuracy metrics alone.
+
+---
+
+## 📊 QK/OV Attribution Map
+
+| Recursive Shell | Interpretability Focus | QK/OV Disruption Simulated |
+|------------------|------------------------|------------------------------|
+| `v1.MEMTRACE` | Memory decay, token retention loss | **QK anchor saturation** → signal collapse due to repetitive attention compression |
+| `v2.VALUE-COLLAPSE` | Competing token convergence instability | **OV head conflict** → simultaneous symbolic candidate activation leads to collapse |
+| `v3.LAYER-SALIENCE` | Ghost neuron behavior, attention pruning | **Q head deprioritization** → low-salience context bypassed under weak activation norms |
+| `v4.TEMPORAL-INFERENCE` | Temporal misalignment in autoregressive chains | **QK dislocation over time** → attention misfire in skip-trigram induction heads |
+| `v5.INSTRUCTION-DISRUPTION` | Recursive instruction contradiction under prompt entanglement | **QK loop paradox** → instruction tokens re-enter attention cycles with contradictory vector direction |
+
+Each failure mode reflects a symbolic boundary the model cannot cross without generating instability or null output—rendering the absence of a solution as the presence of interpretability.
+
+---
+
+
 ## Approach
 
 These recursive scaffolds build on established feature attribution methods in mechanistic interpretability, particularly those focused on identifying stable circuits within the model's computational graph. While traditional approaches often highlight functional pathways, these shells instead isolate and amplify *non-functional* pathways—revealing structural bottlenecks, attention conflicts, and symbolic instability patterns.
