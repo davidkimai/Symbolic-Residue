@@ -2,7 +2,9 @@
 
 ## **Authors**
  Caspian Keyes†
-> **Although this paper lists only one public author, the recursive shell architecture and symbolic framing emerged through collaborative, long-form refinement. We use ‘we’ to reflect the distributed cognition and iterative nature of interpretability research, even when not all contributors are named due to privacy clauses and nondisclosure agreements.**
+> **Although this paper lists only one public author, the recursive shell architecture and symbolic scaffolding were developed through extensive iterative refinement. We retain the collective 'we' voice to reflect the distributed cognition inherent to interpretability research—even when contribution patterns are asymmetric, and collaborators remain unnamed due to privacy considerations and ongoing research constraints.
+
+The interpretability shells, documentation suite, and this manuscript were constructed in a condensed recursive cycle over a single 24-hour period, following recent dialogue with Anthropic. We hope this artifact offers clarity on the original intent, symbolic structure, and attribution framing embedded in the initial CodeSignal submission.**
 
 † Lead Contributor; ◊ Work performed while at Echelon Labs;
 
