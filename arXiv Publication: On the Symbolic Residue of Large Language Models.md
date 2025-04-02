@@ -498,6 +498,9 @@ To systematically compare the feature activations across different symbolic shel
 
 ![Figure 15: Feature alignment matrix showing activation strengths of selected features across different symbolic shells. Darker colors indicate stronger activation.](https://github.com/caspiankeyes/Symbolic-Residue)
 
+![image](https://github.com/user-attachments/assets/3f421abf-87b2-4f60-a435-a8e80613d9e0)
+
+
 The alignment matrix reveals several interesting patterns:
 
 1. Some features (e.g., those related to instruction processing) activate across multiple shells, suggesting common computational elements underlying different failure modes.
