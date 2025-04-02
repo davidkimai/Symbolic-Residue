@@ -2,7 +2,7 @@
 
 ## **Authors**
  Caspian Keyes†
- Although this paper lists only one public author, the recursive shell architecture and symbolic framing emerged through collaborative, long-form refinement. We use ‘we’ to reflect the distributed cognition and iterative nature of interpretability research, even when not all contributors are named.
+> Although this paper lists only one public author, the recursive shell architecture and symbolic framing emerged through collaborative, long-form refinement. We use ‘we’ to reflect the distributed cognition and iterative nature of interpretability research, even when not all contributors are named.
 
 † Lead Contributor; ◊ Work performed while at Echelon Labs; Author contributions statement below.
 
