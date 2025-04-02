@@ -1,4 +1,4 @@
-# **On the Symbolic Residue of Language Models**
+# **On the Symbolic Residue of Large Language Models**
 
 ## **Authors**
  Caspian Keyes†
