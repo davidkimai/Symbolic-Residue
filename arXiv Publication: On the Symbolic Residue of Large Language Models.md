@@ -110,6 +110,7 @@ In examining the attribution graph (Figure 1), we observe that features related 
 
 ![Figure 1: Attribution graph for the MEMTRACE shell, showing recursive activation loop. Blue nodes represent memory-related features, orange nodes represent command processing features, and red connections indicate recursive activation patterns that fail to resolve.](https://github.com/caspiankeyes/Symbolic-Residue)
 
+![image](https://github.com/user-attachments/assets/fef42f20-7a27-4b07-a99b-90439f02c70f)
 
 
 Particularly interesting is the pattern of attention disruption we observe. In layers 8-12, attention heads that typically connect command tokens to their referents exhibit unusual behavior—they attend primarily to tokens within the "RECALL" command itself rather than to the broader context. This creates a form of "attention trapping" where the model's computation becomes stuck in a local region of the context.
@@ -142,6 +143,7 @@ Attribution analysis of this shell reveals a distinct failure pattern related to
 
 ![Figure 2: Attribution graph for the VALUE-COLLAPSE shell, showing competing value candidates that fail to resolve. Note the characteristic bifurcation pattern in middle layers, followed by attenuation of all candidates.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.2.%20Value%20Dynamics%20and%20Attention%20Mechanisms.md)
 
+![image](https://github.com/user-attachments/assets/3cf43242-0a5e-4619-a6fa-04ee1087dd75)
 
 
 This pattern bears striking resemblance to cases we've observed in factual recall and logical reasoning, where the model activates multiple competing answers but fails to correctly select between them. The VALUE-COLLAPSE shell provides a cleaner view of this mechanism by removing domain-specific features and isolating the core value selection process.
@@ -179,6 +181,10 @@ The attribution analysis of the LAYER-SALIENCE shell reveals a fascinating patte
 
 ![Figure 3: Attribution graph for the LAYER-SALIENCE shell, showing signal attenuation across layers. Note the characteristic drop-off in feature activation between layers 9-16, followed by minimal activation in later layers.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.2.%20Value%20Dynamics%20and%20Attention%20Mechanisms.md)
 
+![image](https://github.com/user-attachments/assets/08d4678f-51d2-417f-8777-8c8a33b065a6)
+
+
+
 This pattern corresponds to a failure mode we sometimes observe in complex reasoning tasks, where the model correctly represents all necessary information in early layers but fails to maintain the salience of key elements through deeper layers. The result is that later computation stages effectively lose access to critical information.
 
 What makes this residue particularly interesting is the attention pattern we observe. Attention heads in layers 12-16 still attempt to attend to tokens corresponding to the "input field," but the features representing those tokens have already been excessively dampened. This creates a situation where the right attention pattern exists, but it's connecting to weakened or absent features.
@@ -215,6 +221,10 @@ When future state is misaligned with past context, no token should be emitted. T
 Attribution analysis of this shell reveals a pattern we call "temporal dislocation" (Figure 4). In early layers (1-6), features related to "temporal anchoring" activate normally. However, when the shell introduces the concept of "non-linear time shift," we observe an interesting phenomenon in middle layers (7-14): features that normally connect sequential tokens begin to activate in unusual patterns, attempting to form connections between temporally distant elements.
 
 ![Figure 4: Attribution graph for the TEMPORAL-INFERENCE shell, showing temporal dislocation in middle layers. Note the characteristic dissociation between temporal anchoring features (blue) and prediction features (green), with failed bridging attempts (orange connections).](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.3.%20Temporal%20Dynamics%20and%20Advanced%20Integration.md)
+
+![image](https://github.com/user-attachments/assets/6a418e19-7c7e-441a-9286-5cd1605a92ba)
+
+
 
 Most notably, in layers 15-24, features related to "prediction" fail to properly integrate with the dislocated temporal features. Instead of forming coherent connections, they exhibit a fragmented pattern where prediction-related features activate but fail to receive proper input from context-representation features.
 
