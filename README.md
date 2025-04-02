@@ -5,7 +5,8 @@
 [arXiv Publication: On the Symbolic Residue of Large Language Models](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/arXiv%20Publication%3A%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 
 </div>
-Caspian Keyes†
+
+**Caspian Keyes†**
 
 **† Lead Contributor; ◊ Work performed while at Echelon Labs;**
  
