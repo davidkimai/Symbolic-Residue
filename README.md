@@ -62,7 +62,7 @@ The result is a kind of "null attribution" methodology: by observing what fails 
 
 ## Shell Taxonomy
 
-Each shell is designed to probe a specific class of model behavior. The taxonomy follows a pattern of:
+Each shell is designed to probe and diagnose a specific class of model behavior. The taxonomy follows a pattern of:
 
 1. **Command Alignment**: The symbolic operations within the interpretability scaffold
 2. **Failure Modality**: The specific way the circuit fails to resolve
