@@ -288,7 +288,7 @@ Figure 6 shows a comparison between the MEMTRACE residue pattern and the attribu
 
 ![Figure 6: Comparison between MEMTRACE residue pattern (left) and attribution graph from a complex entity-tracking failure (right). Note the similar pattern of recursive attention loops.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/04d1f3a6-8cce-45d0-92e8-3026b49e8bf8)
+![image](https://github.com/user-attachments/assets/7d69c3d3-9fdf-44af-b245-149792d994e2)
 
 
 ### 4.2 Value-Collapse and Logical Inconsistency
