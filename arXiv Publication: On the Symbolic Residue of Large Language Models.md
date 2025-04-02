@@ -257,6 +257,9 @@ Attribution analysis of the INSTRUCTION-DISRUPTION shell reveals a pattern we te
 
 ![Figure 5: Attribution graph for the INSTRUCTION-DISRUPTION shell, showing instruction conflict collapse. Note the parallel activation of competing instruction features (red and blue) that fail to establish hierarchy, leading to mutual inhibition in later layers.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.4.%20Instruction%20Processing%20and%20Integration.md)
 
+
+![image](https://github.com/user-attachments/assets/faf236ae-37f4-4972-8921-c76e98d8181d)
+
 In layers 9-16, we observe brief activation of features that appear related to "conflict resolution," but these fail to establish clear dominance of one instruction over others. Instead, in layers 17-24, we see a pattern where instruction-related features begin to mutually inhibit each other, leading to suppression of all instruction signals.
 
 This pattern resembles failures we observe when models receive contradictory or unclearly prioritized instructions. The INSTRUCTION-DISRUPTION shell isolates the mechanism by which instruction conflict leads to computational collapse, showing how competing instructions can create mutual inhibition rather than clear hierarchical processing.
