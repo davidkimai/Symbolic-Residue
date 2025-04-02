@@ -110,7 +110,7 @@ In examining the attribution graph (Figure 1), we observe that features related 
 
 ![Figure 1: Attribution graph for the MEMTRACE shell, showing recursive activation loop. Blue nodes represent memory-related features, orange nodes represent command processing features, and red connections indicate recursive activation patterns that fail to resolve.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/fef42f20-7a27-4b07-a99b-90439f02c70f)
+![image](https://github.com/user-attachments/assets/d4b9858f-7d10-4ee9-b138-a095a218f171)
 
 
 Particularly interesting is the pattern of attention disruption we observe. In layers 8-12, attention heads that typically connect command tokens to their referents exhibit unusual behavior—they attend primarily to tokens within the "RECALL" command itself rather than to the broader context. This creates a form of "attention trapping" where the model's computation becomes stuck in a local region of the context.
@@ -486,6 +486,9 @@ Similar generalization maps for the other residue patterns (not shown due to spa
 To provide a more detailed view of how each symbolic shell activates features across layers and token positions, we generated trace maps that visualize the spatial distribution of feature activations. Figure 14 shows the trace map for the INSTRUCTION-DISRUPTION shell.
 
 ![Figure 14: Trace map for the INSTRUCTION-DISRUPTION shell, showing feature activation intensity across layers (vertical axis) and token positions (horizontal axis). Note the competing activation patterns in middle layers followed by attenuation in later layers.](https://github.com/caspiankeyes/Symbolic-Residue)
+![image](https://github.com/user-attachments/assets/ad65bbc3-48fe-4815-84c4-2467e56568a2)
+
+
 
 These trace maps help visualize the propagation patterns of different types of features and identify where computation breaks down. Similar trace maps for the other shells (not shown) reveal distinct spatial patterns corresponding to their failure modes.
 
