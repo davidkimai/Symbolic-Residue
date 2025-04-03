@@ -305,7 +305,7 @@ Figure 7 shows a comparison between the VALUE-COLLAPSE residue and an attributio
 
 [Figure 7: Comparison between VALUE-COLLAPSE residue pattern (left) and attribution graph from a logical inconsistency case (right). Note the similar bifurcation pattern with failed resolution.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/ebf5d213-d2be-4267-a2c7-162298f09fe7)
+![4D9146EC-CB47-4128-B31F-7BB11D5B2944](https://github.com/user-attachments/assets/3738a692-a9e7-4b3a-b137-016e70e9d08f)
 
 
 ### 4.3 Layer-Salience and Information Forgetting
