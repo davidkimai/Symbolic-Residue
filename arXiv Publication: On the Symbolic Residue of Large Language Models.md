@@ -112,7 +112,7 @@ In examining the attribution graph (Figure 1), we observe that features related 
 
 ![image](https://github.com/user-attachments/assets/9472c668-67b4-4214-be48-b520d6757853)
 
-[Figure 1.0: Neural perspective]
+[Figure 1.0: Neural perspective](https://github.com/caspiankeyes/Symbolic-Residue)
 
 ![image](https://github.com/user-attachments/assets/b83c1a00-c5e3-46d0-b4ad-43ac3d6604f2)
 
