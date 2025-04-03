@@ -475,7 +475,7 @@ To better understand how the mechanisms revealed by symbolic shells generalize t
 
 [Figure 13: Generalization map for the MEMTRACE residue pattern, showing the frequency of similar residue patterns across different prompt types. Higher values (darker colors) indicate greater similarity to the MEMTRACE pattern.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/6c1bce86-2a65-460d-8b9c-fdbab6034d55)
+![image](https://github.com/user-attachments/assets/b0ba8d55-d540-4e3e-89e3-43c3bae26331)
 
 
 This generalization map reveals that the recursive memory trace pattern occurs most frequently in:
@@ -492,9 +492,8 @@ Similar generalization maps for the other residue patterns (not shown due to spa
 To provide a more detailed view of how each symbolic shell activates features across layers and token positions, we generated trace maps that visualize the spatial distribution of feature activations. Figure 14 shows the trace map for the INSTRUCTION-DISRUPTION shell.
 
 [Figure 14: Trace map for the INSTRUCTION-DISRUPTION shell, showing feature activation intensity across layers (vertical axis) and token positions (horizontal axis). Note the competing activation patterns in middle layers followed by attenuation in later layers.](https://github.com/caspiankeyes/Symbolic-Residue)
-![image](https://github.com/user-attachments/assets/ad65bbc3-48fe-4815-84c4-2467e56568a2)
 
-
+![image](https://github.com/user-attachments/assets/b35acde7-c846-4fa9-ae9b-e44f3967d7e9)
 
 These trace maps help visualize the propagation patterns of different types of features and identify where computation breaks down. Similar trace maps for the other shells (not shown) reveal distinct spatial patterns corresponding to their failure modes.
 
