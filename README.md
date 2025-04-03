@@ -267,7 +267,7 @@ This interpretability scaffold suite is particularly useful for:
 
 ## Conclusion
 
-The Recursive Shell suite represents a novel attempt to formalize "failure as signal" in language model interpretability. By designing scaffolds that intentionally probe model limitations, we gain insight not just into what these models can do, but into the specific ways they fail—revealing the shape and boundaries of their internal processing mechanisms.
+The Recursive Shell suite represents a novel attempt to formalize "failure as neural traces" in language model interpretability. By designing interpretability that intentionally probe and diagnose model limitations, we gain insight not just into what these models can do, but into the specific ways they fail—revealing the shape and boundaries of their internal processing mechanisms.
 
 These shells serve as a complement to traditional performance-focused interpretability, providing a lens into the null spaces and boundary conditions that define the edges of model capability.
 
