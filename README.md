@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[Neural Attribution Mappings and arXiv](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/arXiv%20Publication%3A%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
+[Neural Attribution Mappings & arXiv](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/arXiv%20Publication%3A%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 
 [Shells v6-v10](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.6.%20Shells%20v6-v10.md)
 
