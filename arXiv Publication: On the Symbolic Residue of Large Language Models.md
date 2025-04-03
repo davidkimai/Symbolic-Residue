@@ -515,7 +515,7 @@ The alignment matrix reveals several interesting patterns:
 
 ## **Acknowledgments**
 
-This work builds on the foundation laid by Anthropic's paper, "Circuit Tracing: Revealing Computational Graphs in Language Models" (Lindsey et al., 2025), and could not have been accomplished without the methodological innovations developed there.
+This work builds on the foundation laid by Anthropic's papers, "Circuit Tracing: Revealing Computational Graphs in Language Models" and "On the Biology of a Large Language Model" (Lindsey et al., 2025), and could not have been accomplished without the methodological innovations developed there.
 
 We would like to thank the broader Anthropic research team for valuable discussions and insights that shaped this work. We are particularly grateful to colleagues who reviewed early drafts and provided feedback that substantially improved the clarity and depth of our analysis.
 
