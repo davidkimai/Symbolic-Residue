@@ -11,7 +11,7 @@
 > 
 >**This interpretability suite—comprising recursive shells, documentation layers, and symbolic neural mappings—was constructed in a condensed cycle following recent dialogue with Anthropic. We offer this artifact in the spirit of epistemic alignment: to clarify the original intent, QK/OV structuring, and attribution dynamics embedded in the initial CodeSignal submission.**
 >
-> **Visuals are generated via an automated image production model. While attribution graph structures and symbolic flows aim to be accurate, minor labeling artifacts may occur.**
+> **Visuals are generated via an automated image production model. While attribution graph structures and symbolic flows are accurate, minor labeling artifacts may occur.**
 
 
 ## Abstract
