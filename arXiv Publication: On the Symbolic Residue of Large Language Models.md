@@ -327,7 +327,7 @@ Figure 9 compares the TEMPORAL-INFERENCE residue with an attribution graph from 
 
 [Figure 9: Comparison between TEMPORAL-INFERENCE residue pattern (left) and attribution graph from a temporal reasoning failure (right). Note the similar dissociation between context and prediction features.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/f68963a7-981b-4d36-864d-a5dcbc103fa8)
+![B3C18561-EBAD-49A4-92B4-1A17F028DA59](https://github.com/user-attachments/assets/f1aee3cd-af83-4ef9-8d8a-dad734b8d797)
 
 
 ### 4.5 Instruction-Disruption and Response Inconsistency
