@@ -110,9 +110,9 @@ In examining the attribution graph (Figure 1), we observe that features related 
 
 [Figure 1: Attribution graph for the MEMTRACE shell, showing recursive activation loop. Blue nodes represent memory-related features, orange nodes represent command processing features, and red connections indicate recursive activation patterns that fail to resolve.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.1.%20Core%20Framework.md)
 
-![image](https://github.com/user-attachments/assets/9472c668-67b4-4214-be48-b520d6757853)
+![image](https://github.com/user-attachments/assets/ae55ed8b-c964-4b69-8bfc-39684af4840a)
 
-[Figure 1: Neural Lens](https://github.com/caspiankeyes/Symbolic-Residue)
+[Neural Lens](https://github.com/caspiankeyes/Symbolic-Residue)
 
 ![image](https://github.com/user-attachments/assets/b83c1a00-c5e3-46d0-b4ad-43ac3d6604f2)
 
