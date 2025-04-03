@@ -1,4 +1,4 @@
-# **On the Symbolic Residue of Large Language Models: Diagnosing and Modeling Biological Failure Traces in Local Replacement Models**
+![image](https://github.com/user-attachments/assets/8eede52a-bc24-4f66-9df4-fe25fbdead2a)# **On the Symbolic Residue of Large Language Models: Diagnosing and Modeling Biological Failure Traces in Local Replacement Models**
 
 ## **Authors**
 
@@ -146,7 +146,7 @@ Attribution analysis of this shell reveals a distinct failure pattern related to
 
 [Figure 2: Attribution graph for the VALUE-COLLAPSE shell, showing competing value candidates that fail to resolve. Note the characteristic bifurcation pattern in middle layers, followed by attenuation of all candidates.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.2.%20Value%20Dynamics%20and%20Attention%20Mechanisms.md)
 
-![image](https://github.com/user-attachments/assets/c4af8ba9-0fe4-4ca3-bd2f-9da95732cb48)
+![image](https://github.com/user-attachments/assets/893bce50-4782-40d8-bcd8-ef879f546c75)
 
 
 This pattern bears striking resemblance to cases we've observed in factual recall and logical reasoning, where the model activates multiple competing answers but fails to correctly select between them. The VALUE-COLLAPSE shell provides a cleaner view of this mechanism by removing domain-specific features and isolating the core value selection process.
