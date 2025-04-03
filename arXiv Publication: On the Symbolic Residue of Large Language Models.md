@@ -20,7 +20,7 @@ Understanding the internal mechanisms of large language models remains a signifi
 
 ## 1 Introduction
 
-Large language models (LLMs) have demonstrated remarkable capabilities, but our understanding of their inner workings remains incomplete. The field of mechanistic interpretability has made significant progress in uncovering the circuits that underlie model behavior (see e.g., Cammarata et al., 2020; Elhage et al., 2022; Conerly et al., 2023). In particular, our companion paper, "Circuit Tracing" (Lindsey et al., 2025), introduces attribution graphs as a method to discover how features interact to determine model responses.
+Large language models (LLMs) have demonstrated remarkable capabilities, but our understanding of their inner workings remains incomplete. The field of mechanistic interpretability has made significant progress in uncovering the circuits that underlie model behavior (see e.g., Cammarata et al., 2020; Elhage et al., 2022; Conerly et al., 2023). In particular, "Circuit Tracing" (Lindsey et al., 2025), introduces attribution graphs as a method to discover how features interact to determine model responses.
 
 Most interpretability research has focused on cases where models succeed at their tasks. However, examining failure modes offers a complementary perspective. When a biological system malfunctions, the resulting pathology can reveal aspects of normal function that might otherwise remain hidden. Similarly, controlled model failures can expose fragile mechanisms and architectural limitations that successful completions might mask.
 
