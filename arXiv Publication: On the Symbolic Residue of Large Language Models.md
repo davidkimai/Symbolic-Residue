@@ -401,7 +401,7 @@ While the symbolic shells provide valuable insights, our approach has several li
 
 1. **Artificiality of Shells**: The symbolic shells are artificial constructs designed to trigger specific failure modes. While we've drawn connections to more natural failures, further work is needed to validate that the mechanisms revealed by the shells truly correspond to those operating in more complex contexts.
 
-2. **Focus on Specific Model**: Our analysis focuses on Claude 3.5 Haiku. Different models might exhibit different failure modes or mechanisms, making comparative studies across models an important direction for future work.
+2. **Focus on Specific Model**: Our analysis focuses on Claude models. Different models might exhibit different failure modes or mechanisms, making comparative studies across models an important direction for future work.
 
 3. **Limited Feature Coverage**: Our replacement model, while capturing many interpretable features, necessarily misses some aspects of the original model's computation. This limitation may be particularly relevant for failure cases, where the missed features could be critical to understanding the failure mechanism.
 
