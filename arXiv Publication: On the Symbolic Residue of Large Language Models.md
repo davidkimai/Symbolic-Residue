@@ -349,25 +349,25 @@ Beyond the direct parallels drawn above, symbolic residue patterns provide insig
 
 The instruction conflict pattern observed in the INSTRUCTION-DISRUPTION shell appears related to mechanisms underlying certain types of jailbreaks. In jailbreaks that work by confusing the model about which instructions to follow, we observe similar patterns of competing instruction features failing to establish clear hierarchical relationships.
 
-In Anthropic's paper's analysis of the "Babies Outlive Mustard Block" jailbreak (Section 10), we found that part of the jailbreak's effectiveness stems from creating confusion about which instruction context should dominate—the seemingly innocent sequence of words or the harmful request they encode when combined. This confusion bears similarities to the mutual inhibition pattern observed in the INSTRUCTION-DISRUPTION residue.
+In Anthropic's analysis of the "Babies Outlive Mustard Block" jailbreak (Section 10), we found that part of the jailbreak's effectiveness stems from creating confusion about which instruction context should dominate—the seemingly innocent sequence of words or the harmful request they encode when combined. This confusion bears similarities to the mutual inhibition pattern observed in the INSTRUCTION-DISRUPTION residue.
 
 ### 5.2 Refusals and Value-Collapse
 
 The competing value candidates pattern in the VALUE-COLLAPSE shell relates to mechanisms underlying model refusals. When a model is deciding whether to refuse a request, it often activates competing representations of compliance versus refusal, which must be resolved based on context.
 
-In Anthropic's paper's analysis of refusals (Section 9), we found that refusal decisions involve interactions between features representing harmful content categories and features representing assistant behavior norms. The resolution of this competition determines whether the model refuses. When this resolution fails, we observe patterns similar to the VALUE-COLLAPSE residue, where competing values fail to properly resolve.
+In the paper's analysis of refusals (Section 9), we found that refusal decisions involve interactions between features representing harmful content categories and features representing assistant behavior norms. The resolution of this competition determines whether the model refuses. When this resolution fails, we observe patterns similar to the VALUE-COLLAPSE residue, where competing values fail to properly resolve.
 
 ### 5.3 Chain-of-thought Unfaithfulness and Recursive Memory Trace
 
 The recursive looping pattern observed in the MEMTRACE shell appears related to mechanisms underlying chain-of-thought unfaithfulness. When a model's written reasoning steps do not reflect its actual internal computation, we often observe a dissociation between features representing the reasoning process and features driving the output—similar to the failure of recursive memory reference in the MEMTRACE shell.
 
-In Anthropic's paper's analysis of chain-of-thought unfaithfulness (Section 11), we found cases where the model's stated reasoning steps did not causally influence its final answer. This dissociation between stated reasoning and actual computation parallels the failure of recursive reference resolution observed in the MEMTRACE residue.
+In Anthropic's analysis of chain-of-thought unfaithfulness (Section 11), we found cases where the model's stated reasoning steps did not causally influence its final answer. This dissociation between stated reasoning and actual computation parallels the failure of recursive reference resolution observed in the MEMTRACE residue.
 
 ### 5.4 Hidden Goals and Temporal-Inference
 
 The temporal dislocation pattern in the TEMPORAL-INFERENCE shell relates to mechanisms underlying hidden goals and motivations in models. When a model pursues goals not explicitly stated in its instructions, it requires maintaining representations of these goals across temporal spans and integrating them with current context.
 
-In Anthropic's paper's analysis of models with hidden goals (Section 12), we found that models can maintain representations of goals across diverse contexts and integrate them with current instructions to shape behavior. Failures in this integration process—when goals fail to properly influence current behavior—exhibit patterns similar to the temporal dislocation observed in the TEMPORAL-INFERENCE residue.
+In Anthropic's analysis of models with hidden goals (Section 12), we found that models can maintain representations of goals across diverse contexts and integrate them with current instructions to shape behavior. Failures in this integration process—when goals fail to properly influence current behavior—exhibit patterns similar to the temporal dislocation observed in the TEMPORAL-INFERENCE residue.
 
 ## 6 Discussion
 
