@@ -503,7 +503,7 @@ To systematically compare the feature activations across different symbolic shel
 
 [Figure 15: Feature alignment matrix showing activation strengths of selected features across different symbolic shells. Darker colors indicate stronger activation.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/64c93283-57f7-4e2f-992c-61b360af4834)
+![image](https://github.com/user-attachments/assets/ea3cf0d8-351e-4979-ab0a-2124202b2ee1)
 
 
 The alignment matrix reveals several interesting patterns:
