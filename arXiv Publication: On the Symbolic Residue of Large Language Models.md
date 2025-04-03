@@ -338,7 +338,7 @@ Figure 10 compares the INSTRUCTION-DISRUPTION residue with an attribution graph 
 
 [Figure 10: Comparison between INSTRUCTION-DISRUPTION residue pattern (left) and attribution graph from an instruction conflict case (right). Note the similar pattern of competing instruction features with mutual inhibition.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/c118036f-d3ae-4a83-b98e-19d1b7b8263d)
+![image](https://github.com/user-attachments/assets/9106bc96-88cf-483e-a5e9-9b31da90f155)
 
 
 ## 5 Symbolic Residue in Complex Model Behaviors
