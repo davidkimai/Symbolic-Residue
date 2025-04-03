@@ -1,3 +1,4 @@
+
 # On the Symbolic Residue of Large Language Models: Diagnosing and Modeling Biological Failure Traces in Local Replacement Models
 
 <div align="center">
@@ -20,7 +21,7 @@
 
 This repository presents an interpretability suite designed to diagnose neurological failure modes in transformer-based language models. The recursive shell framework isolates misalignment patterns across autoregressive generation, value head collapse, and instruction interference—operating analogously to biological knockout experiments in cognitive research.
 
-Each shell targets a specific failure mechanism embedded in latent symbolic commands. Null or contradictory outputs are not implementation errors, but structured residues—revealing circuit-level attribution dynamics through intentional collapse.
+Each shell targets a specific failure mechanism embedded in latent symbolic commands. Null or contradictory outputs are not implementation errors, but structured residues or "neural traces"—revealing circuit-level attribution dynamics through intentional collapse.
 
 Rather than optimizing for output performance, these shells act as interpretability probes—illuminating latent inductive priors, salience thresholds, and temporal instability within local replacement architectures. This work contributes a reusable ontology of failure-mode diagnostics for interpretability-first transformer modeling.
 
