@@ -441,7 +441,7 @@ In the MEMTRACE shell, we observe distinct patterns in QK/OV dynamics that contr
 
 [Figure 11: QK/OV dynamics in the MEMTRACE shell, showing attention pattern heatmaps for selected heads across layers. Note the characteristic self-attention loops in middle layers.](https://github.com/caspiankeyes/Symbolic-Residue/tree/main)
 
-![image](https://github.com/user-attachments/assets/f9446223-b154-470c-9675-251fc62caf24)
+![image](https://github.com/user-attachments/assets/e1a9a79a-07f9-41a4-8df2-92ac62a3ebb9)
 
 
 
@@ -459,7 +459,7 @@ The VALUE-COLLAPSE shell exhibits different QK/OV dynamics related to competing 
 
 [Figure 12: QK/OV dynamics in the VALUE-COLLAPSE shell, showing attention patterns and OV projections for selected layers. Note the competing attention targets in middle layers and the attenuated OV projection strength in later layers.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/97fc0f2e-a1fe-4cdb-b2ed-e257584a72d4)
+![image](https://github.com/user-attachments/assets/0deaf048-6e80-45a0-8738-4aefe1391913)
 
 Key observations include:
 
