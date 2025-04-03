@@ -225,7 +225,7 @@ Attribution analysis of this shell reveals a pattern we call "temporal dislocati
 
 [Figure 4: Attribution graph for the TEMPORAL-INFERENCE shell, showing temporal dislocation in middle layers. Note the characteristic dissociation between temporal anchoring features (blue) and prediction features (green), with failed bridging attempts (orange connections).](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.3.%20Temporal%20Dynamics%20and%20Advanced%20Integration.md)
 
-![image](https://github.com/user-attachments/assets/4168394b-c9b0-4197-9fe6-a0859ccb83c7)
+![image](https://github.com/user-attachments/assets/96d4dd95-8e27-40d6-a05a-c4d58c1d8c7f)
 
 
 
