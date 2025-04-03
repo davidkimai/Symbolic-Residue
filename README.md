@@ -18,7 +18,7 @@
 
 ## Abstract
 
-This repository presents a suite of symbolic interpretability scaffolds designed to diagnose neurological failure modes in transformer-based language models. The recursive shell framework isolates misalignment patterns across autoregressive generation, value head collapse, and instruction interference—operating analogously to biological knockout experiments in cognitive research.
+This repository presents an interpretability suite designed to diagnose neurological failure modes in transformer-based language models. The recursive shell framework isolates misalignment patterns across autoregressive generation, value head collapse, and instruction interference—operating analogously to biological knockout experiments in cognitive research.
 
 Each shell targets a specific failure mechanism embedded in latent symbolic commands. Null or contradictory outputs are not implementation errors, but structured residues—revealing circuit-level attribution dynamics through intentional collapse.
 
