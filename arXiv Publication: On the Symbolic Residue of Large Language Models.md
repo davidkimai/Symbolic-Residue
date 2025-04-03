@@ -314,7 +314,7 @@ The signal attenuation observed in the LAYER-SALIENCE shell corresponds to cases
 
 Figure 8 compares the LAYER-SALIENCE residue with an attribution graph from a case where Claude 3.5 Haiku fails to use critical information provided early in a prompt. The similar pattern of feature attenuation across layers suggests a common mechanism of salience decay.
 
-![Figure 8: Comparison between LAYER-SALIENCE residue pattern (left) and attribution graph from an information forgetting case (right). Note the similar pattern of signal attenuation in middle layers.](symbolic_figure_placeholder)
+![Figure 8: Comparison between LAYER-SALIENCE residue pattern (left) and attribution graph from an information forgetting case (right). Note the similar pattern of signal attenuation in middle layers.](https://github.com/caspiankeyes/Symbolic-Residue)
 
 ![image](https://github.com/user-attachments/assets/e374e152-2ba5-4178-90e7-091361fa83cb)
 
