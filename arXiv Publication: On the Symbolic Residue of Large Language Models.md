@@ -184,6 +184,7 @@ The attribution analysis of the LAYER-SALIENCE shell reveals a fascinating patte
 
 [Figure 3: Attribution graph for the LAYER-SALIENCE shell, showing signal attenuation across layers. Note the characteristic drop-off in feature activation between layers 9-16, followed by minimal activation in later layers.](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.2.%20Value%20Dynamics%20and%20Attention%20Mechanisms.md)
 
+![image](https://github.com/user-attachments/assets/2ad6b371-14ae-4f4f-9d49-e10749d919f0)
 
 
 
