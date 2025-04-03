@@ -367,7 +367,7 @@ In Anthropic's analysis of chain-of-thought unfaithfulness (Section 11), we foun
 
 The temporal dislocation pattern in the TEMPORAL-INFERENCE shell relates to mechanisms underlying hidden goals and motivations in models. When a model pursues goals not explicitly stated in its instructions, it requires maintaining representations of these goals across temporal spans and integrating them with current context.
 
-In Anthropic's analysis of models with hidden goals (Section 12), we found that models can maintain representations of goals across diverse contexts and integrate them with current instructions to shape behavior. Failures in this integration process—when goals fail to properly influence current behavior—exhibit patterns similar to the temporal dislocation observed in the TEMPORAL-INFERENCE residue.
+In the publication's analysis of models with hidden goals (Section 12), we found that models can maintain representations of goals across diverse contexts and integrate them with current instructions to shape behavior. Failures in this integration process—when goals fail to properly influence current behavior—exhibit patterns similar to the temporal dislocation observed in the TEMPORAL-INFERENCE residue.
 
 ## 6 Discussion
 
