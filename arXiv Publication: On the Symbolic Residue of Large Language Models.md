@@ -316,7 +316,7 @@ Figure 8 compares the LAYER-SALIENCE residue with an attribution graph from a ca
 
 [Figure 8: Comparison between LAYER-SALIENCE residue pattern (left) and attribution graph from an information forgetting case (right). Note the similar pattern of signal attenuation in middle layers.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/b0651340-2555-4649-8314-f351c6a3570a)
+![image](https://github.com/user-attachments/assets/f8856bff-c2e7-4a4f-8e55-ed940a1e994f)
 
 
 ### 4.4 Temporal-Inference and Prediction Failures
