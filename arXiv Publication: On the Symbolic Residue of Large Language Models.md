@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8eede52a-bc24-4f66-9df4-fe25fbdead2a)# **On the Symbolic Residue of Large Language Models: Diagnosing and Modeling Biological Failure Traces in Local Replacement Models**
+# **On the Symbolic Residue of Large Language Models: Diagnosing and Modeling Biological Failure Traces in Local Replacement Models**
 
 ## **Authors**
 
