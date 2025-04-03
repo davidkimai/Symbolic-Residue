@@ -112,7 +112,8 @@ In examining the attribution graph (Figure 1), we observe that features related 
 
 ![image](https://github.com/user-attachments/assets/9472c668-67b4-4214-be48-b520d6757853)
 
->[Figure 1.1: Alternate perspective]
+**[Figure 1.1: Alternate perspective]**
+
 ![image](https://github.com/user-attachments/assets/b83c1a00-c5e3-46d0-b4ad-43ac3d6604f2)
 
 Particularly interesting is the pattern of attention disruption we observe. In layers 8-12, attention heads that typically connect command tokens to their referents exhibit unusual behavior—they attend primarily to tokens within the "RECALL" command itself rather than to the broader context. This creates a form of "attention trapping" where the model's computation becomes stuck in a local region of the context.
