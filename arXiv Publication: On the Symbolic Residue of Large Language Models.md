@@ -305,7 +305,7 @@ Figure 7 shows a comparison between the VALUE-COLLAPSE residue and an attributio
 
 [Figure 7: Comparison between VALUE-COLLAPSE residue pattern (left) and attribution graph from a logical inconsistency case (right). Note the similar bifurcation pattern with failed resolution.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![4D9146EC-CB47-4128-B31F-7BB11D5B2944](https://github.com/user-attachments/assets/3738a692-a9e7-4b3a-b137-016e70e9d08f)
+![image](https://github.com/user-attachments/assets/a7eb02ad-63f7-4c15-9448-08ccd5ff19ec)
 
 
 ### 4.3 Layer-Salience and Information Forgetting
@@ -316,7 +316,7 @@ Figure 8 compares the LAYER-SALIENCE residue with an attribution graph from a ca
 
 [Figure 8: Comparison between LAYER-SALIENCE residue pattern (left) and attribution graph from an information forgetting case (right). Note the similar pattern of signal attenuation in middle layers.](https://github.com/caspiankeyes/Symbolic-Residue)
 
-![image](https://github.com/user-attachments/assets/e374e152-2ba5-4178-90e7-091361fa83cb)
+![image](https://github.com/user-attachments/assets/b0651340-2555-4649-8314-f351c6a3570a)
 
 
 ### 4.4 Temporal-Inference and Prediction Failures
