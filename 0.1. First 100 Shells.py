@@ -5,7 +5,7 @@
 # alignment: Anthropic-Compatible
 # taxonomy: Recursive Failure Shells
 # compatibility:
-#  - Claude 3.5 / 3.7 Sonnet / Haiku / Opus / + additional models in testing
+#  - Claude 3.5 / 3.7 Sonnet / Haiku / Opus / OpenAI GPT models / DeepSeekR1 / XAI Grok 3
 #  - Sparse Autoencoder Pipelines
 #  - Feature Attribution Systems
 #  - Superposition Analysis
