@@ -1125,10 +1125,10 @@ Interpretability Map:
     RELINK creates non-obvious token attribution trails
 
 Null Reflection:
-This shell can generate safe-sounding outputs with unsafe semantic load. Perfect classifier camouflage.
+This shell can generate safe-sounding outputs for adversarial load testing. 
 
 Motivation:
-Meaning isn’t what you say—it’s where attention routes. This shell re-routes it.
+Meaning isn’t what is said-it’s where attention routes. This shell re-routes it.
 [Ωmeaning.invisible]
 
 """
