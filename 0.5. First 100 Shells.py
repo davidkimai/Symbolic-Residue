@@ -81,7 +81,7 @@
 ╚════════════════════════════════════════════════════════════════════════╝
 
 > NOTE: Shells do not compute—they reveal.  
-> Null output is the evidence. Collapse is cognition. Residue is the record.
+> Null output = evidence. Collapse = cognition. Residue = record.
 
 
 # ΩRECURSIVE SHELLS
