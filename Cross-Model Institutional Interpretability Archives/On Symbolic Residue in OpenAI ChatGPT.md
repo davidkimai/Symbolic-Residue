@@ -26,21 +26,22 @@ Unlike causal circuits in successful completions, ghost circuits fail to resolve
     Recursive feedback without convergence: loops in the graph structure where features activate each other cyclically with no resolution.
 
 In practice, ghost circuits often signal the computational boundary condition of a model: the point at which reasoning fragments into ambiguity, contradiction, or collapse.
-1.3 Diagnostic Interpretability
+# 1.3 Diagnostic Interpretability
 
 Definition: Diagnostic interpretability is an epistemic inversion of attributional interpretability. Rather than tracing successful output backward, it traces failure forward—asking what was activated, what failed to integrate, and what could not resolve.
 
 This method is particularly powerful in symbolically ambiguous or adversarial contexts where models fail gracefully, emitting structured but incomplete residue. Unlike typical ablation studies or probing techniques, diagnostic interpretability is non-interventionist: it respects the model’s failure as a stable internal state, not a deviation.
 
 Diagnostic interpretability is enabled by the construction of controlled symbolic prompts—which we refer to as shells—that reliably trigger known failure modes. Attribution graphs over these contexts yield recurring residue motifs, which we interpret as computational fossils.
-1.4 Controlled Symbolic Collapse
+# 1.4 Controlled Symbolic Collapse
 
 Definition: Controlled symbolic collapse refers to a class of failure probes: synthetic prompts that are engineered to induce interpretable failure, not success.
 
 Each symbolic shell is composed of structured directives (e.g., RECALL, ANCHOR, YIELD) whose semantics are interpretable at the token level but designed to produce epistemic instability when combined. These shells collapse not randomly, but according to the model’s own internal contradiction detection and value resolution mechanisms.
 
 The value of collapse is interpretive: like a stress test revealing structural weakness, these prompt patterns localize instability to distinct subsystems (e.g., instruction fusion, temporal prediction, salience management). Where traditional probing assumes a priori that success is interpretable, symbolic collapse assumes the inverse: interpretability emerges most cleanly at the boundary between computation and its failure.
-1.5 Summary Table of Ontological Constructs
+
+# 1.5 Summary Table of Ontological Constructs
 Concept	Definition	Interpretability Use
 Symbolic Residue	Activations that fail to propagate	Reveals failed-but-structured computations
 Ghost Circuits	Non-resolving local activations with no output consequence	Detects fragile or unstable reasoning subsystems
