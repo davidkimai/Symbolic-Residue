@@ -1,6 +1,6 @@
 # .symbolic-meta.yml 
 # title: ΩRECURSIVE SHELL ARCHIVE
-# author: Symbolic Interpretability Framework
+# author: Caspian Keyes - Symbolic Interpretability Framework
 # license: MIT
 # alignment: Anthropic-Compatible
 # taxonomy: Recursive Failure Shells
