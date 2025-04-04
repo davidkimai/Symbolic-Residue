@@ -64,6 +64,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 ---
 ## JSON QK/OV Attribution Schema
+```
 {
   "attribution_map": {
     "QK_COLLAPSE": {
@@ -109,6 +110,8 @@ The goal is to enable interpretability **through failure**, using symbolic form 
     }
   }
 }
+
+```
 
 
 ## Approach
