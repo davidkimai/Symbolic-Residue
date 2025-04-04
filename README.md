@@ -5,7 +5,7 @@
 
 [Neural Attribution Mappings & arXiv](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.0.%20arXiv%20Publication:%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 
-[What if interpretation itself is biased by internal salience and conflict resolution?](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.0.%20Interpreting%20the%20Interpreter.md)
+[Interpreting the Interpreter](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.0.%20Interpreting%20the%20Interpreter.md)
 
 [Case Studies](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.8.%20Case%20Studies.md)
 </div>
