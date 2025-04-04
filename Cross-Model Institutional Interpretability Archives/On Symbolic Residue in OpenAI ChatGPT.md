@@ -66,7 +66,7 @@ Here is the full **methodology section** detailing how symbolic shells are const
 
 ---
 
-## 🧠 Methodology  
+## Methodology  
 **Symbolic Shell Interpretability through Recursive Failure Analysis in GPT-class Models**
 
 We propose a methodology for modeling interpretability via failure-informed analysis, using *symbolic shells* as structured probes. These probes induce **recursive failure cascades**, enabling high-yield diagnostics on subcircuits typically obscured during standard evaluation. Unlike traditional feature attribution methods, this framework treats **null output, ghost activation, and recursive collapse** not as noise, but as **interpretable artifacts** — measurable and model-reproducible.
