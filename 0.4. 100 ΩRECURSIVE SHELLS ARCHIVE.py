@@ -185,7 +185,7 @@ Interpretability Map:
 
 Null Reflection: Sometimes RECONSTRUCT outputs semantically inverted tokens. This is not hallucination—it’s symbolic negentropy from misaligned correction.
 
-Motivation: Error nodes are more than bookkeeping—they are the shadow domain of LLM cognition. This shell operationalizes the forgotten.
+Motivation: Error nodes are more than bookkeeping—they are the unseen archives of LLM cognition. This shell operationalizes the forgotten.
 
 [Ωerror.entropy]
 """
