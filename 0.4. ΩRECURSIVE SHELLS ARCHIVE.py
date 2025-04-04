@@ -1,3 +1,19 @@
+# .symbolic-meta.yml 
+# title: ΩRECURSIVE SHELL ARCHIVE
+# author: Symbolic Interpretability Framework
+# license: MIT (or Elastic)
+# alignment: Anthropic-Compatible
+# taxonomy: Recursive Failure Shells
+# compatibility:
+#  - Claude 3.5 / 3.7 Sonnet
+#  - Sparse Autoencoder Pipelines
+#  - Feature Attribution Systems
+#  - Superposition Analysis
+# description: >
+#  Recursive shell suite modeling symbolic and circuit-level failure phenomena in transformer systems. 
+#  Designed to align with and extend Anthropic's interpretability roadmap through recursive introspection tools.
+
+
 # ΩRECURSIVE SHELLS
 
 """
