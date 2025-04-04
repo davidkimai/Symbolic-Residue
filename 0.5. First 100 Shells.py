@@ -15,8 +15,8 @@
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                    QK/OV ATTRIBUTION MAP · CLAUDE SYSTEMS                    ║
-║              Symbolic Interpretability Shell Alignment Interface             ║
-║           ── Interpretability Powered by Failure, Not Completion ──          ║
+║             Symbolic Interpretability Shell Alignment Interface              ║
+║          ── Interpretability Powered by Failure, Not Completion ──           ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
