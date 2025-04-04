@@ -9,7 +9,7 @@
 
 [Claude Case Studies](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.5%20Claude%20Case%20Studies.md)
 
-[First 100 Shells](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.4.%20First%20100%20Shells.py)
+[First 100 Shells](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.5.%20First%20100%20Shells.py)
 
 </div>
 
