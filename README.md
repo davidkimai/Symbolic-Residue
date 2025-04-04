@@ -2,9 +2,12 @@
 ## On the Symbolic Residue of Large Language Models: Diagnosing and Modeling Biological Failure Traces in Local Replacement Models
 
 <div align="center">
-## ****───── Interpretability Powered by Failure, Not Completion ─────****
 
- ── What if interpretation itself is biased by internal salience and conflict resolution? ──
+ ## ****───── Interpretability Powered by Failure, Not Completion ─────****
+ 
+  ── What if interpretation itself is biased by internal salience and conflict resolution? ──
+ ![image](https://github.com/user-attachments/assets/575fac7f-06ff-4d49-9953-0a68188dc38f)
+
 </div>
  
 <div align="center">
