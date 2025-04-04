@@ -1,19 +1,19 @@
 ## On Symbolic Residue in OpenAI ChatGPT: Modeling Interpretability Powered by Failure in Local Replacement Circuits
 
-# Abstract
+## Abstract
 
 Traditional mechanistic interpretability focuses on the anatomy of successful computation. However, large language models (LLMs) exhibit frequent partial failures: reasoning chains that halt prematurely, outputs that are syntactically intact but semantically null, and attention patterns that activate without producing functional consequence. We explore these as not artifacts but signals—symbolic residue—fragments of computation that reveal latent structural constraints in model architecture. Using local replacement modeling and frozen attention tracing (as in Lindsey et al., 2025), we isolate these failure residues and find that they encode robust diagnostic patterns across shells of controlled collapse. Our findings introduce a new interpretability lens grounded in diagnostic failure mapping rather than successful output attribution. We term the unpropagated but causally relevant patterns ghost circuits, and frame the broader method as controlled symbolic collapse: a systematic injection of adversarial ambiguity designed to reveal architectural thresholds. In contrast to successful completions, where redundant circuits may mask causal dependencies, these null traces expose fragile subsystems. We argue that interpretability itself may benefit from inverting its epistemic priors—model failure is not an error to be fixed, but a window to be read.
-1. Recursive Ontology: Failure as Interpretability
+# 1. Recursive Ontology: Failure as Interpretability
 
 We propose a recursive ontology for interpretability grounded in symbolic collapse. This framework treats failed or partial computation not as discardable noise but as a structural output in itself. Just as evolutionary biology derives insight from mutations and pathological breakdowns, we treat breakdowns in language model inference as first-order epistemic objects. Within this ontology, we introduce the following primitives:
-1.1 Symbolic Residue
+# 1.1 Symbolic Residue
 
 Definition: Symbolic residue refers to the set of latent feature activations and attention pathways that are triggered during computation but fail to propagate to downstream output tokens.
 
 These residues arise in prompts that result in null, incomplete, or contradictory outputs. Crucially, they retain structured activation patterns internally—even in the absence of surface-level generation. The interpretability value of these residues lies in their causal incompletion: they are fragments of circuits that wanted to fire but were suppressed by architectural or training-based constraints.
 
 We observe symbolic residue most clearly in locally replaced models, where attention is frozen and MLP activations are substituted with interpretable feature vectors (following Conerly et al., 2023). When output is suppressed, the residue becomes visible as unconsumed energy in the attribution graph.
-1.2 Ghost Circuits
+# 1.2 Ghost Circuits
 
 Definition: Ghost circuits are transient, non-propagating patterns of computation—chains of attention and MLP activation that execute locally but are pruned or attenuated before contributing to the final output.
 
