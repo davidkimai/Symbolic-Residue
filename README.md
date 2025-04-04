@@ -3,9 +3,9 @@
 
 <div align="center">
 
- ## ****───── Interpretability Powered by Failure, Not Completion ─────****
+## ****───── Interpretability Powered by Failure, Not Completion ─────****
  
-  ── What if interpretation itself is biased by internal salience and conflict resolution? ──
+## ****── What if interpretation itself is biased by internal salience and conflict resolution? ──****
  ![image](https://github.com/user-attachments/assets/575fac7f-06ff-4d49-9953-0a68188dc38f)
 
 </div>
