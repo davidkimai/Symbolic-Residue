@@ -7,6 +7,8 @@
 
 [Interpreting the Interpreter](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.0.%20Interpreting%20the%20Interpreter.md)
 
+[First 100 Shells](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.4.%20100%20%CE%A9RECURSIVE%20SHELLS%20ARCHIVE.py)
+
 [Case Studies](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.5%20arXiv%20Case%20Studies.md)
 </div>
 
