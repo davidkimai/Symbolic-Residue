@@ -59,6 +59,8 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 | `v5.INSTRUCTION-DISRUPTION` | Recursive instruction contradiction under prompt entanglement | **QK loop paradox** → instruction tokens re-enter attention cycles with contradictory vector direction |
 
 ---
+![image](https://github.com/user-attachments/assets/0cb87b0a-dc02-4c66-9e1b-9aa553e4998a)
+---
 
 
 ## Approach
