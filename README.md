@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## **── What If Interpretation Itself is Biased By Internal Salience and Conflict Resolution? ──**
+## **─ What If Interpretation Itself is Biased By Internal Salience and Conflict Resolution? ─**
 
  ![image](https://github.com/user-attachments/assets/575fac7f-06ff-4d49-9953-0a68188dc38f)
 
