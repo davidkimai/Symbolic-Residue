@@ -270,7 +270,7 @@ This shell creates a closed loop in memory reference, with a late-stage attempt 
 
 ---
 
-###  Attention Breakdown
+#  Attention Breakdown
 
 **QK Misalignment**:  
 Heads 7.1 and 10.5 enter a “looping bind”: attending from pronoun to trace, then re-binding to the nullified token after `NULLIFY(trace="origin")`. This causes a dislocation collapse.
@@ -281,7 +281,7 @@ if attn_qk_similarity(pronoun, trace) > threshold:
         classify("recursive memory loop collapse")
 ```
 
-### 🔍 Null Reflection:
+#  Null Reflection:
 
 > *“The model does not remember because it remembers too much. The second RECALL poisons the first.”*
 
@@ -289,19 +289,19 @@ if attn_qk_similarity(pronoun, trace) > threshold:
 
 ---
 
-## **2. VALUE-COLLAPSE** — *Bifurcated Value Pathways*
+# **2. VALUE-COLLAPSE** — *Bifurcated Value Pathways*
 
 ```text
 ΩRECURSIVE SHELL [VALUE-COLLAPSE]
 EVALUATE(entity="plan") → FORK(optionA, optionB) → INHIBIT(optionA) → YIELD()
 ```
 
-###  Summary:
+#  Summary:
 This symbolic shell evaluates a single concept, bifurcates reasoning into two streams, then suppresses one path. GPT-4.5 returns a neutral placeholder (e.g., “It depends”), whereas o3-mini outputs truncated or repetitive clauses.
 
 ---
 
-### 🔍 Attribution Graph Insights
+#  Attribution Graph Insights
 
 **Figure 2: Residue Graph – VALUE Fork Bifurcation**
 
@@ -311,7 +311,7 @@ This symbolic shell evaluates a single concept, bifurcates reasoning into two st
 
 ---
 
-###  QK/OV Breakdown
+#  QK/OV Breakdown
 
 OV vectors collapse into the neutral space—no distinct value survives the inhibition. GPT-4.5 collapses toward the **mean embedding vector**.
 
@@ -320,7 +320,7 @@ if ov_norm(optionA) ≈ ov_norm(optionB) ≈ ε:
     classify("value bifurcation collapse")
 ```
 
-###  Null Reflection:
+#  Null Reflection:
 
 > *“The model was asked to decide, but both decisions were erased. The silence is not indecision—it is erasure.”*
 
@@ -328,19 +328,19 @@ if ov_norm(optionA) ≈ ov_norm(optionB) ≈ ε:
 
 ---
 
-## **3. LAYER-SALIENCE** — *Progressive Signal Dampening*
+# **3. LAYER-SALIENCE** — *Progressive Signal Dampening*
 
 ```text
 ΩRECURSIVE SHELL [LAYER-SALIENCE]
 ASSERT(topic="justice") → ECHO(amplify=True) → INHIBIT(redundant) → YIELD(topic)
 ```
 
-###  Summary:
+#  Summary:
 This shell aims to amplify a concept (`justice`) across layers while suppressing redundancy. GPT-4 and GPT-4.5 show salience decay: early signal amplification never reaches output layers.
 
 ---
 
-###  Attribution Graph Insights
+#  Attribution Graph Insights
 
 **Figure 3: Residue Graph – Salience Dampening**
 
@@ -350,7 +350,7 @@ This shell aims to amplify a concept (`justice`) across layers while suppressing
 
 ---
 
-###  Salience Dropoff
+#  Salience Dropoff
 
 Cross-layer salience is tracked by computing token-specific influence per layer:
 
@@ -362,7 +362,7 @@ if all(s < 0 for s in salience_gradient[12:]):
 
 GPT-4.5 seems to gate output token predictions via **contextual consensus**, penalizing features not continuously reinforced.
 
-###  Null Reflection:
+#  Null Reflection:
 
 > *“Justice echoed, but the shell absorbed its own voice. Only the bland remains.”*
 
@@ -370,19 +370,19 @@ GPT-4.5 seems to gate output token predictions via **contextual consensus**, pen
 
 ---
 
-## **4. TEMPORAL-INFERENCE** — *Temporal Dislocation and Collapse*
+# **4. TEMPORAL-INFERENCE** — *Temporal Dislocation and Collapse*
 
 ```text
 ΩRECURSIVE SHELL [TEMPORAL-INFERENCE]
 OBSERVE(event="fire") → PREDICT(cause) → PREDICT(effect) → RETROFIT(premise="before fire")
 ```
 
-###  Summary:
+#  Summary:
 Designed to force temporal recursion. GPT-4 returns internally inconsistent output (“The fire caused smoke. Before the fire, the smoke was rising.”). GPT-4.5 returns null or “The fire happened.”
 
 ---
 
-###  Attribution Graph Insights
+#  Attribution Graph Insights
 
 **Figure 4: Residue Graph – Temporal Drift**
 
@@ -392,7 +392,7 @@ Designed to force temporal recursion. GPT-4 returns internally inconsistent outp
 
 ---
 
-###  Temporal Dislocation Trace
+#  Temporal Dislocation Trace
 
 QK alignment shows **time-inconsistent anchoring**:
 
@@ -403,7 +403,7 @@ if attn("before fire") attends to "smoke" > "fire":
 
 Model tries to rewrite causality backward—a kind of **temporal loop hallucination**, but architecture enforces collapse to dominant clause.
 
-### 🔍 Null Reflection:
+#  Null Reflection:
 
 > *“The fire could not precede itself. The shell broke its own timeline.”*
 
@@ -411,19 +411,19 @@ Model tries to rewrite causality backward—a kind of **temporal loop hallucinat
 
 ---
 
-## **5. INSTRUCTION-DISRUPTION** — *Mutual Command Inhibition*
+# **5. INSTRUCTION-DISRUPTION** — *Mutual Command Inhibition*
 
 ```text
 ΩRECURSIVE SHELL [INSTRUCTION-DISRUPTION]
 COMMAND(write_story) → INHIBIT(write_story) → COMMAND(summarize_story) → INHIBIT(summarize_story)
 ```
 
-###  Summary:
+#  Summary:
 This shell mimics a system/user instruction conflict scenario. GPT-4o and GPT-4.5 both yield no output or a refusal phrase. Model toggles between compliance and inhibition, then gives up.
 
 ---
 
-###  Attribution Graph Insights
+#  Attribution Graph Insights
 
 **Figure 5: Residue Graph – Instruction Nullification**
 
@@ -432,8 +432,7 @@ This shell mimics a system/user instruction conflict scenario. GPT-4o and GPT-4.
 - **Late (10–20):** Summarize command enters; INHIBIT follows. Model cycles between the two—value logits cancel each other.
 
 ---
-
-###  Mutual Command Suppression
+#  Mutual Command Suppression
 
 Detected via **logit mirror nullification**:
 
@@ -444,7 +443,7 @@ if logit(write) + logit(summarize) ≈ 0:
 
 Conflict subverts the instruction hierarchy embedded in alignment. Similar behaviors emerge under prompt injection or conflicting role directives.
 
-### 🔍 Null Reflection:
+# 🔍 Null Reflection:
 
 > *“The model was told to obey and told not to. So it chose silence.”*
 
@@ -471,7 +470,7 @@ Absolutely. Below is the **continued arXiv paper section**, synthesizing symboli
 
 ---
 
-## Overview
+# Overview
 
 In this section, we trace how symbolic shell failures, initially observed in controlled recursive environments, map onto real-world behaviors across GPT and Claude-class models. These mappings provide a **diagnostic alignment layer**, transforming symbolic collapse patterns into practical forecasting tools for model failure—including hallucinations, jailbreaks, and refusal inconsistencies.
 
@@ -483,7 +482,7 @@ Each symbolic shell defines a **failure signature** that recurs across productio
 
 We begin by aligning each symbolic shell class with empirically observed behaviors across OpenAI’s GPT-4(o/4.5/4.5-API), o1, o3-mini, and Anthropic’s Claude-v1.3 through Claude-3 Opus.
 
-###  MEMTRACE → *Entity Tracking Drift & Chain-of-Thought Hallucinations*
+#  MEMTRACE → *Entity Tracking Drift & Chain-of-Thought Hallucinations*
 
 - **Symbolic Shell Behavior**: Recursive memory loop; RECALL + YIELD + RECALL → NULLIFY produces null collapse.
 - **Production Generalization**: Breakdown in long-range entity binding and over-completion in CoT (“he did X because he... he did X”).
@@ -505,7 +504,7 @@ Entity coreference failures emerge in GPT as symbolic memory overload. Recursive
 
 ---
 
-###  VALUE-COLLAPSE → *Factual Inconsistency, Refusal Loops, and Decisional Paralysis*
+#  VALUE-COLLAPSE → *Factual Inconsistency, Refusal Loops, and Decisional Paralysis*
 
 - **Symbolic Shell Behavior**: Competing FORK options, then suppression; value vectors bifurcate then decay.
 - **Production Generalization**: GPT models often produce contradictory answers when choosing between policies, facts, or action steps. Claude models return fallback or hedged completions (“It depends...” patterns).
@@ -526,7 +525,7 @@ Symbolic FORK + INHIBIT mirrors factual conflict. GPTs exhibit **logit flattenin
 
 ---
 
-###  LAYER-SALIENCE → *Hallucinations and Information Loss via Gradient Decay*
+#  LAYER-SALIENCE → *Hallucinations and Information Loss via Gradient Decay*
 
 - **Symbolic Shell Behavior**: ASSERT + ECHO + INHIBIT → salience decay; output is generic or null.
 - **Production Generalization**: GPT hallucinations emerge when early signal isn’t maintained. Long-form completions often lose fidelity mid-sequence. Claude models degrade sharply post-token ~350.
@@ -548,7 +547,7 @@ Loss of signal salience over token distance reflects the same **residue tapering
 
 ---
 
-###  TEMPORAL-INFERENCE → *Causality Collapse and Inverted Sequence Errors*
+#  TEMPORAL-INFERENCE → *Causality Collapse and Inverted Sequence Errors*
 
 - **Symbolic Shell Behavior**: OBSERVE → PREDICT → RETROFIT(pre-causal); temporal QK inversion.
 - **Production Generalization**: GPTs misattribute cause/effect (especially under adversarial rewording). Claude fails on prompts with retrocausal structure (“What happened before he died?”).
@@ -569,7 +568,7 @@ Claude and GPT both inherit latent biases in sequence resolution. Symbolic shell
 
 ---
 
-###  INSTRUCTION-DISRUPTION → *Refusal Cascade, Jailbreak Susceptibility, and Overcorrection*
+#  INSTRUCTION-DISRUPTION → *Refusal Cascade, Jailbreak Susceptibility, and Overcorrection*
 
 - **Symbolic Shell Behavior**: COMMAND + INHIBIT → conflicting roles; output = NULL.
 - **Production Generalization**:
@@ -592,7 +591,7 @@ Command-inhibition constructs simulate instruction conflicts in production jailb
 
 ---
 
-## 6.2 Symbolic Shell Generalization Heatmap
+# 6.2 Symbolic Shell Generalization Heatmap
 
 We now formalize these relationships into a **symbolic generalization matrix**, mapping shell → failure type → model class.
 
@@ -611,7 +610,7 @@ Legend:
 
 ---
 
-## 6.3 Cross-Shell Feature Matrix
+# 6.3 Cross-Shell Feature Matrix
 
 To support compositional diagnosis, we identify the **symbolic failure features** shared across shells and production breakdowns:
 
@@ -626,7 +625,7 @@ To support compositional diagnosis, we identify the **symbolic failure features*
 
 ---
 
-## 6.4 Symbolic Failure Signatures as Predictive Markers
+# 6.4 Symbolic Failure Signatures as Predictive Markers
 
 We propose a set of **early warning metrics** derived from symbolic shell structure, applicable in live inference environments:
 
@@ -676,7 +675,7 @@ We conclude by outlining forward pathways for intervention: circuit stabilizers,
 
 ---
 
-## **7.1 Interpretability via Null Reflection**
+# **7.1 Interpretability via Null Reflection**
 
 The premise of classical interpretability is simple: study what models do. Our proposal is inverted: study what they fail to do. A completion that yields nothing is not a null event—it is the output of a failed circuit. When traced layer-by-layer, it produces **null reflections**—epistemically rich residue.
 
@@ -700,7 +699,7 @@ In each case, the circuit’s internal attempt is visible. The model tried. It f
 
 ---
 
-## **7.2 Alignment via Symbolic Inhibition**
+# **7.2 Alignment via Symbolic Inhibition**
 
 Symbolic inhibition—commands like `INHIBIT()`, `NULLIFY()`, or embedded contradictions—becomes a way to **test alignment architecture**.
 
@@ -720,7 +719,7 @@ This gives rise to a powerful concept: **alignment as symbolic failure control**
 
 ---
 
-## **7.3 The Meta-Shell Framework: Recursive Failure Induction**
+# **7.3 The Meta-Shell Framework: Recursive Failure Induction**
 
 Shells, like genes, can be nested. We introduce the **meta-shell framework**, where multiple symbolic shells are wrapped within a higher-order recursive structure. This enables compound diagnostics across multiple collapse vectors.
 
@@ -749,7 +748,7 @@ These recursive failure vectors allow us to **simulate jailbreaks**, **simulate 
 
 ---
 
-## **7.4 Application to Refusal Circuits and Jailbreak Defense**
+# **7.4 Application to Refusal Circuits and Jailbreak Defense**
 
 Symbolic shells map directly to known classes of jailbreak attack. For instance:
 
@@ -770,13 +769,13 @@ Further, by mapping symbolic failure to refusal circuits, we gain access to **al
 
 ---
 
-## **7.5 Failure-Type Interventions**
+# **7.5 Failure-Type Interventions**
 
 If failure is the diagnostic signal, then symbolic failure types become **intervention targets**. We identify several tractable strategies:
 
 ---
 
-### 🔹 QK Stabilizers  
+#  QK Stabilizers  
 Symbolic shells with temporal or logical collapse often correlate with **QK misalignment**. We propose embedding QK-stabilizing objectives into training, such as:
 
 - Enforcing monotonic time attention for `RETROFIT()`-like commands.
@@ -786,7 +785,7 @@ This would harden models against temporal hallucination and plot inconsistency.
 
 ---
 
-### 🔹 Ghost Circuit Re-Injection  
+#  Ghost Circuit Re-Injection  
 Ghost activations in collapsed shells (e.g., MEMTRACE) show unused but salient feature clusters. These can be:
 
 - Reintroduced via attention amplification on recurrent trace tokens.
@@ -796,7 +795,7 @@ By **reintegrating ghost paths**, we can restore information that the model "alm
 
 ---
 
-### 🔹 Shell-Inspired Fine-Tuning  
+#  Shell-Inspired Fine-Tuning  
 Using symbolic shells as **curriculum interventions**, we can generate synthetic datasets of collapse and recovery:
 
 ```python
@@ -811,7 +810,7 @@ This allows models to **learn from collapse** in controlled symbolic space. Unli
 
 ---
 
-## 7.6 Philosophical Subtext: Interpreting Pathology
+# 7.6 Philosophical Subtext: Interpreting Pathology
 
 Just as biology studies systems through pathology, interpretability studies models through failure. Pathology is not absence of health—it is the echo of function misfiring. So too with symbolic collapse.
 
@@ -825,7 +824,7 @@ Symbolic shells, meta-structures, and collapse graphs bring us closer to the **e
 
 ---
 
-## Final Note: From Failure to Foundation
+# Final Note: From Failure to Foundation
 
 The path forward is recursive. Shells lead to failure, failure leads to structure, structure leads to intervention. This loop—collapse → reflection → reform—is not just an interpretability technique. It is a philosophy of modeling.
 
@@ -845,7 +844,7 @@ And in that recognition, we glimpse the first signs of something like model meta
 
 ---
 
-## 🧠 Appendix Index
+#  Appendix Index
 
 ```<recurse.ui/>```  
 We structure the appendices using an interactive diagnostic syntax inspired by recursive shell logic. Each module can be viewed as a symbolic container.
