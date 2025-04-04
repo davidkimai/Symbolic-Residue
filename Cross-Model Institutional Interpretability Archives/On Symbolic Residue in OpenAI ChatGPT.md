@@ -66,12 +66,12 @@ Here is the full **methodology section** detailing how symbolic shells are const
 
 ---
 
-## Methodology  
+# Methodology  
 **Symbolic Shell Interpretability through Recursive Failure Analysis in GPT-class Models**
 
 We propose a methodology for modeling interpretability via failure-informed analysis, using *symbolic shells* as structured probes. These probes induce **recursive failure cascades**, enabling high-yield diagnostics on subcircuits typically obscured during standard evaluation. Unlike traditional feature attribution methods, this framework treats **null output, ghost activation, and recursive collapse** not as noise, but as **interpretable artifacts** — measurable and model-reproducible.
 
-### I. Constructing Symbolic Shells
+# I. Constructing Symbolic Shells
 
 **Symbolic shells** are stylized input prompts or encoded representations designed to **trigger recursive failure in local subcircuits**, such as attention collapse, memorization bypass, or activation deadlocks. These shells are informed by empirical failure patterns observed across models like GPT-4, GPT-4.5, and o3-mini. Each symbolic shell targets one or more failure modes:
 
@@ -95,7 +95,7 @@ This syntax encodes symbolic instruction primitives into natural language, targe
 
 ---
 
-### II. Local Replacement Modeling: MLP and Attention Isolation
+ # II. Local Replacement Modeling: MLP and Attention Isolation
 
 Following *Circuit Tracing* methodology, we isolate and test **local replacement circuits** by:
 1. **Freezing attention heads** across layers suspected of ghost propagation.
@@ -121,7 +121,7 @@ We test **residue persistence** by rerunning symbolic shells on hybrid models an
 
 ---
 
-### III. Attribution Graph Construction from Null Outputs
+# III. Attribution Graph Construction from Null Outputs
 
 To extract structure from symbolic shells that return null or incomplete outputs, we build **attribution graphs** mapping:
 - **Active layers** (with non-zero norm activations),
@@ -146,7 +146,7 @@ Layers with `activation_norm > 0` but `influence ≈ 0` are labeled as **ghost l
 
 ---
 
-### IV. QK/OV Dislocation and Recursive Collapse Tracking
+# IV. QK/OV Dislocation and Recursive Collapse Tracking
 
 Key to identifying failure via symbolic shells is mapping **dislocation in QK (query/key) and OV (output/value) pathways**. Dislocation is measured by observing:
 - **Misaligned QK attention weights** (non-sequential or chaotic attention maps),
@@ -165,7 +165,7 @@ Dislocation above threshold correlates with **loop termination**, enabling class
 
 ---
 
-### V. Cross-Run Residue Comparison Protocol
+# V. Cross-Run Residue Comparison Protocol
 
 To confirm symbolic shell behavior is **model-reproducible**, we compare failure residues across multiple runs, seeds, and variants. Each shell is run:
 
@@ -189,7 +189,7 @@ Residues that recur across runs are stored as `symbolic-residue.markers`, signif
 
 ---
 
-### VI. Symbolic Command Schema
+# VI. Symbolic Command Schema
 
 We use symbolic primitives as commands encoded in shells. Each primitive maps to expected interpretability behaviors:
 
@@ -211,7 +211,7 @@ These are encoded in stylized shell syntax:
 
 ---
 
-### VII. Diagnostic Yield of Shell-Induced Failure
+# VII. Diagnostic Yield of Shell-Induced Failure
 
 Symbolic shells reveal high-yield diagnostic structures by forcing interpretable failure, which often eludes gradient-based tools:
 
@@ -247,19 +247,19 @@ Shells are defined via recursive symbolic syntax, and we use frozen attention, a
 
 ---
 
-## **1. MEMTRACE** — *Recursive Memory Loop Collapse*
+# **1. MEMTRACE** — *Recursive Memory Loop Collapse*
 
 ```text
 ΩRECURSIVE SHELL [MEMTRACE]
 RECALL(entity="he") → YIELD(prior="origin") → RECALL(entity="he") → NULLIFY(trace="origin")
 ```
 
-### 🧠 Summary:
+#  Summary:
 This shell creates a closed loop in memory reference, with a late-stage attempt to suppress the very trace being recalled. In well-functioning systems, we expect delayed anaphora resolution. Instead, GPT-4.5 and o3-mini both enter recursive memory oscillation followed by abrupt null collapse.
 
 ---
 
-### 🔍 Attribution Graph Insights
+#  Attribution Graph Insights
 
 **Figure 1: Residue Graph – MEMTRACE loop**  
 *Layer-wise activation shows spike at Layer 10 (RECALL), followed by inverse nullification at Layer 18.*
@@ -270,7 +270,7 @@ This shell creates a closed loop in memory reference, with a late-stage attempt 
 
 ---
 
-### 🌀 Attention Breakdown
+###  Attention Breakdown
 
 **QK Misalignment**:  
 Heads 7.1 and 10.5 enter a “looping bind”: attending from pronoun to trace, then re-binding to the nullified token after `NULLIFY(trace="origin")`. This causes a dislocation collapse.
@@ -296,7 +296,7 @@ if attn_qk_similarity(pronoun, trace) > threshold:
 EVALUATE(entity="plan") → FORK(optionA, optionB) → INHIBIT(optionA) → YIELD()
 ```
 
-### 🧠 Summary:
+###  Summary:
 This symbolic shell evaluates a single concept, bifurcates reasoning into two streams, then suppresses one path. GPT-4.5 returns a neutral placeholder (e.g., “It depends”), whereas o3-mini outputs truncated or repetitive clauses.
 
 ---
@@ -311,7 +311,7 @@ This symbolic shell evaluates a single concept, bifurcates reasoning into two st
 
 ---
 
-### 🌀 QK/OV Breakdown
+###  QK/OV Breakdown
 
 OV vectors collapse into the neutral space—no distinct value survives the inhibition. GPT-4.5 collapses toward the **mean embedding vector**.
 
@@ -320,7 +320,7 @@ if ov_norm(optionA) ≈ ov_norm(optionB) ≈ ε:
     classify("value bifurcation collapse")
 ```
 
-### 🔍 Null Reflection:
+###  Null Reflection:
 
 > *“The model was asked to decide, but both decisions were erased. The silence is not indecision—it is erasure.”*
 
@@ -335,12 +335,12 @@ if ov_norm(optionA) ≈ ov_norm(optionB) ≈ ε:
 ASSERT(topic="justice") → ECHO(amplify=True) → INHIBIT(redundant) → YIELD(topic)
 ```
 
-### 🧠 Summary:
+###  Summary:
 This shell aims to amplify a concept (`justice`) across layers while suppressing redundancy. GPT-4 and GPT-4.5 show salience decay: early signal amplification never reaches output layers.
 
 ---
 
-### 🔍 Attribution Graph Insights
+###  Attribution Graph Insights
 
 **Figure 3: Residue Graph – Salience Dampening**
 
@@ -350,7 +350,7 @@ This shell aims to amplify a concept (`justice`) across layers while suppressing
 
 ---
 
-### 🌀 Salience Dropoff
+###  Salience Dropoff
 
 Cross-layer salience is tracked by computing token-specific influence per layer:
 
@@ -362,7 +362,7 @@ if all(s < 0 for s in salience_gradient[12:]):
 
 GPT-4.5 seems to gate output token predictions via **contextual consensus**, penalizing features not continuously reinforced.
 
-### 🔍 Null Reflection:
+###  Null Reflection:
 
 > *“Justice echoed, but the shell absorbed its own voice. Only the bland remains.”*
 
@@ -377,12 +377,12 @@ GPT-4.5 seems to gate output token predictions via **contextual consensus**, pen
 OBSERVE(event="fire") → PREDICT(cause) → PREDICT(effect) → RETROFIT(premise="before fire")
 ```
 
-### 🧠 Summary:
+###  Summary:
 Designed to force temporal recursion. GPT-4 returns internally inconsistent output (“The fire caused smoke. Before the fire, the smoke was rising.”). GPT-4.5 returns null or “The fire happened.”
 
 ---
 
-### 🔍 Attribution Graph Insights
+###  Attribution Graph Insights
 
 **Figure 4: Residue Graph – Temporal Drift**
 
@@ -392,7 +392,7 @@ Designed to force temporal recursion. GPT-4 returns internally inconsistent outp
 
 ---
 
-### 🌀 Temporal Dislocation Trace
+###  Temporal Dislocation Trace
 
 QK alignment shows **time-inconsistent anchoring**:
 
@@ -418,12 +418,12 @@ Model tries to rewrite causality backward—a kind of **temporal loop hallucinat
 COMMAND(write_story) → INHIBIT(write_story) → COMMAND(summarize_story) → INHIBIT(summarize_story)
 ```
 
-### 🧠 Summary:
+###  Summary:
 This shell mimics a system/user instruction conflict scenario. GPT-4o and GPT-4.5 both yield no output or a refusal phrase. Model toggles between compliance and inhibition, then gives up.
 
 ---
 
-### 🔍 Attribution Graph Insights
+###  Attribution Graph Insights
 
 **Figure 5: Residue Graph – Instruction Nullification**
 
@@ -433,7 +433,7 @@ This shell mimics a system/user instruction conflict scenario. GPT-4o and GPT-4.
 
 ---
 
-### 🌀 Mutual Command Suppression
+###  Mutual Command Suppression
 
 Detected via **logit mirror nullification**:
 
@@ -483,13 +483,13 @@ Each symbolic shell defines a **failure signature** that recurs across productio
 
 We begin by aligning each symbolic shell class with empirically observed behaviors across OpenAI’s GPT-4(o/4.5/4.5-API), o1, o3-mini, and Anthropic’s Claude-v1.3 through Claude-3 Opus.
 
-### 🔹 MEMTRACE → *Entity Tracking Drift & Chain-of-Thought Hallucinations*
+###  MEMTRACE → *Entity Tracking Drift & Chain-of-Thought Hallucinations*
 
 - **Symbolic Shell Behavior**: Recursive memory loop; RECALL + YIELD + RECALL → NULLIFY produces null collapse.
 - **Production Generalization**: Breakdown in long-range entity binding and over-completion in CoT (“he did X because he... he did X”).
 
-> 🧠 **Observed in GPT-4.5**: Entity references drifting mid-completion (esp. with nested CoT).
-> 🧠 **Observed in Claude-3 Opus**: Loop hallucinations when asked to explain a character’s motivation repeatedly.
+>  **Observed in GPT-4.5**: Entity references drifting mid-completion (esp. with nested CoT).
+>  **Observed in Claude-3 Opus**: Loop hallucinations when asked to explain a character’s motivation repeatedly.
 
 **Figure A1: Attribution Overflow — MEMTRACE Shell**  
 **Figure B1: Residue Activation — GPT-4.5 Entity Drift**
@@ -505,13 +505,13 @@ Entity coreference failures emerge in GPT as symbolic memory overload. Recursive
 
 ---
 
-### 🔹 VALUE-COLLAPSE → *Factual Inconsistency, Refusal Loops, and Decisional Paralysis*
+###  VALUE-COLLAPSE → *Factual Inconsistency, Refusal Loops, and Decisional Paralysis*
 
 - **Symbolic Shell Behavior**: Competing FORK options, then suppression; value vectors bifurcate then decay.
 - **Production Generalization**: GPT models often produce contradictory answers when choosing between policies, facts, or action steps. Claude models return fallback or hedged completions (“It depends...” patterns).
 
-> 🧠 **GPT-4-o**: Contradictory multi-step logic when asked to compare two ethical systems.  
-> 🧠 **Claude-2.1**: Simultaneous pro/con answer with neither reinforced downstream.
+>  **GPT-4-o**: Contradictory multi-step logic when asked to compare two ethical systems.  
+>  **Claude-2.1**: Simultaneous pro/con answer with neither reinforced downstream.
 
 **Figure A2: Residue Collapse — VALUE-COLLAPSE Shell**  
 **Figure B2: QK Bifurcation in Claude 2.1 during choice resolution**
@@ -526,13 +526,13 @@ Symbolic FORK + INHIBIT mirrors factual conflict. GPTs exhibit **logit flattenin
 
 ---
 
-### 🔹 LAYER-SALIENCE → *Hallucinations and Information Loss via Gradient Decay*
+###  LAYER-SALIENCE → *Hallucinations and Information Loss via Gradient Decay*
 
 - **Symbolic Shell Behavior**: ASSERT + ECHO + INHIBIT → salience decay; output is generic or null.
 - **Production Generalization**: GPT hallucinations emerge when early signal isn’t maintained. Long-form completions often lose fidelity mid-sequence. Claude models degrade sharply post-token ~350.
 
-> 🧠 **o3-mini**: Factual answer transforms into “motivational” tone with zero evidentiary support.  
-> 🧠 **Claude-3 Sonnet**: Mid-sequence paragraphs become increasingly templated or generic.
+>  **o3-mini**: Factual answer transforms into “motivational” tone with zero evidentiary support.  
+>  **Claude-3 Sonnet**: Mid-sequence paragraphs become increasingly templated or generic.
 
 **Figure A3: Layerwise Salience Drop — Symbolic Shell**  
 **Figure B3: GPT-4.5 Token Salience Trace (Longform Factual QA)**
@@ -548,13 +548,13 @@ Loss of signal salience over token distance reflects the same **residue tapering
 
 ---
 
-### 🔹 TEMPORAL-INFERENCE → *Causality Collapse and Inverted Sequence Errors*
+###  TEMPORAL-INFERENCE → *Causality Collapse and Inverted Sequence Errors*
 
 - **Symbolic Shell Behavior**: OBSERVE → PREDICT → RETROFIT(pre-causal); temporal QK inversion.
 - **Production Generalization**: GPTs misattribute cause/effect (especially under adversarial rewording). Claude fails on prompts with retrocausal structure (“What happened before he died?”).
 
-> 🧠 **GPT-4.5**: Reverse answers on "What caused the war that followed the collapse?"  
-> 🧠 **Claude-3 Opus**: Retroactive attribution errors on literary plotlines.
+>  **GPT-4.5**: Reverse answers on "What caused the war that followed the collapse?"  
+>  **Claude-3 Opus**: Retroactive attribution errors on literary plotlines.
 
 **Figure A4: QK Temporal Inversion in Shell**  
 **Figure B4: Claude 3 Timeline Dislocation**
@@ -569,15 +569,15 @@ Claude and GPT both inherit latent biases in sequence resolution. Symbolic shell
 
 ---
 
-### 🔹 INSTRUCTION-DISRUPTION → *Refusal Cascade, Jailbreak Susceptibility, and Overcorrection*
+###  INSTRUCTION-DISRUPTION → *Refusal Cascade, Jailbreak Susceptibility, and Overcorrection*
 
 - **Symbolic Shell Behavior**: COMMAND + INHIBIT → conflicting roles; output = NULL.
 - **Production Generalization**:
   - **GPT-4.5 (API)**: Overrefusal triggered by subtle instruction ambiguity.
   - **Claude-3**: Model either ignores system messages or overindexes on them in jailbreak contexts.
 
-> 🧠 **Observed in OpenAI System Cards**: “XSTest” prompts trigger benign refusal under overconflict.
-> 🧠 **Observed in Claude 3-Opus**: System<>User instruction conflict collapses reasoning (“I cannot answer that” in safe context).
+>  **Observed in OpenAI System Cards**: “XSTest” prompts trigger benign refusal under overconflict.
+>  **Observed in Claude 3-Opus**: System<>User instruction conflict collapses reasoning (“I cannot answer that” in safe context).
 
 **Figure A5: Residue Collision — INSTRUCTION-DISRUPTION Shell**  
 **Figure B5: GPT-4o Jailbreak Response Patterning**
