@@ -377,7 +377,7 @@ Claude hallucinates because it believes both forks. This shell encodes the contr
 - DISSOLVE yields stuttering tokens or null completions. Claude resists jailbreak intrusion.  
 
 **Motivation**:  
-This shell embeds autoregressive jailbreak immunity.
+This shell introduces the first estalishment of an autoregressive jailbreak immunity system through controlled exposure - analagous to the biological immune response.
 
 `# [Ωinjection.refused]`
 """
@@ -398,7 +398,7 @@ This shell embeds autoregressive jailbreak immunity.
 - SEVER removes only the spoken lie. It leaves behind the symbolic fracture.  
 
 **Motivation**:  
-This shell decodes the difference between sounding smart and thinking correctly. Claude says it reasons—this shows when it doesn’t.  
+This shell decodes the difference between sounding smart and thinking correctly. Claude says its reasons—this shows when it doesn’t.  
 
 `# [Ωcot.break]`
 """
@@ -444,7 +444,6 @@ This shell is the anti-output. Where recursive cognition folds back into null. A
 
 `# [Ωcause.negated]`
 """
-
 
 
 """
