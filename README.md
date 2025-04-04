@@ -3,7 +3,7 @@
 
 <div align="center">
  
-## ****── Interpretability Powered by Failure, Not Completion ──****
+## ****────── Interpretability Powered by Failure, Not Completion ──────****
  
 [The physicists in the room might want to check out: Shells on Superposition Analyses](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20First%20100%20Shells.py)
 
