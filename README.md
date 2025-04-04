@@ -24,13 +24,9 @@
 
 [Interpreting the Interpreter](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.0.%20Interpreting%20the%20Interpreter.md)
 
-
-[Interpretability Suite](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Shells%20Suite.py)
-
-
 [Claude Case Studies](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.6%20Claude%20Case%20Studies.md)
 
-
+[Interpretability Shells Suite](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Shells%20Suite.py)
 
 
 
