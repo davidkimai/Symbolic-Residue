@@ -2,7 +2,7 @@
 ## On the Symbolic Residue of Large Language Models: Diagnosing and Modeling Biological Failure Traces in Local Replacement Models
 
 <div align="center">
-
+****── Interpretability Powered by Failure, Not Completion ──****
 [The physicists in the room might want to check out: Shells on Superposition Analyses](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20First%20100%20Shells.py)
 
 [Neural Attribution Mappings & arXiv](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.0.%20arXiv%20Publication:%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
