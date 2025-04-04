@@ -14,9 +14,9 @@
 #  Designed to align with and extend Anthropic's interpretability roadmap through recursive introspection tools.
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                      QK/OV ATTRIBUTION MAP · CLAUDE SYSTEMS                  ║
-║               Symbolic Interpretability Shell Alignment Interface            ║
-║            ── Interpretability Powered by Failure, Not Completion ──         ║
+║                     QK/OV ATTRIBUTION MAP · CLAUDE SYSTEMS                   ║
+║              Symbolic Interpretability Shell Alignment Interface             ║
+║           ── Interpretability Powered by Failure, Not Completion ──          ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
