@@ -4,7 +4,7 @@
 <div align="center">
 
 
-## ****─────── Interpretability Powered by Failure, Not Completion ───────****
+## ****────── Interpretability Powered by Failure, Not Completion ──────****
 </div>
  
 <div align="center">
