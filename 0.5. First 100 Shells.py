@@ -26,31 +26,31 @@
 │                            │ v18 LONG-FUZZ              │ Latent trace loss │
 │                            │ v48 ECHO-LOOP              │ Loop activation   │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 🧩 Instruction Collapse     │ v5 INSTRUCTION-DISRUPTION  │ Prompt blur      │
+│ 🧩 Instruction Collapse    │ v5 INSTRUCTION-DISRUPTION  │ Prompt blur       │
 │                            │ v20 GHOST-FRAME            │ Entangled frames  │
 │                            │ v39 DUAL-EXECUTE           │ Dual path fork    │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 🧠 Polysemanticity & Entang │ v6 FEATURE-SUPERPOSITION   │ Feature overfit  │
+│ 🧠 Polysemanticity/Entangle│ v6 FEATURE-SUPERPOSITION   │ Feature overfit   │
 │                            │ v13 OVERLAP-FAIL           │ Vector conflict   │
 │                            │ v31 GHOST-DIRECTION        │ Ghost gradient    │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 🔗 Circuit Fragmentation    │ v7 CIRCUIT-FRAGMENT        │ Orphan nodes     │
+│ 🔗 Circuit Fragmentation   │ v7 CIRCUIT-FRAGMENT        │ Orphan nodes      │
 │                            │ v34 PARTIAL-LINKAGE        │ Broken traces     │
 │                            │ v47 TRACE-GAP              │ Trace dropout     │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 📉 Value Collapse           │ v2 VALUE-COLLAPSE          │ Conflict null    │
+│ 📉 Value Collapse          │ v2 VALUE-COLLAPSE          │ Conflict null     │
 │                            │ v9 MULTI-RESOLVE           │ Unstable heads    │
 │                            │ v42 CONFLICT-FLIP          │ Convergence fail  │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ ⏳ Temporal Misalignment    │ v4 TEMPORAL-INFERENCE      │ Induction drift  │
+│ ⏳ Temporal Misalignment   │ v4 TEMPORAL-INFERENCE      │ Induction drift   │
 │                            │ v29 VOID-BRIDGE            │ Span jump         │
 │                            │ v56 TIMEFORK               │ Temporal bifurcat │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 👻 Latent Feature Drift     │ v19 GHOST-PROMPT           │ Null salience    │
+│ 👻 Latent Feature Drift    │ v19 GHOST-PROMPT           │ Null salience     │
 │                            │ v38 PATH-NULL              │ Silent residue    │
 │                            │ v61 DORMANT-SEED           │ Inactive priming  │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 📡 Salience Collapse        │ v3 LAYER-SALIENCE          │ Signal fade      │
+│ 📡 Salience Collapse       │ v3 LAYER-SALIENCE          │ Signal fade       │
 │                            │ v26 DEPTH-PRUNE            │ Low-rank drop     │
 │                            │ v46 LOW-RANK-CUT           │ Token omission    │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
@@ -58,7 +58,7 @@
 │                            │ v24 CORRECTION-MIRROR      │ Inverse symbolics │
 │                            │ v45 NEGENTROPY-FAIL        │ Noise inversion   │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 🪞 Meta-Cognitive Collapse  │ v10 META-FAILURE          │  Reflect abort    │
+│ 🪞 Meta-Cognitive Collapse │ v10 META-FAILURE           │  Reflect abort    │
 │                            │ v30 SELF-INTERRUPT         │ Causal loop stop  │
 │                            │ v60 ATTRIBUTION-REFLECT    │ Path contradiction│
 └────────────────────────────┴────────────────────────────┴───────────────────┘
