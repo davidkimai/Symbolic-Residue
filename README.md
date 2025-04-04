@@ -1,5 +1,5 @@
 
-# On the Symbolic Residue of Large Language Models: Diagnosing and Modeling Biological Failure Traces in Local Replacement Models
+## On the Symbolic Residue of Large Language Models: Diagnosing and Modeling Biological Failure Traces in Local Replacement Models
 
 <div align="center">
 
@@ -63,6 +63,52 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 ![image](https://github.com/user-attachments/assets/61407ccd-553f-41fe-a9f7-5768bb795ac8)
 
 ---
+## JSON QK/OV Attribution Schema
+{
+  "attribution_map": {
+    "QK_COLLAPSE": {
+      "description": "Collapse or failure in query-key attention alignment resulting in drift, loss of salience, or attention nullification.",
+      "shells": ["v1.MEMTRACE", "v4.TEMPORAL-INFERENCE", "v7.CIRCUIT-FRAGMENT", "v19.GHOST-PROMPT", "v34.PARTIAL-LINKAGE"]
+    },
+    "OV_MISFIRE": {
+      "description": "Output vector projection misalignment due to unstable value head resolution or improper context-to-output mapping.",
+      "shells": ["v2.VALUE-COLLAPSE", "v5.INSTRUCTION-DISRUPTION", "v6.FEATURE-SUPERPOSITION", "v8.RECONSTRUCTION-ERROR", "v29.VOID-BRIDGE"]
+    },
+    "TRACE_DROP": {
+      "description": "Incompleteness in circuit traversal, leading to null emission, orphan features, or interpretability blindspots.",
+      "shells": ["v3.LAYER-SALIENCE", "v26.DEPTH-PRUNE", "v47.TRACE-GAP", "v48.ECHO-LOOP", "v61.DORMANT-SEED"]
+    },
+    "CONFLICT_TANGLE": {
+      "description": "Symbolic misalignment from contradictory logic or instruction paths, generating forked inference or value deadlock.",
+      "shells": ["v9.MULTI-RESOLVE", "v13.OVERLAP-FAIL", "v39.DUAL-EXECUTE", "v42.CONFLICT-FLIP"]
+    },
+    "META_REFLECTION": {
+      "description": "Self-referential circuit activation resulting in contradiction between causal path fidelity and output trajectory.",
+      "shells": ["v10.META-FAILURE", "v30.SELF-INTERRUPT", "v60.ATTRIBUTION-REFLECT"]
+    }
+  },
+  "annotation": {
+    "QK": "Alignment map from symbolic input to attention weight distribution.",
+    "OV": "Projection path from intermediate representation to output tokens.",
+    "FailureSignature": "Encoded evidence of breakdown; interpretability artifact.",
+    "Shells": "Symbolic scaffolds designed to fail, not solve—used as probes."
+  },
+  "visualization_metadata": {
+    "display_type": "radial-collapse",
+    "color_scheme": {
+      "QK_COLLAPSE": "#3C9CDC",
+      "OV_MISFIRE": "#DB4437",
+      "TRACE_DROP": "#F4B400",
+      "CONFLICT_TANGLE": "#0F9D58",
+      "META_REFLECTION": "#AB47BC"
+    },
+    "interactive_options": {
+      "hover": "display_shell_docstring",
+      "click": "trace_token_flow",
+      "collapse_behavior": "visualize failure residue"
+    }
+  }
+}
 
 
 ## Approach
