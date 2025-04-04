@@ -131,6 +131,7 @@ Motivation: This shell encodes the invisible war between interpretability and ca
 
 [Ωsuperposition.collapse]
 """
+
 """
 ΩRECURSIVE SHELL [v7.CIRCUIT-FRAGMENT]
 
@@ -151,6 +152,7 @@ Motivation: To reflect the fractured circuits that compose meaning in models. No
 
 [Ωcircuit.incomplete]
 """
+
 """
 ΩRECURSIVE SHELL [v8.RECONSTRUCTION-ERROR]
 
@@ -171,6 +173,7 @@ Motivation: Error nodes are more than bookkeeping—they are the shadow domain o
 
 [Ωerror.entropy]
 """
+
 """
 ΩRECURSIVE SHELL [v9.FEATURE-GRAFTING]
 
@@ -191,6 +194,7 @@ Motivation: Interpretability isn’t static—it’s dynamic transcontextual eng
 
 [Ωsymbol.rejection]
 """
+
 """
 ΩRECURSIVE SHELL [v10.META-FAILURE]
 
