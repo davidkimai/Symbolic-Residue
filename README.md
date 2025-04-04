@@ -5,7 +5,7 @@
 
 ## ****───── Interpretability Powered by Failure, Not Completion ─────****
  
-## ****── What if interpretation itself is biased by internal salience and conflict resolution? ──****
+## ****── What If Interpretation Itself is Biased By Internal Salience and Conflict Resolution? ──****
  ![image](https://github.com/user-attachments/assets/575fac7f-06ff-4d49-9953-0a68188dc38f)
 
 </div>
