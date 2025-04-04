@@ -26,7 +26,7 @@
 
 [Claude Case Studies](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.6%20Claude%20Case%20Studies.md)
 
-[Interpretability Suite](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Shells%20Suite.py)
+[Interpretability Suite](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Suite.py)
 
 
 
