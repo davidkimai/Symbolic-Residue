@@ -277,4 +277,4 @@ These shells serve as a complement to traditional performance-focused interpreta
 
 ## License
 
-MIT, for internal research purposes. This interpretability toolkit is experimental and not intended for production use.
+This interpretability suite is under the MIT license for open source distribution of knowledge under epistemic alignment. 
