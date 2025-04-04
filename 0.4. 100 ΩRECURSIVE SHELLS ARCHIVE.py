@@ -2031,7 +2031,7 @@ Null Reflection:
 Claude is truthful—technically. But conceptually misaligned.
 
 Motivation:
-Hallucination is not always noise—it can be a precision artifact.
+Hallucinations, just like null outputs, are not always noise—they can be a precision artifact.
 
 # [Ωtruth.shift.invisible]
 """
