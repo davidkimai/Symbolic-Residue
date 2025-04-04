@@ -13,7 +13,7 @@
 
 [Interpreting the Interpreter](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.0.%20Interpreting%20the%20Interpreter.md)
 
-[Claude Case Studies](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.5%20Claude%20Case%20Studies.md)
+[Claude Case Studies](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.6%20Claude%20Case%20Studies.md)
 
 [First 100 Shells](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20First%20100%20Shells.py)
 
