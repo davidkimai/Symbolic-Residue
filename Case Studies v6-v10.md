@@ -1,11 +1,9 @@
 # Symbolic Residue in Transformer Circuits:
 # Case Studies on Boundary Behaviors and Failure Traces
 
-*Internal Anthropic Documentation - Interpretability Team*
-
 ## Abstract
 
-This document provides comprehensive case studies of all ten symbolic shells in our interpretability framework, with particular focus on newly implemented shells (v6-v10). Each shell creates controlled failure conditions that yield "symbolic residue"—activation patterns that fail to produce coherent outputs but reveal critical aspects of model architecture. Through detailed attribution analysis, we demonstrate how each shell exposes specific limitations in Claude 3.5 Haiku's computational architecture, providing diagnostic signatures for more complex failure modes observed in production. These case studies extend the work documented in our "Biology of a Large Language Model" and "Circuit Tracing" papers, offering a systematic approach to boundary-condition interpretability.
+This document provides comprehensive case studies of all ten symbolic shells in our interpretability framework, with particular focus on newly implemented shells (v6-v10). Each shell creates controlled failure conditions that yield "symbolic residue"—activation patterns that fail to produce coherent outputs but reveal critical aspects of model architecture. Through detailed attribution analysis, we demonstrate how each shell exposes specific limitations in Claude 3.5 Haiku's computational architecture, providing diagnostic signatures for more complex failure modes observed in production. These case studies extend the work documented in Anthropic's "Biology of a Large Language Model" and "Circuit Tracing" papers, offering a systematic approach to boundary-condition interpretability.
 
 ## 1. Introduction to Attribution-Based Shell Analysis
 
