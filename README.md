@@ -13,10 +13,9 @@
  
 </div>
 
-
+---
  
 <div align="center">
-
 
 
 [The physicists in the room might want to check out: Superposition Analyses Shells](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20First%20100%20Shells.py)
