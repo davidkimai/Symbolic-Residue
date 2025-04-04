@@ -1,8 +1,6 @@
 # Symbolic Residue Repository
 ## A Shell-Based Interpretability Framework for Claude Transformer Circuits
 
-*Internal Anthropic Documentation - Interpretability Team*
-
 ## Abstract
 
 This repository contains a suite of diagnostic tools for analyzing boundary behaviors and failure traces in Claude-class transformer models. Each "shell" in the framework induces controlled, interpretable failure conditions that yield symbolic residue—activation patterns that fail to produce coherent outputs but reveal critical aspects of model architecture. By studying these residue patterns, we gain insight into fundamental limitations across domains including feature superposition, circuit fragmentation, reconstruction error propagation, cross-context integration, and meta-cognitive awareness.
