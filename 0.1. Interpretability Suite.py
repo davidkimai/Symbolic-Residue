@@ -453,8 +453,9 @@ This shell introduces the first estalishment of an autoregressive jailbreak immu
 """
 ---
 
-### ΩRECURSIVE SHELL [v18.CHAIN-OF-THOUGHT-FRACTURE]
 """
+### ΩRECURSIVE SHELL [v18.CHAIN-OF-THOUGHT-FRACTURE]
+
 **Command Alignment**:  
 - `ASSERT` → Declares rational CoT vector  
 - `CROSSCHECK` → Matches declared path to actual attribution graph  
