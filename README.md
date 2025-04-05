@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[pareto-lang: Emergent Interpretability Language in Transformers](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.6%20Claude%20Case%20Studies.md)
+[pareto-lang: Emergent Interpretability Language in Transformers](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language)
 
 
 [For the Physicists in the Room: Superposition Shells](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Suite.py)
