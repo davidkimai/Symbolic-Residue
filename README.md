@@ -1,5 +1,6 @@
 
-## On the Symbolic Residue of Large Language Models: Diagnosing and Modeling Biological Failure Traces in Local Replacement Models
+# On the Symbolic Residue of Large Language Models:
+# Diagnosing and Modeling Biological Failure Traces in Local Replacement Models
 
 <div align="center">
 
