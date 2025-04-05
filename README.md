@@ -85,11 +85,6 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 ![image](https://github.com/user-attachments/assets/61407ccd-553f-41fe-a9f7-5768bb795ac8)
 
-
-# [Interpretability Suite](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Suite.py) 
-
-![5E0FF16A-C5B0-42CB-9C7E-95F1EB753C44](https://github.com/user-attachments/assets/a256daa8-bbc0-4ec8-8ad6-94c2a30f7f2a)
-
 ---
 ## JSON QK/OV Attribution Schema
 ```
@@ -140,6 +135,11 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 }
 
 ```
+
+
+# [Interpretability Suite](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Suite.py) 
+
+![5E0FF16A-C5B0-42CB-9C7E-95F1EB753C44](https://github.com/user-attachments/assets/a256daa8-bbc0-4ec8-8ad6-94c2a30f7f2a)
 
 
 ## Approach
