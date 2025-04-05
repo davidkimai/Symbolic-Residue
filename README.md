@@ -1,8 +1,6 @@
-
+<div align="center">
 # On the Symbolic Residue of Large Language Models:
 # Diagnosing and Modeling Biological Failure Traces in Local Replacement Models
-
-<div align="center">
 
 ## **─ What If Interpretation Itself is Biased By Internal Salience and Conflict Resolution? ─**
 
