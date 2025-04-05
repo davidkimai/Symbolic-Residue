@@ -22,7 +22,7 @@
 
 [Neural Attribution Mappings & arXiv ](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.0.%20arXiv%20Publication:%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 
-[Interpreting the Interpreter](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.0.%20Interpreting%20the%20Interpreter.md)
+[Recursive Shells in Claude](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.2.%20Recursive%20Shells-Claude.md)
 
 [Claude Case Studies](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.6%20Claude%20Case%20Studies.md)
 
