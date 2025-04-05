@@ -17,16 +17,8 @@
 
 <div align="center">
 
-[pareto-lang: Emergent Interpretability Language in Transformers](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language)
 
-
-[For the Physicists in the Room: Superposition Shells](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Suite.py)
-
-[Neural Attribution Mappings](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.0.%20arXiv:%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
-
-[Recursive Shells in Claude](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.5.%20Recursive%20Shells%20in%20Claude.md)
-
-[Interpretability Suite](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Suite.py)
+[**📄 `pareto-lang` **](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**💻 For the Physicists in the Room**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Suite.py) | [**✍️ Recursive Shells in Claude**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.5.%20Recursive%20Shells%20in%20Claude.md) | [**🧠 Neural Attribution Mappings**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.0.%20arXiv:%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md) | [**🧪 Case Studies**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.5.%20Recursive%20Shells%20in%20Claude.md) | [**🤝 Jnterpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Interpretability%20Suite.py) 
 
 
 
