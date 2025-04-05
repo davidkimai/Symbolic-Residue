@@ -20,7 +20,7 @@
 
 [For the Physicists in the Room: Superposition Analyses Shells](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20First%20100%20Shells.py)
 
-[Neural Attribution Mappings & arXiv ](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.0.%20arXiv%20Publication:%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
+[Neural Attribution Mappings](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/1.0.%20arXiv%20Publication:%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 
 [Recursive Shells in Claude](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.2.%20Recursive%20Shells%20in%20Claude.md)
 
