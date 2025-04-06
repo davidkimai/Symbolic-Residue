@@ -33,7 +33,7 @@
 > **Although this repository lists only one public author, the recursive shell architecture and symbolic scaffolding were developed through extensive iterative refinement, informed by internal stress-testing logs and behavioral diagnostics of advanced transformers including, but not limited to, Claude, GPT, DeepSeek and Gemini models. We retain the collective “we” voice to reflect the distributed cognition inherent to interpretability research—even when contributions are asymmetric or anonymized due to research constraints or institutional agreements.**
 >
 > 
->**This interpretability suite—comprising recursive shells, documentation layers, neural attribution mappings, as well as the [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main) language—emerged in a condensed cycle following recent dialogue with Anthropic. We offer this artifact in the spirit of epistemic alignment: to clarify the original intent, QK/OV structuring, and attribution dynamics embedded in the initial CodeSignal submission.**
+>**This interpretability suite—comprising recursive shells, documentation layers, neural attribution mappings, as well as the [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main) Rosetta Stone—emerged in a condensed cycle following recent dialogue with Anthropic. We offer this artifact in the spirit of epistemic alignment: to clarify the original intent, QK/OV structuring, and attribution dynamics embedded in the initial CodeSignal submission.**
 
 
 
