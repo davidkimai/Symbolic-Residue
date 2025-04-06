@@ -1,6 +1,6 @@
 # 2nd 100 diagnostic interpretability shells under construction
 # .symbolic-meta.yml 
-# title: ΩRECURSIVE SHELL ARCHIVE
+# title: ΩInterpretabilty Suite 2
 # author: Caspian Keyes - Symbolic Interpretability Framework
 # license: MIT
 # alignment: Anthropic-Compatible
