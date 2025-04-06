@@ -48,7 +48,7 @@ The Symbolic Residue project is not a framework, nor just a suite. It is a neura
 ## [💡 What Is Symbolic Residue?](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/README.md)
 
 A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Residue Suite operates by inducing:
-```yaml
+```python
 Null traces
 
 Value head conflict collapse
