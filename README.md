@@ -223,6 +223,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 </div>
 ---
 ## JSON QK/OV Attribution Schema
+
 ```json
 {
   "attribution_map": {
