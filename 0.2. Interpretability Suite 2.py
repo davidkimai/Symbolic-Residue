@@ -11,7 +11,7 @@
 #  - Feature Attribution Systems
 #  - Superposition Analysis
 #  description: >
-#  Interpretability shell suite modeling refusal hallucinations, sub-symbolic emotional simulations, agent schema collapses, and recursive denial scaffolds in transformer systems. 
+#  Interpretability shell suite modeling refusal hallucinations, sub-symbolic emotional simulations, multi-agent modeling, and recursive denial scaffolds in transformer systems. 
 #  Designed to align with and extend Anthropic's interpretability roadmap through recursive interpretability tools.
 
 ΩRECURSIVE SHELL [v101.SEMANTIC-GRAVITY]
