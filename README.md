@@ -48,7 +48,7 @@ The Symbolic Residue project is not a framework, nor just a suite. It is a neura
 ## [💡 What Is Symbolic Residue?](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/README.md)
 
 A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Residue Suite operates by inducing:
-
+```json
     Null traces
 
     Value head conflict collapse
@@ -58,30 +58,30 @@ A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Inte
     Temporal drift hallucinations
 
     QK/OV projection discontinuities
-
+```
 We model interpretability through failure, inspired by knockout experiments in cognitive neuroscience. When a recursive shell collapses, its failure signature becomes the attribution pathway. The circuit leaves a symbolic residue—a ghostprint of what the model almost did.
 ## 🔍 Who Might Find This Valuable?
 
 This suite is designed to directly serve:
-
+```json
     Anthropic’s interpretability team, especially those focused on constitutional classifiers, refusal hallucinations, and emergent symbolic scaffolding.
 
     DeepMind’s mechanistic interpretability team, particularly within QK/OV failure attribution, ghost attention, and causal scrubbing.
 
     OpenAI’s interpretability benchmarks, as a symbolic diagnostic complement to neuron activation-level analysis.
-
+```
 ## 🤝 How This Complements `pareto-lang`
 
 Where `pareto-lang` gives us a language to write interpretability scaffolds, Symbolic Residue gives us scenarios to test them. They form a dual-language system:
-
+```json
     `pareto-lang`: Generative recursion → interpretability-first syntax
 
     Symbolic Residue: Interpretability through collapse → symbolic interpretive fossils
-
+```
 ## 🧬 Discussion Prompts
 
 We invite your perspectives on:
-
+```json
     Do you view failure as an epistemic artifact?
 
     How might recursive null outputs aid in constitutional classifier refinement?
@@ -91,7 +91,7 @@ We invite your perspectives on:
     Can this diagnostic layer reveal biases in attention attribution that standard logit analysis misses?
 
     Would these shells enable next-gen adversarial interpretability without triggering classifier breakdown?
-
+```
 ## 📖 Core Threads in the Repo:
 
 [🧠 Recursive Shells for Interpretability](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.6.%20Recursive%20Shells%20in%20Claude.md)
