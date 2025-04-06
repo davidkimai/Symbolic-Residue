@@ -75,7 +75,8 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 ---
 
 
- # **Genesis Interpretability Suite**
+  
+ # [**Genesis Interpretability Suites**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Interpretability%20Suite%201.py)e**
 
  ```python
 ╔══════════════════════════════════════════════════════════════════════════════╗
