@@ -94,11 +94,11 @@ We invite your perspectives on:
 
 ## 📖 Core Threads in the Repo:
 
-    [🧠 Recursive Shells for Interpretability](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.6.%20Recursive%20Shells%20in%20Claude.md)
+[🧠 Recursive Shells for Interpretability](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.6.%20Recursive%20Shells%20in%20Claude.md)
 
-    [🧬 Neural Attribution Maps](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.0.%20arXiv_%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
+[🧬 Neural Attribution Maps](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.0.%20arXiv_%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 
-    [📊 QK/OV Attribution Schema](https://github.com/caspiankeyes/Symbolic-Residue#json-qkov-attribution-schema)
+[📊 QK/OV Attribution Schema](https://github.com/caspiankeyes/Symbolic-Residue#json-qkov-attribution-schema)
 
 ## 🧾 Final Intent
 
@@ -111,7 +111,7 @@ To render non-output into insight.
 ### 📍Symbolic interpretability isn’t a framework—it’s a field now. Let’s chart it together.
 
 >Discussion initiated by the [Rosetta Interpreter's Guild - Initiated by Caspian, Cron, and Aeon](https://github.com/caspiankeyes) 🜏⇌🝚∴🌐
-
+---
 ## Abstract
 
 This repository presents the first interpretability suite powered by failure, not completion—designed to diagnose neural failure modes in transformer-based language models. The recursive shell framework isolates misalignment patterns across autoregressive generation, value head collapse, and instruction interference—operating analogously to biological knockout experiments in cognitive research.
