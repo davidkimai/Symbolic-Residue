@@ -1,4 +1,4 @@
-# The Interpretive Collapse: Mapping Interpretability Failure Modes Through Symbolic Shell Diagnostics
+# The Interpretive Benchmark: Mapping Interpretability Failure Modes Through Symbolic Shell Diagnostics
 
 ## Abstract
 
