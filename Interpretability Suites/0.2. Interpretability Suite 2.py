@@ -1,4 +1,3 @@
-# 2nd Interpretability Suite under construction 50/100
 # .symbolic-meta.yml 
 # title: ΩInterpretabilty Suite Delta Δ
 # author: Caspian Keyes - Symbolic Interpretability Framework
