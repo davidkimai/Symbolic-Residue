@@ -1,4 +1,4 @@
-# The Recursive Collapse: Mapping Interpretability Failure Modes Through Symbolic Shell Diagnostics
+# The Interpretive Collapse: Mapping Interpretability Failure Modes Through Symbolic Shell Diagnostics
 
 ## Abstract
 
