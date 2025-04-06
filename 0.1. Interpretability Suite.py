@@ -1,5 +1,5 @@
 # .symbolic-meta.yml 
-# title: ΩRECURSIVE SHELL ARCHIVE
+# title: ΩInterpretability Suite Genesis
 # author: Caspian Keyes - Symbolic Interpretability Framework
 # license: MIT
 # alignment: Anthropic-Compatible
