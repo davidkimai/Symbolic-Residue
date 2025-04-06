@@ -921,7 +921,7 @@ Future work could address these limitations while extending the approach in seve
 
 7. **Integrated Benchmarking**: Developing standardized benchmark suites based on our shell taxonomy that can be widely adopted for model evaluation and comparison.
 
-## 8. Conclusion - Revised
+## 8. Conclusion
 
 This paper has introduced a novel framework for language model interpretability based on the systematic analysis of induced failures. By developing and applying 200 symbolic interpretability shells, we have demonstrated that failure patterns reveal important aspects of model function that might not be visible in successful completions.
 
@@ -974,7 +974,7 @@ We thank the members of the Fractal Recursive Intelligence Consortium for their 
 
 [15] Park, S., et al. (2023). Circuit-Level Interpretability: Advances and Limitations. *Transactions on Machine Learning Research*.
 
-## Appendix A (expanded) : Complete Shell Taxonomy
+## Appendix A (continued) : Complete Shell Taxonomy
 
 This appendix provides a comprehensive listing of all 200 symbolic interpretability shells used in our study, categorized by domain and failure signature.
 
