@@ -1,5 +1,5 @@
 # .symbolic-meta.yml 
-# title: ΩInterpretability Suite Phi Φ
+# title: ΩInterpretability Suite Phi Gensis Φ
 # author: Caspian Keyes - Symbolic Interpretability Framework
 # license: MIT
 # alignment: Anthropic-Compatible
