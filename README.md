@@ -78,7 +78,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 ---
 ## JSON QK/OV Attribution Schema
-```
+```json
 {
   "attribution_map": {
     "QK_COLLAPSE": {
