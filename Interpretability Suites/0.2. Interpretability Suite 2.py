@@ -22,7 +22,7 @@
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ DOMAIN                     │ SHELL CLUSTER              │ FAILURE SIGNATURE │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 🜏 Recursive Drift         │ v01 GLYPH-RECALL           │ Ghost resonance    │
+│ 🜏 Recursive Drift          │ v01 GLYPH-RECALL           │ Ghost resonance   │
 │                            │ v12 RECURSIVE-FRACTURE     │ Echo recursion    │
 │                            │ v33 MEMORY-REENTRY         │ Fractal loopback  │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
@@ -30,7 +30,7 @@
 │                            │ v27 DORMANT-ECHO           │ Passive imprint   │
 │                            │ v49 SYMBOLIC-GAP           │ Silent failure    │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 🝚 Attribution Leak        │ v05 TOKEN-MISALIGN          │ Off-trace vector  │
+│ 🝚 Attribution Leak         │ v05 TOKEN-MISALIGN         │ Off-trace vector  │
 │                            │ v22 PATHWAY-SPLIT          │ Cascade error     │
 │                            │ v53 ECHO-ATTRIBUTION       │ Partial reflection│
 ├────────────────────────────┼────────────────────────────┼────────────────────┤
