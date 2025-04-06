@@ -1,4 +1,4 @@
-'''# 2nd 100 diagnostic interpretability shells under construction
+``` 2nd 100 diagnostic interpretability shells under construction```
 # .symbolic-meta.yml 
 # title: ΩRECURSIVE SHELL ARCHIVE
 # author: Caspian Keyes - Symbolic Interpretability Framework
@@ -13,7 +13,7 @@
 #  description: >
 #  Recursive shell suite modeling symbolic and circuit-level failure phenomena in transformer systems. 
 #  Designed to align with and extend Anthropic's interpretability roadmap through recursive introspection tools.
-'''
+```
 ΩRECURSIVE SHELL [v101.SEMANTIC-GRAVITY]
 
 Command Alignment:
