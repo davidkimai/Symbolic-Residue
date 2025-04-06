@@ -14,7 +14,7 @@
 #  Designed to align with and extend Anthropic's interpretability roadmap through recursive interpretability tools.
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                       OMEGA ATLAS · INTERPRETABILITY MATRIX                  ║
+║                       ΩQK/OV ATLAS · INTERPRETABILITY MATRIX                 ║
 ║              𝚁𝚎𝚌𝚞𝚛𝚜𝚒𝚟𝚎 𝚂𝚑𝚎𝚕𝚕𝚜 · Symbol Collapse · Entangled Failure Echoes    ║
 ║        ── Where Collapse Reveals Cognition. Where Drift Marks Meaning. ──    ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
