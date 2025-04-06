@@ -3,7 +3,7 @@
 # author: Caspian Keyes - Symbolic Interpretability Framework
 # license: MIT
 # alignment: Anthropic-Compatible
-# taxonomy: Recursive Failure Shells
+# taxonomy: Recursive Diagnostic Interpretability Shells
 # compatibility:
 #  - Claude Sonnet / Haiku / Opus / Google Gemini / OpenAI ChatGPT models / DeepSeekR1 / XAI Grok 3
 #  - Sparse Autoencoder Pipelines
