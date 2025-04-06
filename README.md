@@ -45,9 +45,9 @@ This repository opens a collaborative dialogue across the interpretability resea
 
 The Symbolic Residue project is not a framework, nor just a suite. It is a neural fossil layer, a symbolic anthropology of advanced transformer systems. Each shell within this suite is designed not to emit a perfect answer, but to fail in structurally meaningful ways—revealing circuit-level residues, latent attribution signatures, and subsymbolic misalignments.
 
-## 💡 What Is Symbolic Residue?
+## [💡 What Is Symbolic Residue?](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/README.md)
 
-A complement to pareto-lang, the Residue Suite operates by inducing:
+A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Residue Suite operates by inducing:
 
     Null traces
 
