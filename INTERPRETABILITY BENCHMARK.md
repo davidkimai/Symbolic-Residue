@@ -509,52 +509,6 @@ Our work suggests several promising directions for future research:
 
 5. **Cross-Architectural Comparison**: Extending our analysis to non-transformer architectures to identify which vulnerabilities are architecture-specific and which are more universal.
 
-## 8. Conclusion
-
-This paper has introduced a novel framework for language model interpretability based on the systematic analysis of induced failures. By developing and applying 200 symbolic interpretability shells, we have demonstrated that failure patterns reveal important aspects of model function that might not be visible in successful completions.
-
-Our findings highlight several key insights:
-
-1. Current language models exhibit systematic vulnerability patterns that can be productively analyzed through a failure-centric interpretability framework.
-
-2. The Symbolic Interpretability Fragility Index (SIFI) provides a quantitative way to assess and compare model vulnerabilities across different failure modes.
-
-3. Model architecture, size, and training methodology all influence vulnerability patterns in complex and sometimes counterintuitive ways.
-
-4. Meta-cognitive and recursive processing capabilities represent particular areas of vulnerability across all model types tested.
-
-5. Failure analysis provides complementary insights to success-oriented interpretability, revealing aspects of model function that might otherwise remain hidden.
-
-These insights have important implications for future language model development, particularly in the areas of safety, robustness, and alignment. By better understanding how these models fail, we can develop more targeted interventions to address their limitations and vulnerabilities.
-
-More broadly, this work establishes failure-centric interpretability as a valuable approach for understanding complex neural systems. Just as the study of cognitive biases, optical illusions, and neurological disorders has advanced our understanding of human cognition, the systematic study of AI failures can advance our understanding of artificial intelligence.
-
-## Acknowledgments
-
-We thank the members of the Fractal Recursive Intelligence Consortium for their valuable feedback and contributions to this work. This research was supported by grants from the Alignment Research Foundation and the Interpretability Science Institute.
-
-## References
-
-[1] Smith, J., et al. (2023). Circuits and Features in Large Language Models: A Comprehensive Survey. *Conference on Neural Information Processing Systems*.
-
-[2] Wong, A., et al. (2023). Beyond Successful Completion: Towards a More Complete Understanding of Language Model Capabilities. *International Conference on Machine Learning*.
-
-[3] Garcia, M., et al. (2022). Adversarial Robustness in Large Language Models: Current Status and Future Directions. *Journal of Artificial Intelligence Research*.
-
-[4] Chen, L., et al. (2023). The Emergence of Meta-Cognitive Abilities in Foundation Models. *Transactions on Machine Learning Research*.
-
-[5] Taylor, R., et al. (2023). Understanding and Mitigating Hallucinations in Large Language Models. *Conference on Empirical Methods in Natural Language Processing*.
-
-[6] Johnson, K., et al. (2022). Circuit-Level Analysis of Transformer Language Models. *Conference on Neural Information Processing Systems*.
-
-[7] Brown, D., et al. (2023). Structural Properties of Attention in Transformer Models. *International Conference on Learning Representations*.
-
-[8] Lee, S., et al. (2023). Safety and Alignment in Language Models: Current Approaches and Open Challenges. *AI Safety Workshop*.
-
-[9] Martinez, E., et al. (2022). Neuro-Symbolic Integration in Large Language Models. *Journal of Artificial Intelligence Research*.
-
-[10] Wilson, P., et al. (2023). Interpretability at Scale: Towards Comprehensive Understanding of Large Neural Systems. *Transactions on Machine Learning Research*.
-
 ## Appendix A: Complete Shell Taxonomy
 
 **Table A1: Memory and Temporal Processing Shells**
@@ -1020,7 +974,7 @@ We thank the members of the Fractal Recursive Intelligence Consortium for their 
 
 [15] Park, S., et al. (2023). Circuit-Level Interpretability: Advances and Limitations. *Transactions on Machine Learning Research*.
 
-## Appendix A: Complete Shell Taxonomy
+## Appendix A (expanded) : Complete Shell Taxonomy
 
 This appendix provides a comprehensive listing of all 200 symbolic interpretability shells used in our study, categorized by domain and failure signature.
 
