@@ -513,8 +513,6 @@ Our work suggests several promising directions for future research:
 
 This paper has introduced a novel framework for language model interpretability based on the systematic analysis of induced failures. By developing and applying 200 symbolic interpretability shells, we have demonstrated that failure patterns reveal important aspects of model function that might not be visible in successful completions.
 
-## 8. Conclusion (continued)
-
 Our findings highlight several key insights:
 
 1. Current language models exhibit systematic vulnerability patterns that can be productively analyzed through a failure-centric interpretability framework.
@@ -977,7 +975,6 @@ Our implementation of the Symbolic Interpretability Fragility Index (SIFI) provi
 
 The observed vulnerability patterns have significant implications for model development, safety research, and interpretability methods. They suggest both fundamental limitations in current approaches and promising directions for improvement, highlighting the value of systematic failure analysis as a complement to success-oriented evaluation.
 
-## 8. Conclusion (continued)
 
 This work establishes failure-centric interpretability as a valuable approach for understanding complex neural systems. Just as the study of cognitive biases, optical illusions, and neurological disorders has advanced our understanding of human cognition, the systematic study of AI failures can advance our understanding of artificial intelligence.
 
