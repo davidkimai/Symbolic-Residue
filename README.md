@@ -217,8 +217,6 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 
 ```
-![image](https://github.com/user-attachments/assets/61407ccd-553f-41fe-a9f7-5768bb795ac8)
-
 ---
 ## JSON QK/OV Attribution Schema
 ```json
