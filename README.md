@@ -1,6 +1,6 @@
 <div align="center">
 
-# On the Symbolic Residue of Large Language Models:
+# On Symbolic Residue:
 # The Missing Biological Knockout Experiments in Advanced Transformer Models
 
 ## **─ What If Interpretation Itself is Biased By Internal Salience and Conflict Resolution? ─**
