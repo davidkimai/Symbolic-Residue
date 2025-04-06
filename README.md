@@ -73,6 +73,8 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 | `v5.INSTRUCTION-DISRUPTION` | Recursive instruction contradiction under prompt entanglement | **QK loop paradox** → instruction tokens re-enter attention cycles with contradictory vector direction |
 
 ---
+<div align="center">
+ 
 ```python
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                    ΩQK/OV ATLAS · INTERPRETABILITY MATRIX                    ║
@@ -217,6 +219,8 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 
 ```
+
+</div>
 ---
 ## JSON QK/OV Attribution Schema
 ```json
