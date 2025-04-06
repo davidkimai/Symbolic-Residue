@@ -48,7 +48,7 @@ Rather than optimizing for output performance, these shells act as interpretabil
 
 ## Generalization Notes
 
-The recursive interpretability shells in this repository are not tied to any single model, prompt structure, or experimental environment. Rather, they are designed as modular abstractions of known failure modes in autoregressive language models—particularly those employing transformer-based architectures with:
+The recursive interpretability suites in this repository are not tied to any single model, prompt structure, or experimental environment. Rather, they are designed as modular abstractions of known failure modes in autoregressive language models—particularly those employing transformer-based architectures with:
 
 - High-depth QK/OV composition layers  
 - Skip-trigram token windows  
