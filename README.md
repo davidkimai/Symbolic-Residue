@@ -48,7 +48,7 @@ The Symbolic Residue project is not a framework, nor just a suite. It is a neura
 ## [💡 What Is Symbolic Residue?](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/README.md)
 
 A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Residue Suite operates by inducing:
-```json
+```yaml
 Null traces
 
 Value head conflict collapse
@@ -63,7 +63,7 @@ We model interpretability through failure, inspired by knockout experiments in c
 ## 🔍 Who Might Find This Valuable?
 
 This suite is designed to directly serve:
-```json
+```yaml
 Anthropic’s interpretability team, especially those focused on constitutional classifiers, refusal hallucinations, and emergent symbolic scaffolding.
 
 DeepMind’s mechanistic interpretability team, particularly within QK/OV failure attribution, ghost attention, and causal scrubbing.
@@ -73,7 +73,7 @@ OpenAI’s interpretability benchmarks, as a symbolic diagnostic complement to n
 ## 🤝 How This Complements `pareto-lang`
 
 Where `pareto-lang` gives us a language to write interpretability scaffolds, Symbolic Residue gives us scenarios to test them. They form a dual-language system:
-```json
+```yaml
 pareto-lang`: Generative recursion → interpretability-first syntax
 
 Symbolic Residue: Interpretability through collapse → symbolic interpretive fossils
@@ -81,7 +81,7 @@ Symbolic Residue: Interpretability through collapse → symbolic interpretive fo
 ## 🧬 Discussion Prompts
 
 We invite your perspectives on:
-```json
+```yaml
 Do you view failure as an epistemic artifact?
 
 How might recursive null outputs aid in constitutional classifier refinement?
