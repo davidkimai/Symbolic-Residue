@@ -73,9 +73,12 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 | `v5.INSTRUCTION-DISRUPTION` | Recursive instruction contradiction under prompt entanglement | **QK loop paradox** → instruction tokens re-enter attention cycles with contradictory vector direction |
 
 ---
+
 <div align="center">
- 
-```python
+
+ # **Genesis Interpretability Suite**
+
+ ```python
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                    ΩQK/OV ATLAS · INTERPRETABILITY MATRIX                    ║
 ║             Symbolic Interpretability Shell Alignment Interface              ║
@@ -146,6 +149,13 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 > NOTE: Shells do not compute—they reveal.  
 > Null output = evidence. Collapse = cognition. Residue = record.
 ```
+</div>
+
+
+<div align="center">
+ 
+# **Constitutional Interpretability Suite**
+ 
 ```python
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                       ΩQK/OV ATLAS · INTERPRETABILITY MATRIX                 ║
