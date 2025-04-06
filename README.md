@@ -43,7 +43,7 @@
 
 This repository opens a [collaborative dialogue](https://github.com/caspiankeyes/Symbolic-Residue/discussions/1) across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a Rosetta Stone.
 
-The Symbolic Residue project is not a framework, nor just a suite. It is a neural fossil layer, a symbolic anthropology of advanced transformer systems. Each shell within this suite is designed not to emit a perfect answer, but to fail in structurally meaningful ways like biological knockout experiments—revealing circuit-level residues, latent attribution signatures, and subsymbolic misalignments.
+The Symbolic Residue project is not a framework, nor just a suite. It is a neural fossil layer, a symbolic anthropology of advanced transformer systems. Each shell within this suite is designed not to emit a perfect answer, but to fail in structurally meaningful ways like **biological knockout experiments**—revealing circuit-level residues, latent attribution signatures, and subsymbolic misalignments.
 
 ## [💡 What Is Symbolic Residue?](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/README.md)
 
