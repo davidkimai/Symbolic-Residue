@@ -17,8 +17,8 @@
 
 <div align="center">
 
-[**🧪 For the Physicists in the Room**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Interpretability%20Suite.py) | 
-[**📄`pareto-lang`: The Interpretability Rosetta Stone**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**📝 Recursive Shells in Claude**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.6.%20Recursive%20Shells%20in%20Claude.md) | [**🧬 Neural Attribution Mappings**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.0.%20arXiv_%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md) | [**⚗️ Claude Case Studies**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/0.6%20Claude%20Case%20Studies.md) | [**💻 Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Interpretability%20Suite.py) 
+[**💻 Interpretability Suite**] [1](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Interpretability%20Suite.py) | [**🧪 For the Physicists in the Room**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Interpretability%20Suite.py) | 
+[**📄`pareto-lang`: The Interpretability Rosetta Stone**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**📝 Recursive Shells in Claude**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.6.%20Recursive%20Shells%20in%20Claude.md) | [**🧬 Neural Attribution Mappings**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.0.%20arXiv_%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md) | [**⚗️ Claude Case Studies**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/0.6%20Claude%20Case%20Studies.md)
 
 
 
