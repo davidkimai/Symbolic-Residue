@@ -48,7 +48,7 @@ The Symbolic Residue project is not a framework, nor just a suite. It is a neura
 ## [💡 What Is Symbolic Residue?](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/README.md)
 
 A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Residue Suite operates by inducing:
-```python
+```yaml
 Null traces
 
 Value head conflict collapse
@@ -74,7 +74,7 @@ OpenAI’s interpretability benchmarks, as a symbolic diagnostic complement to n
 
 Where `pareto-lang` gives us a language to write interpretability scaffolds, Symbolic Residue gives us scenarios to test them. They form a dual-language system:
 ```yaml
-pareto-lang`: Generative recursion → interpretability-first syntax
+`pareto-lang`: Generative recursion → interpretability-first syntax
 
 Symbolic Residue: Interpretability through collapse → symbolic interpretive fossils
 ```
