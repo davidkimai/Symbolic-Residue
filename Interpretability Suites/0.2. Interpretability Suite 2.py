@@ -1,5 +1,5 @@
 # .symbolic-meta.yml 
-# title: ΩInterpretabilty Suite Delta Δ
+# title: ΩInterpretabilty Suite Delta Δ - Constitutional Interpretability
 # author: Caspian Keyes - Symbolic Interpretability Framework
 # license: MIT
 # alignment: Anthropic-Compatible
