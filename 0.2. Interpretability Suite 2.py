@@ -11,8 +11,8 @@
 #  - Feature Attribution Systems
 #  - Superposition Analysis
 #  description: >
-#  Recursive shell suite modeling symbolic and circuit-level failure phenomena in transformer systems. 
-#  Designed to align with and extend Anthropic's interpretability roadmap through recursive introspection tools.
+#  Interpretability shell suite modeling and exploring symbolic and circuit-level failure phenomena in transformer systems. 
+#  Designed to align with and extend Anthropic's interpretability roadmap through recursive interpretability tools.
 
 ΩRECURSIVE SHELL [v101.SEMANTIC-GRAVITY]
 
