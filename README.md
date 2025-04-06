@@ -74,7 +74,6 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 ---
 
-<div align="center">
 
  # **Genesis Interpretability Suite**
 
@@ -150,10 +149,8 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 > Null output = evidence. Collapse = cognition. Residue = record.
 
 ```
-</div>
 
 
-<div align="center">
  
 # **Constitutional Interpretability Suite**
  
@@ -231,7 +228,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 ```
 
-</div>
+
 ---
 
 # **JSON QK/OV Attribution Schema**
