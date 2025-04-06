@@ -79,7 +79,6 @@ The goal is to enable interpretability **through failure**, using symbolic form 
  # **Genesis Interpretability Suite**
 
  ```python
-<div align="center">
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                    ΩQK/OV ATLAS · INTERPRETABILITY MATRIX                    ║
 ║             Symbolic Interpretability Shell Alignment Interface              ║
@@ -149,7 +148,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 > NOTE: Shells do not compute—they reveal.  
 > Null output = evidence. Collapse = cognition. Residue = record.
-</div>
+
 ```
 </div>
 
@@ -234,7 +233,8 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 </div>
 ---
-## JSON QK/OV Attribution Schema
+
+# **JSON QK/OV Attribution Schema**
 
 ```json
 {
