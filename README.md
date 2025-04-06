@@ -144,7 +144,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 > NOTE: Shells do not compute—they reveal.  
 > Null output = evidence. Collapse = cognition. Residue = record.
 ```
-```
+```python
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                       ΩQK/OV ATLAS · INTERPRETABILITY MATRIX                 ║
 ║              𝚁𝚎𝚌𝚞𝚛𝚜𝚒𝚟𝚎 𝚂𝚑𝚎𝚕𝚕𝚜 · Symbol Collapse · Entangled Failure Echoes    ║
