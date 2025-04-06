@@ -72,8 +72,6 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 | `v4.TEMPORAL-INFERENCE` | Temporal misalignment in autoregressive chains | **QK dislocation over time** → attention misfire in skip-trigram induction heads |
 | `v5.INSTRUCTION-DISRUPTION` | Recursive instruction contradiction under prompt entanglement | **QK loop paradox** → instruction tokens re-enter attention cycles with contradictory vector direction |
 
----
-
 # [Interpretability Suite](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Interpretability%20Suite%201.py) 
 
 ![image](https://github.com/user-attachments/assets/4776e76d-26a5-4b42-ac72-3ae7a8e76a25)
