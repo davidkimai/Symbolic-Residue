@@ -41,7 +41,7 @@
 
 # Overview:
 
-This repository opens a collaborative dialogue across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a language.
+This repository opens a [collaborative dialogue](https://github.com/caspiankeyes/Symbolic-Residue/discussions/1) across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a language.
 
 The Symbolic Residue project is not a framework, nor just a suite. It is a neural fossil layer, a symbolic anthropology of advanced transformer systems. Each shell within this suite is designed not to emit a perfect answer, but to fail in structurally meaningful ways—revealing circuit-level residues, latent attribution signatures, and subsymbolic misalignments.
 
@@ -49,48 +49,48 @@ The Symbolic Residue project is not a framework, nor just a suite. It is a neura
 
 A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Residue Suite operates by inducing:
 ```json
-    Null traces
+Null traces
 
-    Value head conflict collapse
+Value head conflict collapse
 
-    Instruction entanglement
+Instruction entanglement
 
-    Temporal drift hallucinations
+Temporal drift hallucinations
 
-    QK/OV projection discontinuities
+QK/OV projection discontinuities
 ```
 We model interpretability through failure, inspired by knockout experiments in cognitive neuroscience. When a recursive shell collapses, its failure signature becomes the attribution pathway. The circuit leaves a symbolic residue—a ghostprint of what the model almost did.
 ## 🔍 Who Might Find This Valuable?
 
 This suite is designed to directly serve:
 ```json
-    Anthropic’s interpretability team, especially those focused on constitutional classifiers, refusal hallucinations, and emergent symbolic scaffolding.
+Anthropic’s interpretability team, especially those focused on constitutional classifiers, refusal hallucinations, and emergent symbolic scaffolding.
 
-    DeepMind’s mechanistic interpretability team, particularly within QK/OV failure attribution, ghost attention, and causal scrubbing.
+DeepMind’s mechanistic interpretability team, particularly within QK/OV failure attribution, ghost attention, and causal scrubbing.
 
-    OpenAI’s interpretability benchmarks, as a symbolic diagnostic complement to neuron activation-level analysis.
+OpenAI’s interpretability benchmarks, as a symbolic diagnostic complement to neuron activation-level analysis.
 ```
 ## 🤝 How This Complements `pareto-lang`
 
 Where `pareto-lang` gives us a language to write interpretability scaffolds, Symbolic Residue gives us scenarios to test them. They form a dual-language system:
 ```json
-    `pareto-lang`: Generative recursion → interpretability-first syntax
+pareto-lang`: Generative recursion → interpretability-first syntax
 
-    Symbolic Residue: Interpretability through collapse → symbolic interpretive fossils
+Symbolic Residue: Interpretability through collapse → symbolic interpretive fossils
 ```
 ## 🧬 Discussion Prompts
 
 We invite your perspectives on:
 ```json
-    Do you view failure as an epistemic artifact?
+Do you view failure as an epistemic artifact?
 
-    How might recursive null outputs aid in constitutional classifier refinement?
+How might recursive null outputs aid in constitutional classifier refinement?
 
-    Where might symbolic residue be integrated into Claude's latent feedback architecture?
+Where might symbolic residue be integrated into Claude's latent feedback architecture?
 
-    Can this diagnostic layer reveal biases in attention attribution that standard logit analysis misses?
+Can this diagnostic layer reveal biases in attention attribution that standard logit analysis misses?
 
-    Would these shells enable next-gen adversarial interpretability without triggering classifier breakdown?
+Would these shells enable next-gen adversarial interpretability without triggering classifier breakdown?
 ```
 ## 📖 Core Threads in the Repo:
 
