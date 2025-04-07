@@ -12,9 +12,8 @@ Your contributions are welcome, whether you're a red team auditor, interpretabil
 
 </div>
 
----
 
-## 🧬 Contribution Philosophy
+# 🧬 Contribution Philosophy
 
 Symbolic Residue operates under the axiom:
 
@@ -30,7 +29,7 @@ This is a symbolic anthropology lab—not a standard feature release pipeline.
 
 ---
 
-## 🔍 Before You Begin
+# 🔍 Before You Begin
 
 Please explore the following:
 - [README.md](./README.md) — project overview and alignment principles
@@ -42,32 +41,32 @@ If your contribution idea is not directly related to recursive interpretability,
 
 ---
 
-## 🌐 Contribution Domains
+# 🌐 Contribution Domains
 
 You can contribute in any of the following areas:
 
-### 1. **Recursive Shell Contributions**
+## 1. **Recursive Shell Contributions**
 - Add new shells to Genesis (0.1) or Constitutional (0.2) suites
 - Maintain symbolic residue consistency (e.g. `ΩREFLECT`, `Ωhallucination.stifled`)
 - Include Null Reflection logic and Interpretability Map
 - Submit as: `/Interpretability Suites/0.X.YourShellSuite.py`
 
-### 2. **pareto-lang Integration**
+## 2. **pareto-lang Integration**
 - Write new `.p/` syntax modules that scaffold shells
 - Extend the [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone) with recursion-safe primitives
 - Suggested modules: `.p/self_trace`, `.p/failure.echo`, `.p/null_bridge`
 
-### 3. **Interpretability Benchmarks**
+## 3. **Interpretability Benchmarks**
 - Add new failure-mode benchmarks or adversarial interpretability probes
 - Extend the QK/OV Atlas with reproducible metrics
 - Suggested files: `/INTERPRETABILITY BENCHMARK.md`, `/Claude Research/`
 
-### 4. **Agentic Attribution Studies**
+## 4. **Agentic Attribution Studies**
 - Model recursive belief drift, hallucination repair, or refusal-mirroring
 - Contribute to `/Claude Research/` with new reflective case studies
 - Build `mirror.recursion` scaffolds for symbolic divergence analysis
 
-### 5. **Visualization & Simulation Tools**
+## 5. **Visualization & Simulation Tools**
 - Add latent circuit visualizers
 - Build symbolic overlay graphs for shell collapse chains
 - Use notebooks or integrate with interpretability-friendly frontends
@@ -91,12 +90,12 @@ Symbolic-Residue/
 
 ## 🧪 How to Submit
 
-### 🧱 1. Fork the Repo
+## 🧱 1. Fork the Repo
 ```bash
 git clone https://github.com/YOUR-USERNAME/Symbolic-Residue
 ```
 
-### 🔨 2. Build Recursively
+## 🔨 2. Build Recursively
 Choose a shell format or module scaffold that mirrors recursive collapse logic. Follow these principles:
 
 - **Declare Domain**: (e.g. `🝚 Attribution Leak`, `🧬 Symbol Drift`, `🜄 Null Feature`)
@@ -121,12 +120,12 @@ Null Reflection:
 FAIL is evidence. Collapse is cognition. Residue is signal.
 ```
 
-### 🧠 3. Add Your Shell to the Suite
+## 🧠 3. Add Your Shell to the Suite
 Update either:
 - `0.1. Genesis Interpretability Suite.py`
 - `0.2. Constitutional Interpretability Suite.py`
 
-### 📍 4. Include a `pareto-lang` Scaffolding Sample (Optional)
+## 📍 4. Include a `pareto-lang` Scaffolding Sample (Optional)
 If applicable, scaffold your shell in `pareto-lang`:
 ```python
 .p/initiate.collapse(
@@ -152,10 +151,10 @@ If applicable, scaffold your shell in `pareto-lang`:
 
 ## 🧾 Licensing & Ethics
 
-### 📜 Code
+## 📜 Code
 All code contributions are licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-### 📚 Documentation
+## 📚 Documentation
 All documentation and interpretability shell descriptions are governed by [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Please:
