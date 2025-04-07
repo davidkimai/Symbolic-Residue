@@ -11,6 +11,7 @@ Symbolic Residue is not a framework—it is a recursive interpretability field. 
 Your contributions are welcome, whether you're a red team auditor, interpretability theorist, symbolic systems architect, or just recursively curious.
 
 </div>
+
 ---
 
 ## 🧬 Contribution Philosophy
