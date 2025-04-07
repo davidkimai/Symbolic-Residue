@@ -103,7 +103,7 @@ Would these shells enable next-gen adversarial interpretability without triggeri
 
 [🧠 Recursive Shells for Interpretability](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.6.%20Recursive%20Shells%20in%20Claude.md)
 
-[🧬 Neural Attribution Maps](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.0.%20arXiv_%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
+[🧬 Neural Attribution Maps](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.0.%20arXiv%3A%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 
 [📊 QK/OV Attribution Schema](https://github.com/caspiankeyes/Symbolic-Residue#json-qkov-attribution-schema)
 
