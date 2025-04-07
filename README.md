@@ -160,7 +160,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 ![image](https://github.com/user-attachments/assets/4776e76d-26a5-4b42-ac72-3ae7a8e76a25)
   
- # [**Genesis Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Interpretability%20Suite%201.py)
+ # [**Genesis Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Genesis%20Interpretability%20Suite.py)
 
  ```python
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -237,7 +237,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 
  
- # [**Constitutional Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.2.%20Interpretability%20Suite%202.py)
+ # [**Constitutional Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.2.%20Constitutional%20Interpretability%20Suite.py)
 
  
 ```python
