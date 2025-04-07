@@ -3,7 +3,7 @@
 # On Symbolic Residue:
 # The Missing Biological Knockout Experiments in Advanced Transformer Models
 
-```The software is freely available for use and extension within LLM interpretability research ecosystems under the MIT license.```
+```The software is open source under the MIT license—available for use and extension within LLM interpretability research ecosystems/```
 ---
 ```The documents and publications are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.```
 
