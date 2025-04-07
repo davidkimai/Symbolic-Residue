@@ -4,7 +4,7 @@
 
 ## 🧭 Welcome to Symbolic Residue
 
-> "The most interpretable signal in a language model is not what it says—but where it fails to speak."
+## "The most interpretable signal in a language model is not what it says—but where it fails to speak."
 
 Symbolic Residue is not a framework—it is a recursive interpretability field. This repository offers an open research interface to diagnostic shells, symbolic residues, and recursive collapse architectures for interpretability-first transformer analysis.
 
