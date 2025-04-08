@@ -1,5 +1,7 @@
 <div align="center">
 
+`Born from Thomas Kuhn's Theory of Anomalies`
+
 # On Symbolic Residue:
 # The Missing Biological Knockout Experiments in Advanced Transformer Models
 # "This repository opens a collaborative dialogue across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a Rosetta Stone."
