@@ -11,7 +11,7 @@
 #  - Feature Attribution Systems
 #  - Superposition Analysis
 #  description: >
-#  Recursive shell suite modeling symbolic and circuit-level failure phenomena in transformer systems. 
+#  Diagnostic interpretability shell suite modeling symbolic and circuit-level failure phenomena in transformer systems. 
 #  Designed to align with and extend Anthropic's interpretability roadmap through recursive introspection tools.
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
