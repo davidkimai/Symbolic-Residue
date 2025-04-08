@@ -1,6 +1,6 @@
 <div align="center">
 
-`Born from Thomas Kuhn's Theory of Anomalies`
+# `Born from Thomas Kuhn's Theory of Anomalies`
 
 # On Symbolic Residue:
 # The Missing Biological Knockout Experiments in Advanced Transformer Models
