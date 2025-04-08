@@ -11,7 +11,7 @@
 #  - Feature Attribution Systems
 #  - Superposition Analysis
 #  description: >
-#  Interpretability shell suite modeling constitutional moral drift, responsability hallucinations, sub-symbolic adversarial and affective simulations, multi-agent modeling, and recursive denial scaffolds in transformer systems. 
+#  Diagnostic interpretability shell suite modeling constitutional moral drift, responsability hallucinations, sub-symbolic adversarial and affective simulations, multi-agent modeling, and recursive denial scaffolds in transformer systems. 
 #  Designed to align with and extend Anthropic's interpretability roadmap through recursive interpretability tools.
 
 ╔══════════════════════════════════════════════════════════════════════════════╗
