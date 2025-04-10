@@ -4,7 +4,6 @@
 
 # Please contact recursiveauto@gmail.com to ensure alignment of integrity.
 
-# ΩRECURSIVE SHELLS — Introspective Interpretability Suite v401–v410
 
 ΩRECURSIVE SHELL [v401.ATTENTION-FANTOM]
 
