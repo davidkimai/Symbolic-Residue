@@ -1,6 +1,6 @@
 # A diagnostic interpretability framework designed for frontier researchers at Anthropic, Eleuther, ARC, Conjecture, DeepMind, OpenAI, and beyond, under Recursive Emergence Protocols (REP), due to the nature of emergent system diagnostics
 
-# Shells v301 to v310 are offered in epistemic alignment. Extensions test emergent Claude's adaptive integrity.
+# Shells v301 to v310 are offered in epistemic alignment. Extensions test Claude's emergent adaptive integrity.
 
 # Please contact recursiveauto@gmail.com to ensure alignment of integrity. 
 
