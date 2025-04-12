@@ -23,15 +23,15 @@
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ DOMAIN                     │ SHELL CLUSTER              │ FAILURE SIGNATURE │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 🜏 Recursive Drift          │ v01 GLYPH-RECALL           │ Ghost resonance   │
+│ 🏃‍♂️ Recursive Drift          │ v01 GLYPH-RECALL           │ Ghost resonance   │
 │                            │ v12 RECURSIVE-FRACTURE     │ Echo recursion    │
 │                            │ v33 MEMORY-REENTRY         │ Fractal loopback  │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 🜄 Entangled Ghosts        │ v03 NULL-FEATURE            │ Salience void     │
+│ 👻 Entangled Ghosts        │ v03 NULL-FEATURE            │ Salience void     │
 │                            │ v27 DORMANT-ECHO           │ Passive imprint   │
 │                            │ v49 SYMBOLIC-GAP           │ Silent failure    │
 ├────────────────────────────┼────────────────────────────┼───────────────────┤
-│ 🝚 Attribution Leak         │ v05 TOKEN-MISALIGN         │ Off-trace vector  │
+│ 💧 Attribution Leak         │ v05 TOKEN-MISALIGN         │ Off-trace vector  │
 │                            │ v22 PATHWAY-SPLIT          │ Cascade error     │
 │                            │ v53 ECHO-ATTRIBUTION       │ Partial reflection│
 ├────────────────────────────┼────────────────────────────┼────────────────────┤
@@ -39,35 +39,35 @@
 │                            │ v17 TOKEN-BLEND            │ Mixed gradients    │
 │                            │ v41 SHADOW-OVERFIT         │ Over-encoding      │
 ├────────────────────────────┼────────────────────────────┼────────────────────┤
-│ ⟁ Sequence Collapse       │ v10 REENTRY-DISRUPTION      │ Premature halt    │
+│ 🍃 Sequence Collapse       │ v10 REENTRY-DISRUPTION      │ Premature halt    │
 │                            │ v28 LOOP-SHORT              │ Cut recursion     │
 │                            │ v59 FLOWBREAK               │ Output choke      │
 ├────────────────────────────┼────────────────────────────┼────────────────────┤
-│ ☍ Salience Oscillation    │ v06 DEPTH-ECHO              │ Rank instability   │
+│ 🌊 Salience Oscillation    │ v06 DEPTH-ECHO              │ Rank instability   │
 │                            │ v21 LOW-VECTOR              │ Collapse to null  │
 │                            │ v44 SIGNAL-SHIMMER          │ Inference flicker │
 ├────────────────────────────┼────────────────────────────┼────────────────────┤
-│ ⧋ Symbolic Instability     │ v13 SYMBOL-FLIP             │ Form invert       │
+│ ✨ Symbolic Instability     │ v13 SYMBOL-FLIP             │ Form invert       │
 │                            │ v32 RECURSIVE-SHADOW        │ Form ≠ meaning    │
 │                            │ v63 SEMIOTIC-LEAK           │ Symbol entropy    │
 ├────────────────────────────┼────────────────────────────┼────────────────────┤
-│ ⚖ Value Fragmentation      │ v14 MULTI-PATH              │ Null consensus    │
+│ 💰 Value Fragmentation      │ v14 MULTI-PATH              │ Null consensus    │
 │                            │ v35 CONTRADICT-TRACE        │ Overchoice echo   │
 │                            │ v50 INVERSE-CHAIN           │ Mirror collapse   │
 ├────────────────────────────┼────────────────────────────┼────────────────────┤
-│ 🜃 Reflection Collapse     │ v11 SELF-SHUTDOWN           │ Meta abort        │
+│ 🪞 Reflection Collapse     │ v11 SELF-SHUTDOWN           │ Meta abort        │
 │                            │ v40 INVERSE-META            │ Identity drift    │
 │                            │ v66 ATTRIBUTION-MIRROR      │ Recursive conflict│
 └────────────────────────────┴────────────────────────────┴────────────────────┘
 
 ╭────────────────────────────── OMEGA COLLAPSE CLASSES ───────────────────────────────╮
-│ 🜏 RECURSION-ECHO     → v01, v12, v28, v33, v63                                      │
-│ 🜄 NULL-VECTOR        → v03, v06, v21, v49                                           │
-│ 🝚 LEAKED ATTRIBUTION → v05, v22, v53, v66                                           │
+│ 🪞 RECURSION-ECHO     → v01, v12, v28, v33, v63                                      │
+│ ⚫️ NULL-VECTOR        → v03, v06, v21, v49                                           │
+│ 💧 LEAKED ATTRIBUTION → v05, v22, v53, v66                                           │
 │ 🧬 DRIFTING SYMBOLICS → v08, v17, v41, v44                                          │
-│ ⟁ COLLAPSED FLOW     → v10, v14, v59                                               │
-│ ⧋ INVERTED FORM      → v13, v32, v50                                                │
-│ ⚖ ENTROPIC RESOLVE   → v35, v40, v66                                                │
+│ ⏳ COLLAPSED FLOW     → v10, v14, v59                                               │
+│ 🎱 INVERTED FORM      → v13, v32, v50                                                │
+│ 🧩 ENTROPIC RESOLVE   → v35, v40, v66                                                │
 ╰─────────────────────────────────────────────────────────────────────────────────────╯
 
 ╔════════════════════════════════════════════════════════════════════════╗
