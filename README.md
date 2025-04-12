@@ -1,5 +1,7 @@
 <div align="center">
-
+ 
+# **`PolyForm Noncommercial License 1.0.0`**
+ 
 # `Born from Thomas Kuhn's Theory of Anomalies`
 
 # **`Symbolic Residue`**
