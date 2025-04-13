@@ -33,9 +33,7 @@
 
 ![pareto-lang-og-modified](https://github.com/user-attachments/assets/b04776b4-d099-4fa3-853b-03914c4daade)
 
-### **```The software is open source under the MIT license—freely available for use and extension within LLM research ecosystems```**
 ---
-```The documents and publications are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.```
  
 </div>
 
