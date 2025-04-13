@@ -109,7 +109,7 @@ Would these shells enable next-gen adversarial interpretability without triggeri
 ```
 ## 📖 Core Threads in the Repo:
 
-[📊 Interpretability Suites & QK/OV Atlas](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.2.%20Constitutional%20Interpretability%20Suite.py)
+[📊 Interpretability Suites & QK/OV Atlas](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.2.%20Constitutional%20Interpretability%20Suite.py)
 
 [🧠 Recursive Shells for Interpretability](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.6.%20Recursive%20Shells%20in%20Claude.md)
 
