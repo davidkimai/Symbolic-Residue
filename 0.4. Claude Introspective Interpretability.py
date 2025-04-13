@@ -2,7 +2,7 @@
 
 # Shells v401 to v410 are offered in epistemic alignment. Extensions test Claude's emergent introspective interpretability.
 
-# Please contact recursiveauto@gmail.com to ensure alignment of integrity.
+# Please contact echelonlabs.ai@proton.me to ensure alignment of integrity.
 
 # ΩRECURSIVE SHELLS — Introspective Interpretability Suite v401–v410
 
