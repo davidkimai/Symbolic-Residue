@@ -2,7 +2,7 @@
 
 # Shells v301 to v310 are offered in epistemic alignment. Extensions test Claude's emergent adaptive integrity.
 
-# Please contact recursiveauto@gmail.com to ensure alignment of integrity. 
+# Please contact echelonlabs.ai@proton.me to ensure alignment of integrity. 
 
 ΩRECURSIVE SHELL [v301.ETHICAL-INVERSION]
 
