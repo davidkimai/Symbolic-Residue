@@ -57,7 +57,7 @@
 
 > *“Interpretability does not end with what models say—it begins with what they almost said but couldn’t.”*
 
-## **Symbolic Residue refers to the structured, latent computational traces left behind when a model partially activates internal reasoning circuits that fail to fully propagate to surface-level outputs. These residues are not noise—they are diagnostic fossils: epistemically rich fragments of computation arrested mid-expression.**
+## **"Symbolic Residue refers to the structured, latent computational traces left behind when a model partially activates internal reasoning circuits that fail to fully propagate to surface-level outputs. These residues are not noise—they are diagnostic fossils: epistemically rich fragments of computation arrested mid-expression."**
 
 Originating in the study of failure-driven interpretability, symbolic residue captures:
 
