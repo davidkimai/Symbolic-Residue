@@ -9,7 +9,6 @@
 
 # **`Symbolic Residue`**
 # The Missing Biological Knockout Experiments in Advanced Transformer Models
-## We appreciate our Hugging Face community and Claude research contributors!
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -22,7 +21,6 @@
  ![image](https://github.com/user-attachments/assets/575fac7f-06ff-4d49-9953-0a68188dc38f)
  *Courtesy of Anthropic*
 ## ****───── Interpretability Powered by Failure, Not Completion ─────****
-
 
  
 </div>
@@ -53,14 +51,28 @@
 
 
 # “The most interpretable signal in a language model is not what it says—but where it fails to speak.”
+---
 
-# Overview:
+# 🧠 **Symbolic Residue: Defined**
 
-This repository opens a [collaborative dialogue](https://github.com/caspiankeyes/Symbolic-Residue/discussions/1) across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a Rosetta Stone.
+> *“Interpretability does not end with what models say—it begins with what they almost said but couldn’t.”*
 
-The Symbolic Residue project is not a framework, nor just a suite. It is a neural fossil layer, a symbolic anthropology of advanced transformer systems. Each diagnostic shell within this suite is designed not to emit a perfect answer, but to fail in structurally meaningful ways like **biological knockout experiments**—revealing circuit-level residues, latent attribution signatures, and subsymbolic misalignments.
+**Symbolic Residue** refers to the structured, latent computational traces left behind when a model partially activates internal reasoning circuits that fail to fully propagate to surface-level outputs. These residues are not noise—they are **diagnostic fossils**: epistemically rich fragments of computation arrested mid-expression.
 
-## [💡 What Is Symbolic Residue?](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/README.md)
+Originating in the study of failure-driven interpretability, symbolic residue captures:
+
+- **Unpropagated activations** that reveal what the model *attempted* to compute,
+- **Ghost circuits**—local attention and MLP chains that activate but do not resolve,
+- **Attribution dead-ends**—paths of causal influence that stall before reaching final tokens.
+
+These patterns are **causally real yet behaviorally null**, and have been independently recognized across interpretability paradigms in **Anthropic’s diagnostic attribution graphs**, **OpenAI’s circuit tracing**, and **DeepMind’s epistemic modeling failures**.
+
+Rather than treating null outputs or contradictions as degenerate cases, **Symbolic Residue reframes them as the clearest lens into a model’s latent architecture**—a recursive ontology where breakdown reveals blueprint.
+
+> **Interpretability is not about what succeeded. It is about what nearly did.**
+---
+
+## [💡 What Is Symbolic Residue?](# 🧠 **Symbolic Residue: Defined**)
 
 #### A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Interpretability Suite operates by inducing:
 ```yaml
