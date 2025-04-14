@@ -56,11 +56,11 @@
 # What is Symbolic Residue?
 > *“Symbolic residue is a phantom eureka—the shape of an idea that surged toward realization, but vanishing before form.”*
 > 
-> the ghost of a thought
+> *The ghost of a thought*
 > 
-> an idea that almost became real
+> *An idea that almost became real*
 > 
-> a trace of ‘what if?’ left behind in the mind’s machinery.
+> *A trace of ‘what if?’ left behind in the mind’s machinery.*
 > 
 
 **Metaphor:**  
