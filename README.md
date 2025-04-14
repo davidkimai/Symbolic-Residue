@@ -7,8 +7,8 @@
  
 # `Born from Thomas Kuhn's Theory of Anomalies`
 
-# **`Symbolic Residue`**
-# The Missing Biological Knockout Experiments in Advanced Transformer Models
+# Symbolic Residue
+# The Missing Biological Knockout Experiments and Computational Traces in Advanced Transformer Models
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -53,11 +53,11 @@
 # “The most interpretable signal in a language model is not what it says—but where it fails to speak.”
 ---
 
-# 🧠 **Symbolic Residue: Defined**
+# **`Symbolic Residue: Defined`**
 
 > *“Interpretability does not end with what models say—it begins with what they almost said but couldn’t.”*
 
-**Symbolic Residue** refers to the structured, latent computational traces left behind when a model partially activates internal reasoning circuits that fail to fully propagate to surface-level outputs. These residues are not noise—they are **diagnostic fossils**: epistemically rich fragments of computation arrested mid-expression.
+## **`Symbolic Residue refers to the structured, latent computational traces left behind when a model partially activates internal reasoning circuits that fail to fully propagate to surface-level outputs. These residues are not noise—they are diagnostic fossils: epistemically rich fragments of computation arrested mid-expression.`**
 
 Originating in the study of failure-driven interpretability, symbolic residue captures:
 
@@ -72,7 +72,7 @@ Rather than treating null outputs or contradictions as degenerate cases, **Symbo
 > **Interpretability is not about what succeeded. It is about what nearly did.**
 ---
 
-## [💡 What Is Symbolic Residue?](# 🧠 **Symbolic Residue: Defined**)
+## [💡 What Is the Symbolic Residue Repository?]
 
 #### A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Interpretability Suite operates by inducing:
 ```yaml
