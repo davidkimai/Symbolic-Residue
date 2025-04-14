@@ -72,9 +72,9 @@ Rather than treating null outputs or contradictions as degenerate cases, **Symbo
 > **Interpretability is not about what succeeded. It is about what nearly did.**
 ---
 
-## [💡 What Is the Symbolic Residue Repository?](https://github.com/caspiankeyes/Symbolic-Residue)
+## [💡 What Is the Symbolic Residue Infrastructure?](https://github.com/caspiankeyes/Symbolic-Residue)
 
-#### A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Interpretability Suite operates by inducing:
+#### A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Interpretability Infractureu operates by inducing:
 ```yaml
 Null traces
 
