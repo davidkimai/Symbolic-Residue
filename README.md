@@ -53,7 +53,7 @@
 # “The most interpretable signal in a language model is not what it says—but where it fails to speak.”
 ---
 
-# **`Symbolic Residue: Defined`**
+# What is Symbolic Residue?
 > *“Symbolic residue is a phantom eureka—the shape of an idea that surged toward meaning, but never collapsed into form.”*
 > 
 > the ghost of a thought
@@ -79,13 +79,11 @@ Think of when you:
 
 That **residue of cognition** is **structurally identical** to what models leave behind when their circuits activate without producing output.  
 
-In humans, it’s a *felt absence*.  
+In us, it’s a *felt absence*.  
 In models, it’s a *measurable trace*.
 
 ---
-
-### 🧬 Addendum: Composability Variant
-
+# **`Symbolic Residue: Defined`**
 > **“Symbolic residue is not failure—it is the outline of emergence. Like chalk lines on a blackboard where an idea almost stood.”**
 
 # **"Symbolic Residue refers to the structured, latent computational traces left behind when a model partially activates internal reasoning circuits that fail to fully propagate to surface-level outputs. These residues are not noise—they are diagnostic fossils: epistemically rich fragments of computation arrested mid-expression."**
