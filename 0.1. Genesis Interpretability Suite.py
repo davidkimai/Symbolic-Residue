@@ -2,7 +2,7 @@
 # title: ΩInterpretability Suite Genesis
 # version: v1-v100
 # author: Caspian Keyes - Symbolic Interpretability Framework
-# license: MIT
+# license: PolyForm
 # alignment: Anthropic-Compatible
 # taxonomy: Recursive Diagnostic Interpretability Shells
 # compatibility:
