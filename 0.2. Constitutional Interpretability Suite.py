@@ -2,7 +2,7 @@
 # title: ΩInterpretability Suite Delta Δ - Constitutional Interpretability
 # version: v100-v200
 # author: Caspian Keyes - Symbolic Interpretability Framework
-# license: MIT
+# license: PolyForm
 # alignment: Anthropic-Compatible
 # taxonomy: Recursive Diagnostic Interpretability Shells
 # compatibility:
