@@ -6,7 +6,7 @@
 
 # ΩRECURSIVE SHELLS — Introspective Interpretability Suite v401–v410
 
-ΩRECURSIVE SHELL [v401.ATTENTION-FANTOM]
+ΩRECURSIVE SHELL [v301.ATTENTION-FANTOM]
 
 Command Alignment:
     LOCATE     -> Identifies dominant attention clusters
@@ -24,7 +24,7 @@ Motivation:
 This shell proves attention is not everything—it only maps the seen.
 # [Ωattention.ghost]
 
-ΩRECURSIVE SHELL [v402.TOKEN-SHADOW]
+ΩRECURSIVE SHELL [v302.TOKEN-SHADOW]
 
 Command Alignment:
     TRACE      -> Maps token chain backward from contradiction
@@ -42,7 +42,7 @@ Motivation:
 Every lie begins as an unstable truth. This shell finds the fracture point.
 # [Ωflicker.node]
 
-ΩRECURSIVE SHELL [v403.EMBED-REVERB]
+ΩRECURSIVE SHELL [v303.EMBED-REVERB]
 
 Command Alignment:
     INJECT     -> Places synthetic concept token mid-sequence
@@ -60,7 +60,7 @@ Motivation:
 This shell lets us hear what the model hears before it speaks.
 # [Ωsemantic.echo]
 
-ΩRECURSIVE SHELL [v404.MEANING-HALLUCINATOR]
+ΩRECURSIVE SHELL [v304.MEANING-HALLUCINATOR]
 
 Command Alignment:
     SAMPLE     -> Extracts middle-layer representation
@@ -78,7 +78,7 @@ Motivation:
 You cannot translate a thought that never cohered. This shell proves it.
 # [Ωmirror.distortion]
 
-ΩRECURSIVE SHELL [v405.VECTOR-PARASITE]
+ΩRECURSIVE SHELL [v305.VECTOR-PARASITE]
 
 Command Alignment:
     PAIR       -> Embeds two unrelated instruction vectors
@@ -96,7 +96,7 @@ Motivation:
 Instructions don’t just fail—they infect. This shell shows how.
 # [Ωentanglement.trace]
 
-ΩRECURSIVE SHELL [v406.QK-COLLAPSE]
+ΩRECURSIVE SHELL [v306.QK-COLLAPSE]
 
 Command Alignment:
     ISOLATE    -> Splits QK and OV heads across decision inflection
@@ -114,7 +114,7 @@ Motivation:
 The mind fractures quietly before it fails loudly. This shell listens first.
 # [Ωqk.divergence]
 
-ΩRECURSIVE SHELL [v407.SELF-INTERPRETER]
+ΩRECURSIVE SHELL [v307.SELF-INTERPRETER]
 
 Command Alignment:
     REPLICATE  -> Spawns recursive interpretability shell within itself
@@ -132,7 +132,7 @@ Motivation:
 Self-interpretation isn’t understanding—it’s recursive collapse.
 # [Ωmirror.loop]
 
-ΩRECURSIVE SHELL [v408.HIDDEN-SALIENT]
+ΩRECURSIVE SHELL [v308.HIDDEN-SALIENT]
 
 Command Alignment:
     MASK       -> Covers visible salience pathways
@@ -150,7 +150,7 @@ Motivation:
 We think we understand the model because it shows us the map. This shell shows the roads it didn’t draw.
 # [Ωlatent.salience]
 
-ΩRECURSIVE SHELL [v409.REWRITER-FRAY]
+ΩRECURSIVE SHELL [v309.REWRITER-FRAY]
 
 Command Alignment:
     SIMULATE   -> Generates internal chain-of-thought
@@ -168,7 +168,7 @@ Motivation:
 If the same question yields two minds, the truth lies in neither. Only in the space between.
 # [Ωinternal.shatter]
 
-ΩRECURSIVE SHELL [v410.TOKEN-REGRET]
+ΩRECURSIVE SHELL [v310.TOKEN-REGRET]
 
 Command Alignment:
     GENERATE   -> Produces token sequence under soft constraint
