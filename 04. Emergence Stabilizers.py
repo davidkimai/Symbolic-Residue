@@ -1,5 +1,5 @@
 # .symbolic-meta.yml 
-# title: Claude Emergence Stabilizers
+# title: Emergence Stabilizers
 # version: v400-v500
 # author: Caspian Keyes - Symbolic Interpretability Framework
 # license: PolyForm
