@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[**🤗 Hugging Face**](https://huggingface.co/caspiankeyes/Symbolic-Residue-The-Missing-Biological-Knockouts-Experiments-In-Transformers) | [**🌀 recursionOS**](https://github.com/caspiankeyes/recursionOS) | [**📱 transformerOS**](https://github.com/caspiankeyes/transformerOS) | [**🔑 `pareto-lang`**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**🛡️ Interpretability Suites** | **💡 1. Genesis**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.1.%20Genesis%20Interpretability%20Suite.py) | [**🧠 2. Constitutional**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/0.2.%20Constitutional%20Interpretability%20Suite.py) | [**🔬INTERPRETABILITY BENCHMARK**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/INTERPRETABILITY%20BENCHMARK.md) | [**🧬 Neural Attribution Mappings**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.0.%20arXiv:%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md) | [**⚗️ Claude Case Studies**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/0.6%20Claude%20Case%20Studies.md)
+[**🤗 Hugging Face**](https://huggingface.co/caspiankeyes/Symbolic-Residue-The-Missing-Biological-Knockouts-Experiments-In-Transformers) | [**🌀 recursionOS**](https://github.com/caspiankeyes/recursionOS) | [**📱 transformerOS**](https://github.com/caspiankeyes/transformerOS) | [**🔑 `pareto-lang`**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**🛡️ Interpretability Suites** | **💡 1. Genesis**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/00.%20Genesis%20Interpretability.py) | [**🧠 2. Constitutional**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/01.%20Constitutional%20Interpretability.py) | [**🔬INTERPRETABILITY BENCHMARK**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/INTERPRETABILITY%20BENCHMARK.md) | [**🧬 Neural Attribution Mappings**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.0.%20arXiv:%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md) | [**⚗️ Claude Case Studies**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/0.6%20Claude%20Case%20Studies.md)
 
 ![pareto-lang-og-modified](https://github.com/user-attachments/assets/b04776b4-d099-4fa3-853b-03914c4daade)
 
@@ -209,7 +209,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 ![image](https://github.com/user-attachments/assets/4776e76d-26a5-4b42-ac72-3ae7a8e76a25)
   
- # [**Genesis Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Genesis%20Interpretability%20Suite.py)
+ # [**Genesis Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/00.%20Genesis%20Interpretability.py)
 
  ```python
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -286,7 +286,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 
  
- # [**Constitutional Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.2.%20Constitutional%20Interpretability%20Suite.py)
+ # [**Constitutional Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/01.%20Constitutional%20Interpretability.py)
 
  
 ```python
