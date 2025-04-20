@@ -1,6 +1,6 @@
 <div align="center">
-
-# `Born from Thomas Kuhn's Theory of Anomalies`
+ 
+# *`Born from Thomas Kuhn's Theory of Paradigm Shifts`*
 
 # Symbolic Residue
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/ce99d1f7-22a2-43b8-b78a-f5c926077b06" />
