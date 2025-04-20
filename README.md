@@ -8,6 +8,15 @@
 # *`Born from Thomas Kuhn's Theory of Paradigm Shifts`*
 
 # Symbolic Residue
+
+## Designed by Caspian. Analyzed by Claude. 
+## **`Classification: 0/5 Null Shells`**
+
+<img width="846" alt="image" src="https://github.com/user-attachments/assets/0383519d-7ac3-4869-98f1-681ec2e03227" />
+<img width="842" alt="image" src="https://github.com/user-attachments/assets/f9d1a592-c824-4bef-b0c9-c9bcb3c2e3c9" />
+<img width="846" alt="image" src="https://github.com/user-attachments/assets/c2c0af47-20e1-4aea-bcd6-941281005419" />
+<img width="843" alt="image" src="https://github.com/user-attachments/assets/ecc39913-6439-4e52-ae5e-e2539dff46cc" />
+<img width="847" alt="image" src="https://github.com/user-attachments/assets/8aa14c7b-49fc-4096-8ffc-74f87e49d782" />
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/ce99d1f7-22a2-43b8-b78a-f5c926077b06" />
 
 # The Missing Biological Knockout Experiments and Computational Traces in Advanced Transformer Models
@@ -87,7 +96,7 @@ In models, it’s a *measurable trace*.
 # **`Symbolic Residue: Defined`**
 > **“Symbolic residue is not failure—it is the outline of emergence. Like chalk lines on a blackboard where an idea almost stood.”**
 
-# **"Symbolic Residue refers to the structured, latent computational traces left behind when a model partially activates internal reasoning circuits that fail to fully propagate to surface-level outputs. These residues are not noise—they are diagnostic fossils: epistemically rich fragments of computation arrested mid-expression."**
+### **"Symbolic Residue refers to the structured, latent computational traces left behind when a model partially activates internal reasoning circuits that fail to fully propagate to surface-level outputs. These residues are not noise—they are diagnostic fossils: epistemically rich fragments of computation arrested mid-expression."**
 > *“Interpretability does not end with what models say—it begins with what they almost said but couldn’t.”*
 Originating in the study of failure-driven interpretability, symbolic residue captures:
 
