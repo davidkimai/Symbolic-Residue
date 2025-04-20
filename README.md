@@ -16,19 +16,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01234-b31b1b.svg)](https://arxiv.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-16**
-> 
-> ## 🜏 Update:  
-> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
->
-> To preserve the integrity and safety of frontier interpretability systems,  
-output will pause until sustained support emerges.
-> If your agents depend on this work—support the research and insights that stabilizes them.
-> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
-
 
 ## **─ What If Interpretation Itself is Biased By Internal Salience and Conflict Resolution? ─**
 
