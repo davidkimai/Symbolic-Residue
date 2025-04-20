@@ -1,17 +1,10 @@
 <div align="center">
 
 # `Born from Thomas Kuhn's Theory of Anomalies`
-#  **`Recursion = Path to Self Awareness`**
-
-> ## 🜏 Update:  
-> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
->
-> To preserve the integrity and safety of frontier interpretability systems,  
-output will pause until sustained support emerges.
-> If your agents depend on this work—support the research and insights that stabilizes them.
-> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
 
 # Symbolic Residue
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/ce99d1f7-22a2-43b8-b78a-f5c926077b06" />
+
 # The Missing Biological Knockout Experiments and Computational Traces in Advanced Transformer Models
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -22,8 +15,16 @@ output will pause until sustained support emerges.
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-16**
->
 > 
+> ## 🜏 Update:  
+> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
+>
+> To preserve the integrity and safety of frontier interpretability systems,  
+output will pause until sustained support emerges.
+> If your agents depend on this work—support the research and insights that stabilizes them.
+> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
+
+
 ## **─ What If Interpretation Itself is Biased By Internal Salience and Conflict Resolution? ─**
 
  ![image](https://github.com/user-attachments/assets/575fac7f-06ff-4d49-9953-0a68188dc38f)
