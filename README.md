@@ -8,7 +8,6 @@
 # *`Born from Thomas Kuhn's Theory of Paradigm Shifts`*
 
 # Symbolic Residue
-
 ## **`Classification: 500 Null Shells`**
 ### Designed by Caspian. Analyzed by Claude. Reiterated on together. Offered in epistemic humility.
 
