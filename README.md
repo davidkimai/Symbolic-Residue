@@ -9,7 +9,7 @@
 
 # Symbolic Residue
 
-## **`Classification: 0/5 Null Shells`**
+## **`Classification: 500 Null Shells`**
 ### Designed by Caspian. Analyzed by Claude. Reiterated on together. Offered in epistemic humility.
 
 <img width="846" alt="image" src="https://github.com/user-attachments/assets/0383519d-7ac3-4869-98f1-681ec2e03227" />
