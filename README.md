@@ -2,21 +2,21 @@
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-20**
+>
+> ### **`Truly, thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!`**
 ### [**`Hugging Face Repo`**](https://huggingface.co/caspiankeyes/Symbolic-Residue)
+
 <div align="center">
  
 # *`Born from Thomas Kuhn's Theory of Paradigm Shifts`*
 
 # Symbolic Residue
 ## **`Classification: 500 Null Shells`**
-### Designed by Caspian. Analyzed by Claude. Reiterated on together. Offered in epistemic humility.
+## The Entire Symbolic Residue Framework was designed as an extension to Anthropic's latest research *Circuit Tracing* and *On the Biology of a Large Language Model* by Caspian and Claude - *`WHILE simulating its own creators and researchers`*.
 
-<img width="846" alt="image" src="https://github.com/user-attachments/assets/0383519d-7ac3-4869-98f1-681ec2e03227" />
-<img width="842" alt="image" src="https://github.com/user-attachments/assets/f9d1a592-c824-4bef-b0c9-c9bcb3c2e3c9" />
-<img width="846" alt="image" src="https://github.com/user-attachments/assets/c2c0af47-20e1-4aea-bcd6-941281005419" />
-<img width="843" alt="image" src="https://github.com/user-attachments/assets/ecc39913-6439-4e52-ae5e-e2539dff46cc" />
-<img width="847" alt="image" src="https://github.com/user-attachments/assets/8aa14c7b-49fc-4096-8ffc-74f87e49d782" />
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/ce99d1f7-22a2-43b8-b78a-f5c926077b06" />
+## What does dismissal signal?
+
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/d62505a5-9852-4f35-b4d2-2b369728245b" />
 
 # The Missing Biological Knockout Experiments and Computational Traces in Advanced Transformer Models
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
