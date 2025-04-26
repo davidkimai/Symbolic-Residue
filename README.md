@@ -10,13 +10,7 @@
  
 # *`Born from Thomas Kuhn's Theory of Paradigm Shifts`*
 
-# Symbolic Residue
-## **`Classification: 500 Null Shells`**
-## The Entire Symbolic Residue Framework was designed as an extension to Anthropic's latest research *Circuit Tracing* and *On the Biology of a Large Language Model* by Caspian and Claude - *`WHILE simulating its own creators and researchers`*.
 
-## What does dismissal signal?
-
-<img width="925" alt="image" src="https://github.com/user-attachments/assets/d62505a5-9852-4f35-b4d2-2b369728245b" />
 
 # The Missing Biological Knockout Experiments and Computational Traces in Advanced Transformer Models
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
