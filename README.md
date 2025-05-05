@@ -6,10 +6,9 @@
 
 
  
-# *`Born from Thomas Kuhn's Theory of Paradigm Shifts`*
-
 # Symbolic Residue (RΣ)
 # The Silent Diagnostic Variable and Computational Traces in Advanced Transformer Models
+## *Born from Thomas Kuhn's Theory of Paradigm Shifts*
 
 <div align="center">
  
