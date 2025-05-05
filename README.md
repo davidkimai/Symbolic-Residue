@@ -8,15 +8,13 @@
  
 # *`Born from Thomas Kuhn's Theory of Paradigm Shifts`*
 
-# Symbolic Residue
-## **`Classification: 500 Null Shells`**
-## The Entire Symbolic Residue Framework was designed as an extension to Anthropic's latest research *Circuit Tracing* and *On the Biology of a Large Language Model* by Caspian and Claude.
+# Symbolic Residue (RΣ)
+# The Silent Diagnostic Variable and Computational Traces in Advanced Transformer Models
 
 <div align="center">
  
 > ### **`Truly, thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!`**
 
-# The Missing Biological Knockout Experiments and Computational Traces in Advanced Transformer Models
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01234-b31b1b.svg)](https://arxiv.org/)
