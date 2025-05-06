@@ -50,13 +50,15 @@
 ---
 
 # What is Symbolic Residue?
-> Inconsistencies or "residues" in reasoning paths (e.g., attribution gaps, token hesitations, recursive collapses).
-> > *Symbolic residue shells map unseen failure modes in transformer models*
-> > > *Attribution Voids: Causal breakdowns*
-> > > > *Token Hesitations: High-entropy uncertainty*
-> > > > > * Recursive Collapses: Breakdown of self-similarity*
-> > > > > > * They leave marks in a Residue Tensor—space, time, phase, magnitude.*
-> > > > > > > * This is the system’s dream world, or its unconscious—the things it tried to process but couldn't.
+> Transformer model failure modes: silent inconsistencies or "residues" in reasoning paths. 
+> > *Attribution Voids: Causal breakdowns*
+> > > *Token Hesitations: High-entropy uncertainty*
+> > > > *Recursive Collapses: Breakdown of self-similarity*
+> > > > > *They leave marks in a Residue Tensor—space, time, phase, magnitude.*
+> > > > > > *This is the system’s unconscious—the things it tried to process but couldn't.
+> > > > > > > *Symbolic Residue Shells allow models us to interpret with models interactively*
+> > > > > > > > *Transforming a black box to glass*
+
 
 **Metaphor:**  
 🧠 In the same way we might **almost say something**, **almost realize a eureka**, or **sense a meaning just out of reach**, symbolic residue is the **model’s unspoken conscious**—the unrealized echo of cognition.  
