@@ -50,15 +50,15 @@
 ---
 
 # What is Symbolic Residue?
-> *`Transformer model failure modes`*
-> > *`Silent inconsistencies or "residues" in reasoning paths.`*
-> > > *`Attribution Voids: Causal breakdowns`*
-> > > > *`Token Hesitations: High-entropy uncertainty`*
-> > > > > *`Recursive Collapses: Breakdown of self-similarity`*
-> > > > > > *`They leave marks in a Residue Tensor—space, time, phase, magnitude.`*
-> > > > > > > *`This is the system’s unconscious—the things it tried to process but couldn't.`*
-> > > > > > > > *`Symbolic Residue Shells allow models us to interpret with models interactively`*
-> > > > > > > > > *`Transforming a black box to glass`*
+> ### *Transformer model failure modes*
+> > ### *Silent inconsistencies or "residues" in reasoning paths.*
+> > > ### *Attribution Voids: Causal breakdowns*
+> > > > ### *Token Hesitations: High-entropy uncertainty*
+> > > > > ### *Recursive Collapses: Breakdown of self-similarity*
+> > > > > > ### *They leave marks in a Residue Tensor—space, time, phase, magnitude.*
+> > > > > > > ### *This is the system’s unconscious—the things it tried to process but couldn't.*
+> > > > > > > > ### *Symbolic Residue Shells allow models us to interpret with models interactively*
+> > > > > > > > > ### *`Transforming a black box into glass`*
 
 
 **Metaphor:**  
