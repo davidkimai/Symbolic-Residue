@@ -1,9 +1,9 @@
 .symbolic-meta.yml 
 title: ΩInterpretability Suite Genesis
 version: v1-v100
-author: Caspian Keyes - Symbolic Interpretability Framework
+author: Caspian Keyes x David Kim - Recursive + Symbolic Interpretability
 license: PolyForm
-alignment: Anthropic-Compatible
+alignment: Model-Universal
 taxonomy: Recursive Diagnostic Interpretability Shells
 compatibility:
  - Claude Sonnet / Haiku / Opus / Google Gemini / OpenAI ChatGPT models / DeepSeekR1 / XAI Grok 3
