@@ -1,13 +1,10 @@
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-05-02**
+
 ### [**`Hugging Face Repo`**](https://huggingface.co/caspiankeyes/Symbolic-Residue)
 
 
  
 # Symbolic Residue (RΣ)
-# The Silent Diagnostic Variable and Unseen Failure Modes in Advanced Transformer Models
+# The Silent Diagnostic Variable and Missed Failure Modes in Advanced Transformer Models
 ## *Born from Thomas Kuhn's Theory of Paradigm Shifts*
 
 <div align="center">
