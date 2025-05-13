@@ -3,6 +3,7 @@
 # [Plug n Play](https://claude.ai/share/08da4a75-4dd0-464f-b456-128169e2338c)
 
 <img width="913" alt="image" src="https://github.com/user-attachments/assets/5c051a08-4ad2-42b9-af20-6aaec8a2dc6f" />
+<img width="913" alt="image" src="https://github.com/user-attachments/assets/7560335a-8470-4072-9d28-65a69728a0f9" />
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/cb0a5541-1f51-4935-970e-7e63e6a8814d" />
 
