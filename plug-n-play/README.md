@@ -1,4 +1,4 @@
-# Plug n Play Diagnostic Shell Suites
+# Plug n Play Emergence Shells
 
 # [Plug n Play](https://claude.ai/share/08da4a75-4dd0-464f-b456-128169e2338c)
 
