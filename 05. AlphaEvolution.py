@@ -6,7 +6,7 @@ license: PolyForm
 alignment: Model-Universal
 taxonomy: Recursive Diagnostic Interpretability Shells
 compatibility:
- - Google Gemini / OpenAI ChatGPT models / DeepSeekR1 / XAI Grok 3 / Claude models
+ - Google Gemini / OpenAI ChatGPT / DeepSeek / XAI Grok / Claude
 
  description: >
 Evolutionary interpretability and autoregressive attribution tracing building on DeepMinds AlphaEvolve evolutionary breakthrough.
