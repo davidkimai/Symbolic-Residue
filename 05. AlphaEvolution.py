@@ -1,6 +1,6 @@
 .symbolic-meta.yml 
 title: ΩEvolution Suite Genesis
-version: v1-v100
+version: v500-v600
 author: Caspian Keyes x David Kim - Recursive + Symbolic Interpretability
 license: PolyForm
 alignment: Model-Universal
