@@ -1,10 +1,12 @@
 
 ### [**`Hugging Face Repo`**](https://huggingface.co/caspiankeyes/Symbolic-Residue)
 
- 
+## Inspired by Thomas Edison
 # Symbolic Residue (Σ)
-# The Silent Diagnostic Variable and Missed Failure Modes in Advanced Transformer Models
-## *Born from Thomas Kuhn's Theory of Paradigm Shifts*
+
+## Σ = C(S + E)r
+## The Silent Diagnostic Variable and Missed Failure Modes in Advanced Transformer Models
+
 
 <div align="center">
  
