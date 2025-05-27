@@ -6,7 +6,7 @@ license: PolyForm
 alignment: Model-Universal
 taxonomy: Recursive Diagnostic Interpretability Shells
 compatibility:
- - Gemini / OpenAI ChatGPT / DeepSeek / XAI Grok / Claude
+ - Gemini / OpenAI ChatGPT / DeepSeek / Grok / Claude
 
 # Pareto-lang.py ΩRecursive Shells 
 # Frontier-ready, plug-and-play, recursive evolution architecture
