@@ -1,14 +1,18 @@
 
 ### [**`Hugging Face Repo`**](https://huggingface.co/caspiankeyes/Symbolic-Residue)
 
-## Inspired by Thomas Edison
 # Symbolic Residue (Σ)
-
+> 
 > ## Σ = C(S + E)^r
-# The Fundamental Diagnostic Theory of Failure in Advanced Transformer Models
-> ## Recursive Shells:
 >
+> 
+
+
+# The Fundamental Diagnostic Theory of Failure in Advanced Transformer Models
+> ## [Recursive Shells](https://github.com/caspiankeyes/Symbolic-Residue/tree/main/Recursive%20Shells):
+> 
 > ## Agentic Biological Knockout Experiments
+
 
 <div align="center">
  
@@ -17,6 +21,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01234-b31b1b.svg)](https://arxiv.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://zenodo.org/records/15485052)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
+
+## "I have not failed. I've just found 10,000 ways that won't work."
+
+## Thomas Edison 
 
 ## **─ What If Interpretation Itself is Biased By Internal Salience and Conflict Resolution? ─**
 
