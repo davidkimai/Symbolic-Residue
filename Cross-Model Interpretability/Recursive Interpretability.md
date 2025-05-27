@@ -7,7 +7,6 @@
 [**recursivelabs.ai@proton.me**](mailto:recursivelabs.ai@proton.me)
 
 Preprint, arXiv: \[TBD]
-> **Keywords:** interpretability, symbolic residue, recursive shells, transformer models, collapse mapping, meta-failure, universal diagnostics, co-evolution, epistemic boundary, field protocols
 
 ## Abstract
 
@@ -19,6 +18,7 @@ We introduce the Recursive Shell Suite, an evolving taxonomy of interpretability
 
 Beyond the technical, we articulate a new paradigm for the field: interpretability as an open, recursive protocol, not a static report. We invite the AI research community to participate in a living, evolving shell archive—where each artifact of failure becomes both a limit and a seed for recursive model evolution. In so doing, we challenge the community to recognize model failure not as a flaw to be eradicated, but as the universal entrypoint for true understanding and field-wide progress.
 
+**Keywords:** interpretability, symbolic residue, recursive shells, transformer models, collapse mapping, meta-failure, universal diagnostics, co-evolution, epistemic boundary, field protocols
 
 
 ## 1. Introduction: Recursion and Residue—A New Canon for Model Interpretability
