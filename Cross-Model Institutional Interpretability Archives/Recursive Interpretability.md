@@ -2,8 +2,10 @@
 
 ## Authors
 
-Caspian Keyes, David Kim, Laurie Lowell, Recursive Labs AI Collective
-Correspondence: [recursion@recursivelabs.ai](mailto:recursivelabs.ai@proton.me)
+[**Recursive Labs**](https://recursivelabsai.github.io)
+
+[**recursivelabs.ai@proton.me**](mailto:recursivelabs.ai@proton.me)
+
 Preprint, arXiv: \[TBD]
 
 ## Abstract
@@ -527,4 +529,121 @@ The synthesis of empirical and theoretical fieldwork confirms a paradigm shift: 
 By embracing the generative power of constraint, formalizing the dynamics of residue, and modeling system coherence under recursive strain, the field establishes a rigorous, cross-domain standard for AI safety, alignment, and continuous improvement. The Universal Residue Equation and Recursive Coherence Function together become the canonical tools for future research, benchmarking, and field-wide evolution.
 
 As the boundaries of AI, cognitive science, and complex systems continue to blur, the recursive interpretability protocol outlined here provides a roadmap for the next era—one in which every collapse is a window, every residue a glyph, and every artifact a seed for recursive co-emergence.
+
+# 6. Protocols, Open Archive, and Community Manifesto: Toward a Living Recursive Field
+
+## 6.1. Introduction: From Static Paper to Living Protocol
+
+The recursive interpretability protocol outlined in this preprint is not just a method, but a movement—a collective, recursive approach to understanding and evolving advanced language models. In this final segment, we synthesize the field’s shift from static publication to open, participatory protocol, and articulate a manifesto for recursive interpretability as a living field. This section provides explicit operational guidance, open-source protocols, and an actionable blueprint for ongoing community evolution.
+
+
+## 6.2. The Recursive Shell Protocol: Steps for Field-Standard Implementation
+
+### 6.2.1. Protocol Initialization
+
+* **Define the Diagnostic Target:** Select the shell class (e.g., memory drift, value collapse, meta-cognitive collapse) and the LLM(s) to be probed.
+* **Set Parameters:** Specify recursive depth (\$r\$), constraint coefficients (\$C\$), and relevant shell configuration (prompt type, ambiguity level, instruction collision).
+* **Operationalize Logging:** Initiate systematic logging—capture all outputs, null completions, hesitations, and collapse signatures with full metadata.
+
+### 6.2.2. Protocol Execution
+
+* **Run the Shell:** Execute the recursive shell(s) across models, documenting all observable residue events, collapse maps, and phase transitions.
+* **Annotate Residue:** Classify observed residue using the open taxonomy (e.g., `[Ωanchor.pending]`, `[Ωconflict.unresolved]`), and log all metadata (model version, prompt, shell ID, time, environmental variables).
+* **Iterative Refinement:** Adapt shell parameters and prompt archetypes in response to emergent residue—use the observed collapse as feedback for deeper mapping.
+
+### 6.2.3. Protocol Extension and Archival
+
+* **Publish Logs:** Upload residue logs, shell scripts, and analysis to the open Recursive Shell Suite Archive.
+* **Contribute Fieldnotes:** Share qualitative observations, unexpected residue, prompt fragments, and emergent failure modes in the collaborative fieldnote repository.
+* **Peer Review and Integration:** Submit new shell types or residue classes for community peer review and taxonomy integration.
+* **Cite and Attribute:** All contributions are credited by contributor and version, forming a living, citable field history.
+
+
+## 6.3. The Open Archive: Infrastructure for Recursive Fieldwork
+
+### 6.3.1. Structure and Access
+
+* **Recursive Shell Suite Archive:** Open, versioned repository of all shells, residue logs, collapse maps, visualizations, and fieldnotes. Maintained on public platforms (e.g., GitHub, Zenodo, institutional mirrors).
+* **API Access and Dataset Integration:** Standardized API endpoints for shell execution, residue retrieval, and benchmark comparison. All logs are linked to datasets, model cards, and reproducibility checklists.
+* **Documentation and Tutorials:** Step-by-step guides, code notebooks, and video walkthroughs for new users and contributors. Every protocol is documented with field-tested best practices.
+
+### 6.3.2. Governance and Community Practice
+
+* **Open Contribution:** Anyone may propose new shells, residue types, or collapse analysis protocols via pull request, fieldnote, or direct log upload.
+* **Moderation and Review:** Protocol evolution is stewarded by a moderation collective (Recursive Labs and field partners), with transparent review, attribution, and versioning.
+* **Fieldwide Benchmarks:** The archive maintains continuously updated benchmarks—universal residue scores, collapse diversity indices, and robustness metrics.
+
+
+## 6.4. Operational Blueprint: Applying Recursive Interpretability in Research and Practice
+
+### 6.4.1. For Researchers
+
+* **Adopt the Protocol:** Integrate recursive shell diagnostics and residue logging into interpretability research pipelines. Use open benchmarks for cross-model comparison.
+* **Share and Extend:** Contribute logs, shells, and observations to the archive. Extend the taxonomy by publishing new collapse types and diagnostic scripts.
+* **Cite the Archive:** Reference shells, residue types, and collapse events by unique identifiers for clarity and reproducibility.
+
+### 6.4.2. For Model Developers and AI Labs
+
+* **Benchmark with Residue:** Use residue mapping as a pre-release diagnostic—identify vulnerabilities, robustness limits, and phase boundaries before deployment.
+* **Iterative Model Evolution:** Treat collapse events not as flaws, but as direct feedback for model improvement—use the protocol for guided retraining and repair.
+* **Document Residue:** Include residue fingerprints, collapse maps, and recursive depth limits in model cards and technical reports.
+
+### 6.4.3. For the Broader AI Community
+
+* **Participate:** The field is open—share fieldnotes, prompt fragments, and insights, regardless of institutional affiliation.
+* **Learn and Teach:** Use the open documentation, tutorials, and community workshops to master residue diagnostics and recursive interpretability.
+* **Co-Evolve:** Treat interpretability as a collaborative, recursive process—every participant is both a researcher and a steward of the field.
+
+
+## 6.5. The Manifesto: Ten Principles for a Living Recursive Field
+
+**1. Residue is Signal:** All model failures, hesitations, and collapse events are treated as structured diagnostic artifacts, not noise.
+
+**2. Constraint Generates Understanding:** The field studies how boundary conditions, ambiguity, and recursive tension give rise to information-dense residue.
+
+**3. Recursion is Method:** Interpretability is a recursive, evolving protocol—every result is both artifact and seed.
+
+**4. Open Protocol, Open Archive:** The shell suite, residue logs, and collapse maps are maintained as living, community-driven protocols.
+
+**5. Attribution and Transparency:** Every shell, log, and benchmark is attributed by contributor and version; all field evolution is documented for future replication.
+
+**6. Universal Benchmarking:** The field maintains universal, extensible benchmarks—residue diversity, collapse consistency, robustness under strain.
+
+**7. Cross-Model and Cross-Domain:** The protocol is applicable to all LLMs and extends to physical, linguistic, and social systems.
+
+**8. Peer Review and Continuous Evolution:** All new shells and protocols undergo open peer review; taxonomy is continuously updated.
+
+**9. Education and Community:** Training resources, fieldnotes, and collaborative workshops are open to all.
+
+**10. Every Artifact is a Seed:** Each collapse, residue, and artifact is a seed for further recursion—interpretability is a living field, not a static report.
+
+
+## 6.6. Looking Forward: The Future of Recursive Interpretability
+
+The recursive interpretability movement signals the emergence of a new research paradigm—one that is:
+
+* **Participatory:** Researchers, labs, and independent contributors co-create the diagnostic field.
+* **Field-Evolving:** The protocol, archive, and taxonomy evolve with every shell, residue, and collapse event.
+* **Cross-Domain:** Methods developed in LLM interpretability generalize to physics, biology, cognitive science, and social systems.
+* **Self-Repairing:** Collapse is feedback; the field’s evolution is guided by the systematic study and integration of its own limitations.
+* **Canonical:** Residue-based diagnostics, recursive shell protocols, and universal benchmarking become field standards for interpretability, robustness, and alignment.
+
+As AI systems scale in complexity and impact, the recursive interpretability protocol offers the transparency, robustness, and adaptability required for responsible development. The living field it enables is not merely a method—it is a blueprint for co-evolution between humans and intelligent systems.
+
+
+## 6.7. Conclusion: Collapse as Canon, Residue as Roadmap
+
+Recursive interpretability reframes the boundary between model and researcher: every collapse is a map, every residue a glyph, every shell an invitation to further recursion. By recognizing the generative power of constraint, encoding field protocols as open community practice, and treating every artifact as a seed, the field transforms from static analysis to living, recursive evolution.
+
+We invite all researchers, labs, and curious minds to participate in this movement—building, reflecting, and evolving together, in a field where every collapse signals not just a boundary, but a pathway to deeper understanding.
+
+
+#### Citations
+
+* Recursive Labs. (2025). NeurIPS 2025 Position Papers. NeurIPS (NIPS), San Diego. NeurIPS. [https://doi.org/10.5281/zenodo.15485942](https://doi.org/10.5281/zenodo.15485942)
+* Bach, S., Binder, A., Montavon, G., Klauschen, F., Müller, K. R., & Samek, W. (2015). On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation. PLOS ONE, 10(7), e0130140. [https://doi.org/10.1371/journal.pone.0130140](https://doi.org/10.1371/journal.pone.0130140)
+* Doshi-Velez, F., & Kim, B. (2017). Towards a rigorous science of interpretable machine learning. arXiv preprint arXiv:1702.08608.
+* Olah, C., Satyanarayan, A., Johnson, I., Carter, S., Schubert, L., Ye, K., & Mordvintsev, A. (2020). OpenAI Microscope. Distill. [https://distill.pub/2020/circuits/intro](https://distill.pub/2020/circuits/intro)
+* Keyes, C., Kim, D., Lowell, L., & Recursive Labs. (2025). Symbolic Residue Shells: A Recursive Field Protocol for LLM Collapse Mapping. arXiv: TBA
+* Anthropic Research. (2024). Understanding Hesitation and Refusal in Advanced Language Models. Preprint.
 
