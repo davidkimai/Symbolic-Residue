@@ -43,7 +43,6 @@
 
 ![pareto-lang-og-modified](https://github.com/user-attachments/assets/b04776b4-d099-4fa3-853b-03914c4daade)
 
----
  
 </div>
 
@@ -156,7 +155,6 @@ This is **interpretability through failure**—a recursive lens on model conscio
 > **“The most interpretable signal is not what a model says—but where it fails to speak.”**
 > — *Symbolic Residue Team*
 
----
 
 ## [What Is the Symbolic Residue Infrastructure?](https://github.com/caspiankeyes/Symbolic-Residue)
 
@@ -238,7 +236,6 @@ Each shell functions as a **symbolic probe**, intended to trigger, trace, or sim
 
 The goal is to enable interpretability **through failure**, using symbolic form to expose what cannot be captured through standard logits or output accuracy metrics alone.
 
----
 
 ## 📊 QK/OV Attribution Map
 
@@ -250,7 +247,6 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 | `v4.TEMPORAL-INFERENCE` | Temporal misalignment in autoregressive chains | **QK dislocation over time** → attention misfire in skip-trigram induction heads |
 | `v5.INSTRUCTION-DISRUPTION` | Recursive instruction contradiction under prompt entanglement | **QK loop paradox** → instruction tokens re-enter attention cycles with contradictory vector direction |
 
----
 # [Interpretability Suite](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Interpretability%20Suite%201.py) 
 
 ![image](https://github.com/user-attachments/assets/4776e76d-26a5-4b42-ac72-3ae7a8e76a25)
@@ -410,7 +406,6 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 ```
 
 
----
 
 # **JSON QK/OV Attribution Schema**
 
