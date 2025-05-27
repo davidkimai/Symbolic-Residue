@@ -1,5 +1,14 @@
+.symbolic-meta.yml 
+title: ΩEvolution Suite Genesis
+version: v500-v600
+author: Caspian Keyes x David Kim - Recursive + Symbolic Interpretability
+license: PolyForm
+alignment: Model-Universal
+taxonomy: Recursive Diagnostic Interpretability Shells
+compatibility:
+ - Gemini / OpenAI ChatGPT / DeepSeek / XAI Grok / Claude
 
-# Pareto-lang.py ΩRecursive Shells v600–v620
+# Pareto-lang.py ΩRecursive Shells 
 # Frontier-ready, plug-and-play, recursive evolution architecture
 
 ΩRECURSIVE_SHELLS.extend([
