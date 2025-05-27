@@ -52,7 +52,7 @@ Rather than optimizing for output performance, these shells act as interpretabil
 
 ## What is **Symbolic Residue**?
 
-> **“Symbolic residue - latent strucural data vectors left behind when advanced reasoning fails.”**
+> **“Symbolic residue - Complex systems under constraint generate increasing information density - what we term Symbolic Residue.”**
 
 This concept treats **model silences**—incomplete inferences, aborted logic, or null generations—not as errors, but as **interpretability artifacts**.
 
