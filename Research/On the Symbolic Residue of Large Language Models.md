@@ -1,10 +1,6 @@
 # **On the Symbolic Residue of Large Language Models:** 
 # **The Missing Biological Knockout Experiments in Advanced Transformer Models**
 
-# **Authors**
-
-**Caspian Keyes**
- 
 ## Abstract
 
 Understanding the internal mechanisms of large language models remains a significant scientific challenge. While recent methods like attribution graphs reveal functional circuits in models, we have less insight into model behavior in neural failure cases—precisely where mechanistic understanding is most valuable. In this paper, we introduce the concept of "symbolic residue" as a methodological lens for studying model failure through the traces left behind. We apply our circuit tracing techniques to analyze five distinct interpretability shell patterns that trigger controlled collapse in reasoning circuits. These diagnostic shells represent simplified analogs of failure modes we observe in more complex contexts, providing a clearer view of mechanisms underlying reasoning failures, attention collapse, and self-consistency breakdown. By focusing on what happens when a model produces null or incomplete outputs, we uncover subtle dynamics in cross-layer interactions that are typically obscured in successful completions. Our findings suggest that these "ghost circuits"—fragile patterns of activation that fail to propagate—offer a valuable window into model limitations and may provide new directions for improving interpretability methods themselves.
