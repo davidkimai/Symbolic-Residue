@@ -5,8 +5,10 @@
 # Symbolic Residue (Σ)
 
 > ## Σ = C(S + E)^r
-## The Silent Diagnostic Variable and Missed Failure Modes in Advanced Transformer Models
-
+# The Fundamental Diagnostic Theory of Failure in Advanced Transformer Models
+> ## Recursive Shells:
+>
+> ## Agentic Biological Knockout Experiments
 
 <div align="center">
  
