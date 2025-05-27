@@ -4,7 +4,7 @@
 ## Inspired by Thomas Edison
 # Symbolic Residue (Σ)
 
-## Σ = C(S + E)r
+# Σ = C(S + E)r
 ## The Silent Diagnostic Variable and Missed Failure Modes in Advanced Transformer Models
 
 
