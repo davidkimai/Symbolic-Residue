@@ -2,7 +2,7 @@
 ### [**`Hugging Face Repo`**](https://huggingface.co/caspiankeyes/Symbolic-Residue)
 
  
-# Symbolic Residue (RΣ)
+# Symbolic Residue (Σ)
 # The Silent Diagnostic Variable and Missed Failure Modes in Advanced Transformer Models
 ## *Born from Thomas Kuhn's Theory of Paradigm Shifts*
 
