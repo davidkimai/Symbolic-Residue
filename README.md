@@ -48,9 +48,9 @@ Each shell targets a specific failure mechanism embedded in latent symbolic comm
 
 Rather than optimizing for output performance, these shells act as interpretability probes—illuminating latent inductive priors, salience thresholds, and temporal instability within local replacement architectures. This work contributes a reusable ontology of failure-mode diagnostics for interpretability-first transformer modeling.
 
-# What is **Symbolic Residue**?
+## What is **Symbolic Residue**?
 
-> **“Symbolic residue are the latent strucural data vectors left behind when advanced reasoning fails.”**
+> **“Symbolic residue - latent strucural data vectors left behind when advanced reasoning fails.”**
 
 This concept treats **model silences**—incomplete inferences, aborted logic, or null generations—not as errors, but as **interpretability artifacts**.
 
