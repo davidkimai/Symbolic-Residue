@@ -3,7 +3,7 @@
 ## Authors
 
 Caspian Keyes, David Kim, Laurie Lowell, Recursive Labs AI Collective
-Correspondence: [recursion@recursivelabs.ai](mailto:recursion@recursivelabs.ai)
+Correspondence: [recursion@recursivelabs.ai](mailto:recursivelabs.ai@proton.me)
 Preprint, arXiv: \[TBD]
 
 ## Abstract
