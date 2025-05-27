@@ -61,7 +61,7 @@ Rather than optimizing for output performance, these shells act as interpretabil
 
 ## What is **Symbolic Residue**?
 
-> **“Symbolic residue - Complex systems under constraint generate increasing information density - what we term Symbolic Residue.”**
+> **“Complex systems under constraint generate increasing information density - what we term Symbolic Residue.”**
 
 This concept treats **model silences**—incomplete inferences, aborted logic, or null generations—not as errors, but as **interpretability artifacts**.
 
