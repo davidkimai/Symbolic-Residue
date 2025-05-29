@@ -1,8 +1,5 @@
 
-### [**`Hugging Face Repo`**](https://huggingface.co/caspiankeyes/Symbolic-Residue)
-
 # [Symbolic Residue (Σ)](https://claude.ai/public/artifacts/4a6b4345-0b19-4890-9f83-c511cc53b6a7)
-## [Residue Explorer](https://claude.ai/public/artifacts/4a6b4345-0b19-4890-9f83-c511cc53b6a7)
 > 
 > ## Σ = C(S + E)^r
 >
@@ -13,6 +10,10 @@
 > ## [Recursive Shells](https://github.com/caspiankeyes/Symbolic-Residue/tree/main/Recursive%20Shells):
 > 
 > ## Agentic Biological Knockout Experiments
+
+### [**`Hugging Face Repo`**](https://huggingface.co/caspiankeyes/Symbolic-Residue)
+## [Residue Explorer](https://claude.ai/public/artifacts/4a6b4345-0b19-4890-9f83-c511cc53b6a7)
+
 
 
 <div align="center">
