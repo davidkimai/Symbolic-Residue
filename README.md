@@ -14,13 +14,15 @@
 ### [**`Hugging Face Repo`**](https://huggingface.co/recursivelabsai/Symbolic-Residue)
 ## [Residue Explorer](https://claude.ai/public/artifacts/4a6b4345-0b19-4890-9f83-c511cc53b6a7)
 
-
+https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Research/On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md
 
 <div align="center">
+
+[![Preprint](https://img.shields.io/badge/Preprint-2504.01234-b31b1b.svg)](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Research/On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
  
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![arXiv](https://img.shields.io/badge/arXiv-2504.01234-b31b1b.svg)](https://arxiv.org/)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://zenodo.org/records/15485052)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
 
