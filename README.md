@@ -14,8 +14,6 @@
 ### [**`Hugging Face Repo`**](https://huggingface.co/recursivelabsai/Symbolic-Residue)
 ## [Residue Explorer](https://claude.ai/public/artifacts/4a6b4345-0b19-4890-9f83-c511cc53b6a7)
 
-https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Research/On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md
-
 <div align="center">
 
 [![Preprint](https://img.shields.io/badge/Preprint-2504.01234-b31b1b.svg)](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Research/On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
