@@ -6,7 +6,7 @@
 > 
 
 
-# The Fundamental Diagnostic Theory of Failure in Advanced Transformer Models
+# A Diagnostic Microscope of Failure in Advanced Transformer Models
 > ## [Recursive Shells](https://github.com/caspiankeyes/Symbolic-Residue/tree/main/Recursive%20Shells):
 > 
 > ## Agentic Biological Knockout Experiments
