@@ -18,10 +18,10 @@
 
 [![Preprint](https://img.shields.io/badge/Preprint-2504.01234-b31b1b.svg)](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Research/On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
  
-[![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
-[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: MIT](https://img.shields.io/badge/Code-MIT-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![LICENSE: CC BY 4.0](https://img.shields.io/badge/Docs-CC--BY--4.0-turquoise.svg)](https://creativecommons.org/licenses/by/4.0/deed.en)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://zenodo.org/records/15485052)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](10.5281/zenodo.15485942)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
 
 ## "I have not failed. I've just found 10,000 ways that won't work."
