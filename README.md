@@ -162,7 +162,7 @@ This is **interpretability through failure**—a recursive lens on model conscio
 
 ## [What Is the Symbolic Residue Infrastructure?](https://github.com/caspiankeyes/Symbolic-Residue)
 
-#### A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main), the Interpretability Infractureu operates by inducing:
+#### A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang), the Interpretability Infractureu operates by inducing:
 ```yaml
 Null traces
 
@@ -209,11 +209,11 @@ Would these shells enable next-gen adversarial interpretability without triggeri
 ```
 ## Core Threads in the Repo:
 
-[Interpretability Suites & QK/OV Atlas](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/01.%20Constitutional.py)
+[Interpretability Suites & QK/OV Atlas](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Recursive%20Shells/00.%20Genesis.py)
 
-[Recursive Shells for Interpretability](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.6.%20Recursive%20Shells%20in%20Claude.md)
+[Recursive Shells as Interpretability Probes](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Research/Recursive%20Shells%20as%20Symbolic%20Interpretability%20Probes.md)
 
-[Neural Attribution Maps](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.0.%20arXiv%3A%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
+[Neural Attribution Maps](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Research/On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 
 ## Final Intent
 
