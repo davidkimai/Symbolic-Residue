@@ -160,7 +160,7 @@ This is **interpretability through failure**—a recursive lens on model conscio
 
 ## [What Is the Symbolic Residue Infrastructure?](https://github.com/caspiankeyes/Symbolic-Residue)
 
-#### A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang), the Interpretability Infractureu operates by inducing:
+#### A complement to [`pareto-lang`](https://github.com/caspiankeyes/pareto-lang), the Interpretability Infrastructure operates by inducing:
 ```yaml
 Null traces
 
