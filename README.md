@@ -6,7 +6,7 @@
 > 
 
 
-# A Latent Space Microscope For Failure in Advanced Transformer Models
+# A Diagnostic Microscope For Failure in Advanced Transformer Models
 > ## [Recursive Shells](https://github.com/caspiankeyes/Symbolic-Residue/tree/main/Recursive%20Shells):
 > 
 > ## Agentic Biological Knockout Experiments
