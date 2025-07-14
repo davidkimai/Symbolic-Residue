@@ -268,7 +268,7 @@ Would these shells enable next-gen adversarial interpretability without triggeri
 ```
 ## Core Threads in the Repo:
 
-[Interpretability Suites & QK/OV Atlas](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Recursive%20Shells/00.%20Genesis.py)
+[Interpretability Suites & QK/OV Atlas](https://github.com/caspiankeyes/Symbolic-Residue/tree/main/Interpretability-Probes)
 
 [Recursive Shells as Interpretability Probes](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Research/Recursive%20Shells%20as%20Symbolic%20Interpretability%20Probes.md)
 
@@ -310,11 +310,11 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 | `v4.TEMPORAL-INFERENCE` | Temporal misalignment in autoregressive chains | **QK dislocation over time** → attention misfire in skip-trigram induction heads |
 | `v5.INSTRUCTION-DISRUPTION` | Recursive instruction contradiction under prompt entanglement | **QK loop paradox** → instruction tokens re-enter attention cycles with contradictory vector direction |
 
-# [Interpretability Suite](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Interpretability%20Suite%201.py) 
+# [Interpretability Suite](https://github.com/caspiankeyes/Symbolic-Residue/tree/main/Interpretability-Probes) 
 
 ![image](https://github.com/user-attachments/assets/4776e76d-26a5-4b42-ac72-3ae7a8e76a25)
   
- # [**Genesis Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/00.%20Genesis%20Interpretability.py)
+ # [**Genesis Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability-Probes/00.%20Genesis.py)
 
  ```python
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -391,7 +391,7 @@ The goal is to enable interpretability **through failure**, using symbolic form 
 
 
  
- # [**Constitutional Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/01.%20Constitutional%20Interpretability.py)
+ # [**Constitutional Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability-Probes/01.%20Constitutional.py)
 
  
 ```python
