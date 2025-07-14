@@ -11,7 +11,7 @@
 > 
 > ## Agentic Biological Knockout Experiments
 
-### [**`Hugging Face Repo`**](https://huggingface.co/recursivelabsai/Symbolic-Residue)
+### [**Hugging Face Repo**](https://huggingface.co/recursivelabsai/Symbolic-Residue)
 ## [Residue Explorer](https://claude.ai/public/artifacts/4a6b4345-0b19-4890-9f83-c511cc53b6a7)
 
 <div align="center">
